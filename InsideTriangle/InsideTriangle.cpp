@@ -1,5 +1,6 @@
 #include<iostream>
 #include<math.h>
+#include<stdio.h>
 
 //方法1：面积法
 //若点p在三角形ABC内，则三角形ABP的面积+三角形BCP的面积和三角形CAP的面积=三角形ABC的面积
@@ -104,4 +105,6 @@ int main()
     Point A(-1,0),B(1,0),C(0,1),D(0,0.5);
     std::cout<<IsInTriangle(A,B,C,D)<<std::endl;//方法1
     std::cout<<IsInsideTriangle(A,B,C,D)<<std::endl;//方法2
-}
+
+    system("pause");
+} 
