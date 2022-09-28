@@ -17,8 +17,8 @@ private:
         data[len]='\0';
     }
 public:
-    my_string():data(nullptr),len(0){}
-    my_string(const char * p):len(strlen(p))
+    my_string():data{nullptr},len{0}{}
+    my_string(const char * p):len{strlen(p)}
     {
         init_data(p);
     }
@@ -77,7 +77,9 @@ public:
     char* get()const {return data;}
 } ;
 
-namespace std//对hash类模板进行针对my_string类型的模板特化,返回此类型的hashcode值。
+//对hash类模板进行针对my_string类型的模板全特化,返回此类型的hashcode值。
+//完成后即可将此类型的对象作为无序Set和Map的键值。
+namespace std
 {
     template<>
     struct hash<my_string>
