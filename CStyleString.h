@@ -64,8 +64,8 @@ int strcmp(const char* s1,const char* s2)
 char* strstr(char* str1,char* str2)
 {
     char* s=str1;
-    assert(str1!=NULL);
-    assert(str2!=NULL);
+    assert(str1!='\0');
+    assert(str2!='\0');
     if(*str2='\0')
         return NULL;
     while(*s!='\0')
@@ -80,4 +80,39 @@ char* strstr(char* str1,char* str2)
             return NULL;
         s++;
     } 
+}
+
+void* memcpy(void* dest,void* src,size_t num)
+{
+    void* ret=dest;
+    size_t i=0;
+    assert(src!=NULL);
+    assert(dest!=NULL);
+    for(i=0;i<num;i++)
+    {
+        *(char*)dest=*(char*)src;
+        dest=(char*)dest+1;
+        src=(char*)src+1;
+    }
+    return ret;
+}
+
+//考虑内存重叠的memcpy
+void* memmov(void* dest,void* src,size_t num)
+{
+    char* p1=(char*)dest;
+    char* p2=(char*)src;
+    if(p1<p2)
+    {
+        for(size_t i=0;i!=num;++i)
+            *(p1++)=*(p2++);
+    }
+    else
+    {
+        p1+=num-1;
+        p2+=num-1;
+        for(size_t i=0;i!=num;++i)
+            *(p1--)=*(p2--);
+    }
+    return dest;
 }
