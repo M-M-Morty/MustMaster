@@ -2,7 +2,6 @@
 #include<iostream>
 
 template <typename T,std::size_t Nm>
-
 struct my_array
 {
     typedef T                value_type;
