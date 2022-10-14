@@ -3,20 +3,28 @@
 using namespace std;
 
 
-//饿汉模式（本身线程安全）
-class SingleInstance
+//懒汉模式（线程不安全）:利用局部静态变量
+template<typename T>
+class SingleTon
 {
 public:
-    static SingleInstance* GetInstance()
+    static T& GetInstance()
     {
-        static SingleInstance ins;
-        return &ins;
+        static T ins;
+        return ins;
     }
-    ~SingleInstance(){};
 private:
-    SingleInstance() =default;
-    SingleInstance(const SingleInstance& other)=delete;
-    SingleInstance& operator=(const SingleInstance& other)=delete;
+    Singleton() =default;
+    Singleton(const SingleTon& other);
+    Singleton& operator=(const SingleTon& other);
+};
+
+//懒汉模式（线程不安全）:静态指针+用到时new
+template<typename T>
+class SingleTTon
+{
+public:
+    
 };
 
 
@@ -36,8 +44,6 @@ public:
         }
         return Instance;
     }
-    ~Singleton()=default;
-
     void Destory()
     {
         if(Instance!=nullptr)
@@ -47,8 +53,11 @@ public:
         }
     }
 
+    //或者定义一个内部类并
+
 private:
     Singleton()=default;
+    ~Singleton()=default;
 
     Singleton(const Singleton&) =delete;
     Singleton& operator=(const Singleton&) =delete;
