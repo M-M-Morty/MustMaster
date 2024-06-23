@@ -1,0 +1,104 @@
+{
+    "id": "68",
+    "transform": {
+        "translation": {
+            "x": 171069.81,
+            "y": 102477.0116,
+            "z": 18332.4297
+        },
+        "rotation": {
+            "x": 0.0064,
+            "y": 0.0517,
+            "z": 0.9912,
+            "w": 0.122
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "路点-Spline",
+    "description": "null",
+    "kinds": "null",
+    "author": "JINXL",
+    "version": "null",
+    "source": "puzzle_initial_data@10101",
+    "LuaID": 10101,
+    "UE5": {
+        "bSnapToFloor": {
+            "Type": "Boolean",
+            "Value": false
+        },
+        "eNPCMoveType": {
+            "Type": "Enum@E_NPCMoveType",
+            "Value": "TRIGGER_BY_MISSION@5"
+        },
+        "bMoveViaSpline": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "25C931DC4B02AFA72436C48FBCB40D0F"
+        },
+        "UE5Comps": {
+            "EndPoint": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -263.5391,
+                        "y": 450.4005,
+                        "z": 97.095
+                    }
+                }
+            },
+            "RootSphere": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 171069.81,
+                        "y": 102477.0116,
+                        "z": 18332.4297
+                    }
+                }
+            },
+            "StartPoint": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 307.0578,
+                        "y": 193.0799,
+                        "z": 77.8599
+                    }
+                }
+            }
+        },
+        "SplineNodeLocation": {
+            "Type": "SplineNodeLocation",
+            "Value": [
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 307.0578,
+                        "y": 193.0799,
+                        "z": 57.8599
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -263.5391,
+                        "y": 450.4005,
+                        "z": 77.095
+                    }
+                }
+            ]
+        }
+    },
+    "SuiteDir": "suite22"
+}

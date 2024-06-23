@@ -1,0 +1,51 @@
+{
+    "id": "2",
+    "transform": {
+        "translation": {
+            "x": -3986.0228,
+            "y": -8863.4703,
+            "z": 70.9916
+        },
+        "rotation": {
+            "x": 0.0108,
+            "y": 0.7369,
+            "z": 0.6758,
+            "w": 0.0099
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "闪烁灯",
+    "description": "null",
+    "kinds": "null",
+    "author": "vvtu",
+    "version": "null",
+    "source": "puzzle_initial_data@20061",
+    "LuaID": 20061,
+    "SuiteDir": "suite1",
+    "UE5": {
+        "Mode": {
+            "Type": "Enum@FlickeringLightMode",
+            "Value": "FLICKER_THEN_REBACK@3"
+        },
+        "Flicker_Time": {
+            "Type": "Float",
+            "Value": 10.0
+        },
+        "Flicker_Max_Intensity": {
+            "Type": "Float",
+            "Value": 100.0
+        },
+        "UE5Comps": {
+            "PointLight": {
+                "LightColor": {
+                    "Type": "StructBase@Color",
+                    "Value": "(B=255,G=159,R=0,A=255)"
+                }
+            }
+        }
+    }
+}

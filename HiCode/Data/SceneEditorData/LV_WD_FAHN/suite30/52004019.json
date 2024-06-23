@@ -1,0 +1,46 @@
+{
+    "id": "19",
+    "transform": {
+        "translation": {
+            "x": 166243.3545,
+            "y": 101519.6938,
+            "z": 20243.2046
+        },
+        "rotation": {
+            "x": -0.7063,
+            "y": -0.7072,
+            "z": 0.0256,
+            "w": 0.0193
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "常春花",
+    "description": "null",
+    "kinds": "null",
+    "author": "wensleyyu",
+    "version": "null",
+    "source": "puzzle_initial_data@52004",
+    "LuaID": 52004,
+    "UE5": {
+        "UE5Comps": {
+            "RootSphere": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 166243.3545,
+                        "y": 101519.6938,
+                        "z": 20243.2046
+                    }
+                },
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=-0.503030,Yaw=90.092787,Roll=176.363748)"
+                }
+            }
+        }
+    }
+}

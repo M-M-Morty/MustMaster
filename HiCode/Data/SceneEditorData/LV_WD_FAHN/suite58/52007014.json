@@ -1,0 +1,57 @@
+{
+    "id": "14",
+    "transform": {
+        "translation": {
+            "x": 151501.1356,
+            "y": 125522.4701,
+            "z": 21363.6355
+        },
+        "rotation": {
+            "x": 0.0895,
+            "y": -0.0114,
+            "z": 0.6883,
+            "w": 0.7198
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "红汁树",
+    "description": "null",
+    "kinds": "null",
+    "author": "halfsumluo",
+    "version": "null",
+    "source": "puzzle_initial_data@52007",
+    "LuaID": 52007,
+    "SuiteDir": "suite58",
+    "UE5": {
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "36E2C8E2477DDCBFBD0C3794806335FF"
+        },
+        "UE5Comps": {
+            "BillboardComponent": {
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=-6.126089,Yaw=93.016397,Roll=-8.357764)"
+                }
+            },
+            "RootSphere": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 151501.1356,
+                        "y": 125522.4701,
+                        "z": 21363.6355
+                    }
+                }
+            }
+        }
+    }
+}

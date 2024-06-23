@@ -1,0 +1,73 @@
+{
+    "id": "13",
+    "transform": {
+        "translation": {
+            "x": 159079.5084,
+            "y": 100047.2453,
+            "z": 18899.5597
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.8242,
+            "w": 0.5664
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "真视柱",
+    "description": "null",
+    "kinds": "null",
+    "author": "xiaoxiaopi",
+    "version": "null",
+    "source": "puzzle_initial_data@20003",
+    "transform_sightpillar": {
+        "translation": {
+            "x": 159079.5084,
+            "y": 100047.2453,
+            "z": 19596.9597
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.8242,
+            "w": 0.5664
+        },
+        "scale3D": {
+            "x": 0.2,
+            "y": 0.2,
+            "z": 0.2
+        }
+    },
+    "UE5": {
+        "BillboardScale": {
+            "Type": "Float",
+            "Value": 1.0
+        },
+        "bFront": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "UE5Comps": {
+            "Billboard": {
+                "RelativeScale3D": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 2.0,
+                        "y": 2.0,
+                        "z": 2.0
+                    }
+                }
+            },
+            "BillboardRoot": {
+                "bVisible": {
+                    "Type": "Boolean",
+                    "Value": false
+                }
+            }
+        }
+    }
+}

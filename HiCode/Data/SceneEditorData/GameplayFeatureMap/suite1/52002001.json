@@ -1,0 +1,41 @@
+{
+    "id": "1",
+    "transform": {
+        "translation": {
+            "x": -4143.538,
+            "y": 8316.9831,
+            "z": 157.7023
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "紫藤萝",
+    "description": "null",
+    "kinds": "null",
+    "author": "seekerma",
+    "version": "null",
+    "source": "puzzle_initial_data@52002",
+    "UE5": {
+        "UE5Comps": {
+            "RootSphere": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -4143.538,
+                        "y": 8316.9831,
+                        "z": 157.7023
+                    }
+                }
+            }
+        }
+    }
+}

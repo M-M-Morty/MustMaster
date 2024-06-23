@@ -1,0 +1,72 @@
+{
+    "id": "36",
+    "transform": {
+        "translation": {
+            "x": 155519.4788,
+            "y": 124665.7377,
+            "z": 20062.1348
+        },
+        "rotation": {
+            "x": 0.0045,
+            "y": -0.0045,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "无人机",
+    "description": "null",
+    "kinds": "null",
+    "author": "halfsumluo",
+    "version": "null",
+    "source": "puzzle_initial_data@20011",
+    "LuaID": 20011,
+    "SuiteDir": "suite59",
+    "UE5": {
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "20C51C15410049A14948099ECC2E68AE"
+        },
+        "UE5Comps": {
+            "RootSphere": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 155519.4788,
+                        "y": 124665.7377,
+                        "z": 20062.1348
+                    }
+                }
+            }
+        },
+        "SplineNodeLocation": {
+            "Type": "SplineNodeLocation",
+            "Value": [
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 100.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        }
+    }
+}

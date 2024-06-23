@@ -1,0 +1,28 @@
+{
+    "id": "5",
+    "transform": {
+        "translation": {
+            "x": 154847.5371,
+            "y": 119925.0772,
+            "z": 18854.5531
+        },
+        "rotation": {
+            "x": 0.035,
+            "y": -0.1258,
+            "z": -0.9552,
+            "w": 0.2657
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "皇菇",
+    "description": "null",
+    "kinds": "null",
+    "author": "xiaoxiaopi",
+    "version": "null",
+    "source": "puzzle_initial_data@52003",
+    "UE5": {}
+}

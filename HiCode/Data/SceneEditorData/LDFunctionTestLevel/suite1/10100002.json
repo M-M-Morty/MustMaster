@@ -1,0 +1,28 @@
+{
+    "id": "2",
+    "transform": {
+        "translation": {
+            "x": 1155.7258,
+            "y": 2007.1999,
+            "z": -0.5
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "路点",
+    "description": "null",
+    "kinds": "null",
+    "author": "xiaoxiaopi",
+    "version": "null",
+    "source": "puzzle_initial_data@10100",
+    "UE5": {}
+}

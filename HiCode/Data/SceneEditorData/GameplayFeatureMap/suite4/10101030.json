@@ -1,0 +1,115 @@
+{
+    "id": "30",
+    "transform": {
+        "translation": {
+            "x": 1534.68,
+            "y": 7619.4455,
+            "z": 421.9983
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "路点-Spline",
+    "description": "null",
+    "kinds": "null",
+    "author": "dougzhang",
+    "version": "null",
+    "source": "puzzle_initial_data@10101",
+    "LuaID": 10101,
+    "UE5": {
+        "cSegmentColor": {
+            "Type": "StructBase@LinearColor",
+            "Value": "(R=0.000000,G=0.450700,B=0.472200,A=0.014000)"
+        },
+        "bSnapToFloor": {
+            "Type": "Boolean",
+            "Value": false
+        },
+        "fSphereRadius": {
+            "Type": "Float",
+            "Value": 50.0
+        },
+        "eNPCMoveType": {
+            "Type": "Enum@E_NPCMoveType",
+            "Value": "BE_TRIGGER@0"
+        },
+        "bMoveViaSpline": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "UE5Comps": {
+            "EndPoint": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 9.3398,
+                        "y": -857.5409,
+                        "z": -249.0169
+                    }
+                }
+            },
+            "Spline": {
+                "EditorUnselectedSplineSegmentColor": {
+                    "Type": "StructBase@LinearColor",
+                    "Value": "(R=0.000000,G=0.450700,B=0.472200,A=0.014000)"
+                }
+            },
+            "StartPoint": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -94.5963,
+                        "y": 0.0,
+                        "z": -249.017
+                    }
+                }
+            }
+        },
+        "SplineNodeLocation": {
+            "Type": "SplineNodeLocation",
+            "Value": [
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -94.5963,
+                        "y": 0.0,
+                        "z": -269.017
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 1231.4366,
+                        "y": 0.0,
+                        "z": -269.0169
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 1231.4366,
+                        "y": -877.8495,
+                        "z": -269.0169
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 9.3398,
+                        "y": -857.5409,
+                        "z": -269.0169
+                    }
+                }
+            ]
+        }
+    }
+}

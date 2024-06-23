@@ -1,0 +1,30 @@
+{
+    "id": "55",
+    "transform": {
+        "translation": {
+            "x": 167049.4463,
+            "y": 101717.9032,
+            "z": 18534.3946
+        },
+        "rotation": {
+            "x": 0.1676,
+            "y": 0.0971,
+            "z": 0.492,
+            "w": 0.8488
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "可破碎物-木箱",
+    "description": "null",
+    "kinds": "null",
+    "author": "tiezhengwu",
+    "version": "null",
+    "source": "puzzle_initial_data@530001",
+    "LuaID": 530001,
+    "SuiteDir": "suite13",
+    "UE5": {}
+}

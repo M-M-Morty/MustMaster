@@ -1,0 +1,51 @@
+{
+    "id": "75",
+    "transform": {
+        "translation": {
+            "x": 158116.9703,
+            "y": 103677.5748,
+            "z": 19977.31
+        },
+        "rotation": {
+            "x": 0.1105,
+            "y": 0.06,
+            "z": 0.4733,
+            "w": 0.8719
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "宝箱 (初级)",
+    "description": "null",
+    "kinds": "null",
+    "author": "JINXL",
+    "version": "null",
+    "source": "puzzle_initial_data@50000",
+    "LuaID": 50000,
+    "UE5": {
+        "SplineNodeLocation": {
+            "Type": "SplineNodeLocation",
+            "Value": [
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -88.405,
+                        "y": -0.9603,
+                        "z": 31.0381
+                    }
+                }
+            ]
+        }
+    }
+}

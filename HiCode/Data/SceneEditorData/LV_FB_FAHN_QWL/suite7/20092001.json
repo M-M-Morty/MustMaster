@@ -1,0 +1,57 @@
+{
+    "id": "1",
+    "transform": {
+        "translation": {
+            "x": -948.3465,
+            "y": 26598.0443,
+            "z": 5304.2607
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "蔷薇领-大气球",
+    "description": "null",
+    "kinds": "null",
+    "author": "johnyou",
+    "version": "null",
+    "source": "puzzle_initial_data@20092",
+    "LuaID": 20092,
+    "SuiteDir": "suite7",
+    "UE5": {
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "C67CCD154B00D53547DB188DC1E76325"
+        },
+        "UE5Comps": {
+            "RootSphere": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -948.3465,
+                        "y": 26598.0443,
+                        "z": 5304.2607
+                    }
+                }
+            },
+            "StaticMesh": {
+                "BodyInstance": {
+                    "Type": "StructBase@BodyInstance",
+                    "Value": "(ObjectType=ECC_WorldStatic,CollisionEnabled=NoCollision,SleepFamily=Normal,DOFMode=Default,bUseCCD=False,bIgnoreAnalyticCollisions=False,bNotifyRigidBodyCollision=False,bSmoothEdgeCollisions=False,bLockTranslation=True,bLockRotation=True,bLockXTranslation=False,bLockYTranslation=False,bLockZTranslation=False,bLockXRotation=False,bLockYRotation=False,bLockZRotation=False,bOverrideMaxAngularVelocity=False,bOverrideMaxDepenetrationVelocity=False,bOverrideWalkableSlopeOnInstance=False,bInterpolateWhenSubStepping=False,bInertiaConditioning=True,CollisionProfileName=\"NoCollision\",PositionSolverIterationCount=8,VelocitySolverIterationCount=1,CollisionResponses=(ResponseArray=((Channel=\"Visibility\",Response=ECR_Ignore),(Channel=\"Camera\",Response=ECR_Ignore))),MaxDepenetrationVelocity=0.000000,MassInKgOverride=100.000000,LinearDamping=0.010000,AngularDamping=0.000000,CustomDOFPlaneNormal=(X=0.000000,Y=0.000000,Z=0.000000),COMNudge=(X=0.000000,Y=0.000000,Z=0.000000),MassScale=1.000000,InertiaTensorScale=(X=1.000000,Y=1.000000,Z=1.000000),WalkableSlopeOverride=(WalkableSlopeBehavior=WalkableSlope_Default,WalkableSlopeAngle=0.000000),PhysMaterialOverride=None,MaxAngularVelocity=3600.000000,CustomSleepThresholdMultiplier=1.000000,StabilizationThresholdMultiplier=1.000000,PhysicsBlendWeight=0.000000,bSimulatePhysics=False,bOverrideMass=False,bEnableGravity=True,bUpdateKinematicFromSimulation=False,bAutoWeld=True,bStartAwake=True,bGenerateWakeEvents=False,bUpdateMassWhenScaleChanges=True)"
+                }
+            }
+        }
+    }
+}

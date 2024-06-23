@@ -1,0 +1,29 @@
+{
+    "id": "1",
+    "transform": {
+        "translation": {
+            "x": 245.009,
+            "y": 11317.6443,
+            "z": 55.0001
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "矿工pika",
+    "description": "null",
+    "kinds": "null",
+    "author": "xaelpeng",
+    "version": "null",
+    "source": "puzzle_initial_data@41005",
+    "LuaID": 41005,
+    "UE5": {}
+}

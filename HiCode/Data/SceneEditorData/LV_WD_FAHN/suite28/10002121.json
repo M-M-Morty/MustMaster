@@ -1,0 +1,35 @@
+{
+    "id": "121",
+    "transform": {
+        "translation": {
+            "x": 166728.6658,
+            "y": 101562.2366,
+            "z": 17090.5256
+        },
+        "rotation": {
+            "x": 0.0082,
+            "y": 0.0095,
+            "z": 0.7579,
+            "w": 0.6522
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "圆型触发器（无特效）",
+    "description": "null",
+    "kinds": "null",
+    "author": "tiezhengwu",
+    "version": "null",
+    "source": "puzzle_initial_data@10002",
+    "LuaID": 10002,
+    "SuiteDir": "suite28",
+    "UE5": {
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": false
+        }
+    }
+}

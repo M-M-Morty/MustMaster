@@ -1,0 +1,135 @@
+{
+    "id": 1,
+    "transform": {
+        "translation": {
+            "x": -6031.4173,
+            "y": -13030.9831,
+            "z": -0.5
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "无人机",
+    "monsterid": [],
+    "description": "null",
+    "kinds": "null",
+    "diaoluo": "null",
+    "dropid": "null",
+    "guaiwu": "null",
+    "birthaction": [],
+    "hatred": "null",
+    "patrolpath": [],
+    "hatredrange": "null",
+    "triggerrange": "null",
+    "author": "xiaoxiaopi",
+    "version": "null",
+    "source": "puzzle_initial_data@20011",
+    "UE5": {
+        "NeedTrigger": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "SplineNodeLocation": {
+            "Type": "SplineNodeLocation",
+            "Value": [
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 0.01,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 100.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 100.0,
+                        "y": 0.0,
+                        "z": 20.0
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 100.0,
+                        "y": 0.0,
+                        "z": 230.0
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 100.0,
+                        "y": 0.0,
+                        "z": 440.0
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 100.0,
+                        "y": 0.0,
+                        "z": 500.0
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 179.9987,
+                        "y": 0.0,
+                        "z": 569.7185
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 359.9908,
+                        "y": 0.0,
+                        "z": 568.0293
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 529.9833,
+                        "y": 0.0,
+                        "z": 566.434
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 649.978,
+                        "y": 0.0,
+                        "z": 565.308
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 649.978,
+                        "y": 0.0,
+                        "z": 565.308
+                    }
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "id": "1",
+    "transform": {
+        "translation": {
+            "x": 161497.2991,
+            "y": 100975.8419,
+            "z": 18883.1478
+        },
+        "rotation": {
+            "x": 0.0134,
+            "y": -0.0344,
+            "z": -0.931,
+            "w": 0.3632
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "电话卡4号",
+    "description": "null",
+    "kinds": "null",
+    "author": "guettazhang",
+    "version": "null",
+    "source": "puzzle_initial_data@530010",
+    "LuaID": 530010,
+    "SuiteDir": "suite1",
+    "UE5": {
+        "sUIPick": {
+            "Type": "String",
+            "Value": "电话卡"
+        },
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": false
+        },
+        "UE5Comps": {
+            "BillboardComponent": {
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=2.862373,Yaw=-42.545410,Roll=3.117559)"
+                }
+            },
+            "Sphere": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -0.0022,
+                        "y": -4.427,
+                        "z": -59.8365
+                    }
+                }
+            }
+        }
+    }
+}

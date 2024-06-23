@@ -1,0 +1,35 @@
+{
+    "id": "1",
+    "transform": {
+        "translation": {
+            "x": 638.1317,
+            "y": -6052.2262,
+            "z": 14.5049
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "电话卡1号",
+    "description": "null",
+    "kinds": "null",
+    "author": "guettazhang",
+    "version": "null",
+    "source": "puzzle_initial_data@530007",
+    "LuaID": 530007,
+    "SuiteDir": "suite1",
+    "UE5": {
+        "sUIPick": {
+            "Type": "String",
+            "Value": "电话卡"
+        }
+    }
+}

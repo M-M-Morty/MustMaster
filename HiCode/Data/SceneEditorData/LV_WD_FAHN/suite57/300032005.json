@@ -1,0 +1,65 @@
+{
+    "id": "5",
+    "transform": {
+        "translation": {
+            "x": 128875.4539,
+            "y": 106591.1852,
+            "z": 18775.802
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "NPCPIKA",
+    "description": "null",
+    "kinds": "null",
+    "author": "aiaswu",
+    "version": "null",
+    "source": "npc_base_data@300032",
+    "LuaID": 300032,
+    "SuiteDir": "suite57",
+    "UE5": {
+        "CharCamp": {
+            "Type": "Enum@Enum_CharCamp",
+            "Value": "CAMP_OBJECTS_ATTACKABLE@4"
+        },
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "EE9F7FC04208AFEE75F923864E4C22FE"
+        },
+        "UE5Comps": {
+            "CharacterMesh0": {
+                "AnimationData": {
+                    "Type": "StructBase@SingleAnimationPlayData",
+                    "Value": "(AnimToPlay=\"/Script/Engine.AnimSequence'/Game/Character/Monster/Pika/Animation/Locomotion/pika_balanceBike_idle_peace.pika_balanceBike_idle_peace'\",bSavedLooping=True,bSavedPlaying=True,SavedPosition=0.000000,SavedPlayRate=1.000000)"
+                }
+            },
+            "CollisionCylinder": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 128875.4539,
+                        "y": 106591.1852,
+                        "z": 18775.802
+                    }
+                },
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=0.000000,Yaw=-90.000000,Roll=-0.000000)"
+                }
+            }
+        }
+    }
+}

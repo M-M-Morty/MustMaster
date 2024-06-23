@@ -1,0 +1,48 @@
+{
+    "id": "83",
+    "transform": {
+        "translation": {
+            "x": 5448.9054,
+            "y": -8551.3386,
+            "z": 102.505
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "CP001幽灵",
+    "description": "null",
+    "kinds": "null",
+    "author": "seekerma",
+    "version": "null",
+    "sourcepath": "GameplayFeatureMap/suite1",
+    "source": "puzzle_initial_data@20000",
+    "LuaID": 20000,
+    "SuiteDir": "suite1",
+    "UE5": {
+        "UE5Comps": {
+            "CollisionCylinder": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 5448.9054,
+                        "y": -8551.3386,
+                        "z": 102.505
+                    }
+                },
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)"
+                }
+            }
+        }
+    }
+}

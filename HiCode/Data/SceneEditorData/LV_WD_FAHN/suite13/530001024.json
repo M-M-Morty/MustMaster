@@ -1,0 +1,51 @@
+{
+    "id": "24",
+    "transform": {
+        "translation": {
+            "x": 172636.3574,
+            "y": 103610.8782,
+            "z": 19471.963
+        },
+        "rotation": {
+            "x": -0.0046,
+            "y": 0.0046,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "可破碎物-木箱",
+    "description": "null",
+    "kinds": "null",
+    "author": "JINXL",
+    "version": "null",
+    "source": "puzzle_initial_data@530001",
+    "LuaID": 530001,
+    "UE5": {
+        "UE5Comps": {
+            "GeometryCollectionComponent": {
+                "InitializationFields": {
+                    "Type": "Array",
+                    "Value": [
+                        {
+                            "Type": "Actor",
+                            "Value": null
+                        }
+                    ]
+                },
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 172636.3574,
+                        "y": 103610.8782,
+                        "z": 19471.963
+                    }
+                }
+            }
+        }
+    }
+}

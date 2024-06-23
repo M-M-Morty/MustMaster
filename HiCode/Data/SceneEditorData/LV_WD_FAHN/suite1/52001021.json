@@ -1,0 +1,28 @@
+{
+    "id": "21",
+    "transform": {
+        "translation": {
+            "x": 182721.355,
+            "y": 113294.789,
+            "z": 20046.5882
+        },
+        "rotation": {
+            "x": 0.3226,
+            "y": -0.0268,
+            "z": -0.0782,
+            "w": 0.9429
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "石斛兰",
+    "description": "null",
+    "kinds": "null",
+    "author": "xiaoxiaopi",
+    "version": "null",
+    "source": "puzzle_initial_data@52001",
+    "UE5": {}
+}

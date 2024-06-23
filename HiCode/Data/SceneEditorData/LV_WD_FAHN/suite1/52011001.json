@@ -1,0 +1,69 @@
+{
+    "id": "1",
+    "transform": {
+        "translation": {
+            "x": 162748.8747,
+            "y": 103510.5784,
+            "z": 18029.4019
+        },
+        "rotation": {
+            "x": 0.0336,
+            "y": -0.0379,
+            "z": -0.7471,
+            "w": 0.6628
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "叙事交互物",
+    "description": "null",
+    "kinds": "null",
+    "author": "guettazhang",
+    "version": "null",
+    "source": "puzzle_initial_data@52011",
+    "LuaID": 52011,
+    "SuiteDir": "suite1",
+    "UE5": {
+        "MonologueID": {
+            "Type": "Int",
+            "Value": 1008
+        },
+        "SelfTalkingID": {
+            "Type": "Int",
+            "Value": 1054
+        },
+        "PlayBuzzSound": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "Cooldown": {
+            "Type": "Float",
+            "Value": 33.0
+        },
+        "sUIPick": {
+            "Type": "String",
+            "Value": "电视机"
+        },
+        "UE5Comps": {
+            "BillboardComponent": {
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=5.764657,Yaw=-83.121495,Roll=0.696226)"
+                }
+            },
+            "OverlapEndTrigger": {
+                "RelativeScale3D": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 2.25,
+                        "y": 2.25,
+                        "z": 2.25
+                    }
+                }
+            }
+        }
+    }
+}

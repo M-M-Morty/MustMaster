@@ -1,0 +1,59 @@
+{
+    "id": "7",
+    "transform": {
+        "translation": {
+            "x": 151218.1436,
+            "y": 132697.6565,
+            "z": 18918.4985
+        },
+        "rotation": {
+            "x": 0.0059,
+            "y": 0.0016,
+            "z": 0.2588,
+            "w": 0.9659
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "男守卫",
+    "description": "null",
+    "kinds": "null",
+    "author": "jaeezhou",
+    "version": "null",
+    "source": "npc_base_data@300004",
+    "LuaID": 300004,
+    "SuiteDir": "suite26",
+    "UE5": {
+        "DisplayName": {
+            "Type": "String",
+            "Value": "庄民大叔"
+        },
+        "bShowToplogo": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": false
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "894135724A4D6760BF67B4A7BEB4A47E"
+        },
+        "UE5Comps": {
+            "CollisionCylinder": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 151218.1436,
+                        "y": 132697.6565,
+                        "z": 18918.4985
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "id": "21",
+    "transform": {
+        "translation": {
+            "x": 114469.8799,
+            "y": 139830.1828,
+            "z": 19057.4134
+        },
+        "rotation": {
+            "x": 0.0826,
+            "y": 0.0062,
+            "z": 0.0749,
+            "w": 0.9937
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "马杜克老式灯",
+    "description": "null",
+    "kinds": "null",
+    "author": "wensleyyu",
+    "version": "null",
+    "source": "puzzle_initial_data@20005",
+    "LuaID": 20005,
+    "UE5": {}
+}

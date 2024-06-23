@@ -1,0 +1,47 @@
+{
+    "id": "39",
+    "transform": {
+        "translation": {
+            "x": 171307.4093,
+            "y": 101733.1673,
+            "z": 19224.172
+        },
+        "rotation": {
+            "x": 0.076,
+            "y": -0.0274,
+            "z": -0.3377,
+            "w": 0.9378
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "发光交互物",
+    "description": "null",
+    "kinds": "null",
+    "author": "tiezhengwu",
+    "version": "null",
+    "source": "puzzle_initial_data@52009",
+    "LuaID": 52009,
+    "SuiteDir": "suite22",
+    "UE5": {
+        "sUIPick": {
+            "Type": "String",
+            "Value": "拾取"
+        },
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": false
+        },
+        "UE5Comps": {
+            "BillboardComponent": {
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=5.895710,Yaw=-140.761642,Roll=-7.163122)"
+                }
+            }
+        }
+    }
+}

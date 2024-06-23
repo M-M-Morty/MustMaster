@@ -1,0 +1,51 @@
+{
+    "id": "66",
+    "transform": {
+        "translation": {
+            "x": 159649.6084,
+            "y": 100702.1742,
+            "z": 19016.4441
+        },
+        "rotation": {
+            "x": 0.0089,
+            "y": 0.0089,
+            "z": 0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "皇菇",
+    "description": "null",
+    "kinds": "null",
+    "author": "wensleyyu",
+    "version": "null",
+    "source": "puzzle_initial_data@52003",
+    "LuaID": 52003,
+    "SuiteDir": "suite30",
+    "UE5": {
+        "sUIPick": {
+            "Type": "String",
+            "Value": "你好"
+        },
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": false
+        },
+        "UE5Comps": {
+            "RootSphere": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 159649.6084,
+                        "y": 100702.1742,
+                        "z": 19016.4441
+                    }
+                }
+            }
+        }
+    }
+}

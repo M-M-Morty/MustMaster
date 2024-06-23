@@ -1,0 +1,37 @@
+{
+    "id": 1,
+    "transform": {
+        "translation": {
+            "x": -6108.0101,
+            "y": -15883.2376,
+            "z": -0.5
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "水车",
+    "monsterid": [],
+    "description": "null",
+    "kinds": "null",
+    "diaoluo": "null",
+    "dropid": "null",
+    "guaiwu": "null",
+    "birthaction": [],
+    "hatred": "null",
+    "patrolpath": [],
+    "hatredrange": "null",
+    "triggerrange": "null",
+    "author": "xiaoxiaopi",
+    "version": "null",
+    "source": "puzzle_initial_data@20013",
+    "UE5": {}
+}

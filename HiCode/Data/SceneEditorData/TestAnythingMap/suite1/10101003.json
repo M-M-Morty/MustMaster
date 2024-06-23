@@ -1,0 +1,164 @@
+{
+    "id": "3",
+    "transform": {
+        "translation": {
+            "x": 2231.3883,
+            "y": -825.9299,
+            "z": -0.5
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "路点-Spline",
+    "description": "null",
+    "kinds": "null",
+    "author": "leolhyou",
+    "version": "null",
+    "source": "puzzle_initial_data@10101",
+    "LuaID": 10101,
+    "SuiteDir": "suite1",
+    "UE5": {
+        "mapAction": {
+            "Type": "Map",
+            "Value": {
+                "0": {
+                    "KeyType": "Int",
+                    "Value": {
+                        "Type": "StructBase@S_ReachIndexStruct",
+                        "Value": "(Action_11_820A5B374AE5038FCA9D04B5B4972256=NewEnumerator1,Param_12_E26909D24A016F322440F7BA8339427C=\"\",DelayTime_15_EF9746764F8A9EFFE69A498C0AE22FFE=5.000000)"
+                    }
+                }
+            }
+        },
+        "eNPCMoveType": {
+            "Type": "Enum@E_NPCMoveType",
+            "Value": "AUTO_MOVE_STOP_AT_END@1"
+        },
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "5FE3B07A42DEB6794DFFCE8F7C044AEC"
+        },
+        "UE5Comps": {
+            "EndPoint": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -260.0,
+                        "y": 800.0,
+                        "z": 20.0
+                    }
+                }
+            },
+            "RootSphere": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 2231.3883,
+                        "y": -825.9299,
+                        "z": -0.5
+                    }
+                }
+            },
+            "StartPoint": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -150.0,
+                        "y": 80.0,
+                        "z": 20.0
+                    }
+                }
+            }
+        },
+        "SplineNodeLocation": {
+            "Type": "SplineNodeLocation",
+            "Value": [
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -150.0,
+                        "y": 80.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -110.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 100.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 330.0,
+                        "y": -180.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 1110.0,
+                        "y": -240.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 960.0,
+                        "y": 250.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 650.0,
+                        "y": 970.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -260.0,
+                        "y": 800.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        }
+    }
+}

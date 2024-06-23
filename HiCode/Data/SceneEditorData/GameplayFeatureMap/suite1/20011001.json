@@ -1,0 +1,107 @@
+{
+    "id": 1,
+    "transform": {
+        "translation": {
+            "x": -375.6683,
+            "y": 8790.0248,
+            "z": 509.4999
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "无人机",
+    "monsterid": [],
+    "description": "null",
+    "kinds": "null",
+    "diaoluo": "null",
+    "dropid": "null",
+    "guaiwu": "null",
+    "birthaction": [],
+    "hatred": "null",
+    "patrolpath": [],
+    "hatredrange": "null",
+    "triggerrange": "null",
+    "author": "seekerma",
+    "version": "null",
+    "source": "puzzle_initial_data@20011",
+    "UE5": {
+        "SplineNodeLocation": {
+            "Type": "SplineNodeLocation",
+            "Value": [
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 0.01,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 0.0,
+                        "y": 200.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 0.0,
+                        "y": 370.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -800.0,
+                        "y": 370.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -800.0,
+                        "y": -440.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 40.0,
+                        "y": -440.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 40.0,
+                        "y": 10.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 40.0,
+                        "y": 10.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        }
+    }
+}

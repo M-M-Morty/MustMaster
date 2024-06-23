@@ -1,0 +1,39 @@
+{
+    "nodes": {
+        "FlowGraphNode_Start_0": {
+            "NodeGuid": "661D0A8A430F335A9969F281CCA2050A",
+            "Class": "/Script/Flow.FlowNode_Start",
+            "NextGuids": [
+                "668425D541E9F6915E21D0AD3FBFDC36"
+            ]
+        },
+        "FlowGraphNode_1": {
+            "NodeGuid": "668425D541E9F6915E21D0AD3FBFDC36",
+            "Class": "/Game/Blueprints/Mission/MissionNode/BP_MissionNode_EventOnAcceptMissionAct.BP_MissionNode_EventOnAcceptMissionAct_C",
+            "NextGuids": [
+                "BDB24CA54C4B62304575E58098F529A1"
+            ]
+        },
+        "FlowGraphNode_2": {
+            "NodeGuid": "BDB24CA54C4B62304575E58098F529A1",
+            "Class": "/Game/Blueprints/Mission/MissionNode/BP_MissionNode_SetMissionActState.BP_MissionNode_SetMissionActState_C",
+            "NextGuids": [
+                "3F33422E427DA4B3D28BB69F5D5F2011"
+            ]
+        },
+        "FlowGraphNode_0": {
+            "NodeGuid": "3F33422E427DA4B3D28BB69F5D5F2011",
+            "Class": "/Game/Blueprints/Mission/MissionNode/BP_Mission.BP_Mission_C",
+            "NextGuids": [
+                "705624BD4EC40E89CCFA2494C1392A03"
+            ],
+            "MissionID": "9001",
+            "Asset": "\"/Game/Data/MissionFlow/LV_WD_FAHN/DEMO/sysft_main_missioncontent.sysft_main_missioncontent\""
+        },
+        "FlowGraphNode_Finish_0": {
+            "NodeGuid": "705624BD4EC40E89CCFA2494C1392A03",
+            "Class": "/Game/Blueprints/Mission/MissionNode/BP_Finish.BP_Finish_C",
+            "NextGuids": null
+        }
+    }
+}

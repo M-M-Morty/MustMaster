@@ -1,0 +1,43 @@
+{
+    "id": "40",
+    "transform": {
+        "translation": {
+            "x": 166289.5291,
+            "y": 98293.5336,
+            "z": 19027.8948
+        },
+        "rotation": {
+            "x": 0.027,
+            "y": 0.071,
+            "z": 0.9319,
+            "w": 0.3547
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "石斛兰",
+    "description": "null",
+    "kinds": "null",
+    "author": "wensleyyu",
+    "version": "null",
+    "source": "puzzle_initial_data@52001",
+    "LuaID": 52001,
+    "SuiteDir": "suite30",
+    "UE5": {
+        "UE5Comps": {
+            "RootSphere": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 166289.5291,
+                        "y": 98293.5336,
+                        "z": 19027.8948
+                    }
+                }
+            }
+        }
+    }
+}

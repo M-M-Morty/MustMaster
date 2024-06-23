@@ -1,0 +1,587 @@
+{
+	"nodes":
+	{
+		"FlowGraphNode_Start_0":
+		{
+			"Class": "/Script/FlowEditor.FlowGraphNode_Start",
+			"Name": "FlowGraphNode_Start_0",
+			"InnerObj": [],
+			"Properties":
+			{
+				"FlowNode_Start_0":
+				{
+					"Class": "/Script/Flow.FlowNode_Start",
+					"Name": "FlowNode_Start_0",
+					"InnerObj": [],
+					"Properties":
+					{
+						"GraphNode": "/Script/FlowEditor.FlowGraphNode_Start'\"FlowGraphNode_Start_0\"'",
+						"Category": "",
+						"NodeStyle": "",
+						"bNodeDeprecated": "",
+						"ReplacedBy": "",
+						"NodeGuid": "EBC072FA4CA3043FDA881D87D2A245A5",
+						"Connections": "((\"Out\", (NodeGuid=46F6710F4D46339F7CBA1B997F4E83DE,PinName=\"In\")))",
+						"ActivationState": "",
+						"SaveState": ""
+					}
+				},
+				"FlowNode": "/Script/Flow.FlowNode_Start'\"FlowNode_Start_0\"'",
+				"NodeBreakpoint": "",
+				"PinBreakpoints": "",
+				"NodePosX": "",
+				"NodePosY": "",
+				"NodeWidth": "",
+				"NodeHeight": "",
+				"AdvancedPinDisplay": "",
+				"EnabledState": "",
+				"bDisplayAsDisabled": "",
+				"bUserSetEnabledState": "",
+				"bCanResizeNode": "",
+				"bIsIntermediateNode": "",
+				"bHasCompilerMessage": "",
+				"bCommentBubblePinned": "",
+				"bCommentBubbleVisible": "",
+				"bCanRenameNode": "",
+				"NodeComment": "",
+				"ErrorType": "",
+				"ErrorMsg": "",
+				"NodeGuid": "EBC072FA4CA3043FDA881D87D2A245A5"
+			},
+			"CustomProperties":
+			{
+				"Pin": [
+					{
+						"PinId": "6A5766ED483234461CBF599F954740AF",
+						"PinName": "\"Out\"",
+						"Direction": "\"EGPD_Output\"",
+						"PinType.PinCategory": "\"exec\"",
+						"PinType.PinSubCategory": "\"\"",
+						"PinType.PinSubCategoryObject": "None",
+						"PinType.PinSubCategoryMemberReference": "()",
+						"PinType.PinValueType": "()",
+						"PinType.ContainerType": "None",
+						"PinType.bIsReference": "False",
+						"PinType.bIsConst": "False",
+						"PinType.bIsWeakPointer": "False",
+						"PinType.bIsUObjectWrapper": "False",
+						"PinType.bSerializeAsSinglePrecisionFloat": "False",
+						"LinkedTo": "(FlowGraphNode_0 1CD7182542DABEDAB642639370501A46,)",
+						"PersistentGuid": "00000000000000000000000000000000",
+						"bHidden": "False",
+						"bNotConnectable": "False",
+						"bDefaultValueIsReadOnly": "False",
+						"bDefaultValueIsIgnored": "False",
+						"bAdvancedView": "False",
+						"bOrphanedPin": "False"
+					}
+				]
+			}
+		},
+		"FlowGraphNode_2":
+		{
+			"Class": "/Script/FlowEditor.FlowGraphNode",
+			"Name": "FlowGraphNode_2",
+			"InnerObj": [],
+			"Properties":
+			{
+				"BP_MissionNode_LoadMutableActor_C_0":
+				{
+					"Class": "/Game/Blueprints/Mission/MissionNode/BP_MissionNode_LoadMutableActor.BP_MissionNode_LoadMutableActor_C",
+					"Name": "BP_MissionNode_LoadMutableActor_C_0",
+					"InnerObj": [],
+					"Properties":
+					{
+						"Success_Pin": "",
+						"Complete_Pin": "",
+						"TargetReferenceList(0)": "(Ref_14_6DF91DF3472FD2D133940B90AA3C2F41=\"/Game/Developers/seekerma/TestAnythingMap.TestAnythingMap:PersistentLevel.BPA_NPC_FarmerMan_2_C_1\",ID_10_7FDC42464EE72271E0142682B26C0325=\"300010003\")",
+						"TargetReferenceList(1)": "(Ref_14_6DF91DF3472FD2D133940B90AA3C2F41=\"/Game/Developers/seekerma/TestAnythingMap.TestAnythingMap:PersistentLevel.suite5_52005002\",ID_10_7FDC42464EE72271E0142682B26C0325=\"52005002\")",
+						"Events": "",
+						"Actions": "",
+						"bNodeStarted": "",
+						"GraphNode": "/Script/FlowEditor.FlowGraphNode'\"FlowGraphNode_2\"'",
+						"Category": "",
+						"NodeStyle": "",
+						"bNodeDeprecated": "",
+						"ReplacedBy": "",
+						"NodeGuid": "0D19F7FE452083CD4D850D832286F68D",
+						"Connections": "((\"Complete\", (NodeGuid=8829361E49A0DA6768541EA77859084C,PinName=\"In\")))",
+						"ActivationState": "",
+						"SaveState": ""
+					}
+				},
+				"FlowNode": "/Game/Blueprints/Mission/MissionNode/BP_MissionNode_LoadMutableActor.BP_MissionNode_LoadMutableActor_C'\"BP_MissionNode_LoadMutableActor_C_0\"'",
+				"NodeBreakpoint": "",
+				"PinBreakpoints": "",
+				"NodePosX": "64",
+				"NodePosY": "144",
+				"NodeWidth": "",
+				"NodeHeight": "",
+				"AdvancedPinDisplay": "",
+				"EnabledState": "",
+				"bDisplayAsDisabled": "",
+				"bUserSetEnabledState": "",
+				"bCanResizeNode": "",
+				"bIsIntermediateNode": "",
+				"bHasCompilerMessage": "",
+				"bCommentBubblePinned": "",
+				"bCommentBubbleVisible": "",
+				"bCanRenameNode": "",
+				"NodeComment": "",
+				"ErrorType": "",
+				"ErrorMsg": "",
+				"NodeGuid": "0D19F7FE452083CD4D850D832286F68D"
+			},
+			"CustomProperties":
+			{
+				"Pin": [
+					{
+						"PinId": "A1D36CA547F91093462F178977575103",
+						"PinName": "\"In\"",
+						"PinType.PinCategory": "\"exec\"",
+						"PinType.PinSubCategory": "\"\"",
+						"PinType.PinSubCategoryObject": "None",
+						"PinType.PinSubCategoryMemberReference": "()",
+						"PinType.PinValueType": "()",
+						"PinType.ContainerType": "None",
+						"PinType.bIsReference": "False",
+						"PinType.bIsConst": "False",
+						"PinType.bIsWeakPointer": "False",
+						"PinType.bIsUObjectWrapper": "False",
+						"PinType.bSerializeAsSinglePrecisionFloat": "False",
+						"LinkedTo": "(FlowGraphNode_0 EA900D1F4EB933AB42C860848D61DEF7,)",
+						"PersistentGuid": "00000000000000000000000000000000",
+						"bHidden": "False",
+						"bNotConnectable": "False",
+						"bDefaultValueIsReadOnly": "False",
+						"bDefaultValueIsIgnored": "False",
+						"bAdvancedView": "False",
+						"bOrphanedPin": "False"
+					},
+					{
+						"PinId": "DEB8FADF48D7CDEF2B5FD69451CFFFD9",
+						"PinName": "\"Success\"",
+						"Direction": "\"EGPD_Output\"",
+						"PinType.PinCategory": "\"exec\"",
+						"PinType.PinSubCategory": "\"\"",
+						"PinType.PinSubCategoryObject": "None",
+						"PinType.PinSubCategoryMemberReference": "()",
+						"PinType.PinValueType": "()",
+						"PinType.ContainerType": "None",
+						"PinType.bIsReference": "False",
+						"PinType.bIsConst": "False",
+						"PinType.bIsWeakPointer": "False",
+						"PinType.bIsUObjectWrapper": "False",
+						"PinType.bSerializeAsSinglePrecisionFloat": "False",
+						"PersistentGuid": "00000000000000000000000000000000",
+						"bHidden": "False",
+						"bNotConnectable": "False",
+						"bDefaultValueIsReadOnly": "False",
+						"bDefaultValueIsIgnored": "False",
+						"bAdvancedView": "False",
+						"bOrphanedPin": "False"
+					},
+					{
+						"PinId": "28E6BBB6461374D1035B23A6C72E5C63",
+						"PinName": "\"Complete\"",
+						"Direction": "\"EGPD_Output\"",
+						"PinType.PinCategory": "\"exec\"",
+						"PinType.PinSubCategory": "\"\"",
+						"PinType.PinSubCategoryObject": "None",
+						"PinType.PinSubCategoryMemberReference": "()",
+						"PinType.PinValueType": "()",
+						"PinType.ContainerType": "None",
+						"PinType.bIsReference": "False",
+						"PinType.bIsConst": "False",
+						"PinType.bIsWeakPointer": "False",
+						"PinType.bIsUObjectWrapper": "False",
+						"PinType.bSerializeAsSinglePrecisionFloat": "False",
+						"LinkedTo": "(FlowGraphNode_1 A2E506504C35F976ACE61DBE9DEC8135,)",
+						"PersistentGuid": "00000000000000000000000000000000",
+						"bHidden": "False",
+						"bNotConnectable": "False",
+						"bDefaultValueIsReadOnly": "False",
+						"bDefaultValueIsIgnored": "False",
+						"bAdvancedView": "False",
+						"bOrphanedPin": "False"
+					}
+				]
+			}
+		},
+		"FlowGraphNode_6":
+		{
+			"Class": "/Script/FlowEditor.FlowGraphNode",
+			"Name": "FlowGraphNode_6",
+			"InnerObj": [],
+			"Properties":
+			{
+				"BP_Finish_C_0":
+				{
+					"Class": "/Game/Blueprints/Mission/MissionNode/BP_Finish.BP_Finish_C",
+					"Name": "BP_Finish_C_0",
+					"InnerObj": [],
+					"Properties":
+					{
+						"GraphNode": "/Script/FlowEditor.FlowGraphNode'\"FlowGraphNode_6\"'",
+						"Category": "",
+						"NodeStyle": "",
+						"bNodeDeprecated": "",
+						"ReplacedBy": "",
+						"NodeGuid": "8C84A5174B9A1229D999B5B03611233A",
+						"Connections": "",
+						"ActivationState": "",
+						"SaveState": ""
+					}
+				},
+				"FlowNode": "/Game/Blueprints/Mission/MissionNode/BP_Finish.BP_Finish_C'\"BP_Finish_C_0\"'",
+				"NodeBreakpoint": "",
+				"PinBreakpoints": "",
+				"NodePosX": "640",
+				"NodePosY": "144",
+				"NodeWidth": "",
+				"NodeHeight": "",
+				"AdvancedPinDisplay": "",
+				"EnabledState": "",
+				"bDisplayAsDisabled": "",
+				"bUserSetEnabledState": "",
+				"bCanResizeNode": "",
+				"bIsIntermediateNode": "",
+				"bHasCompilerMessage": "",
+				"bCommentBubblePinned": "",
+				"bCommentBubbleVisible": "",
+				"bCanRenameNode": "",
+				"NodeComment": "",
+				"ErrorType": "",
+				"ErrorMsg": "",
+				"NodeGuid": "8C84A5174B9A1229D999B5B03611233A"
+			},
+			"CustomProperties":
+			{
+				"Pin": [
+					{
+						"PinId": "DEB84450414A6C9F2B2DDA93A1AA23D4",
+						"PinName": "\"In\"",
+						"PinType.PinCategory": "\"exec\"",
+						"PinType.PinSubCategory": "\"\"",
+						"PinType.PinSubCategoryObject": "None",
+						"PinType.PinSubCategoryMemberReference": "()",
+						"PinType.PinValueType": "()",
+						"PinType.ContainerType": "None",
+						"PinType.bIsReference": "False",
+						"PinType.bIsConst": "False",
+						"PinType.bIsWeakPointer": "False",
+						"PinType.bIsUObjectWrapper": "False",
+						"PinType.bSerializeAsSinglePrecisionFloat": "False",
+						"LinkedTo": "(FlowGraphNode_1 4F7970CF4177BB714DBD8692A9AF09FC,)",
+						"PersistentGuid": "00000000000000000000000000000000",
+						"bHidden": "False",
+						"bNotConnectable": "False",
+						"bDefaultValueIsReadOnly": "False",
+						"bDefaultValueIsIgnored": "False",
+						"bAdvancedView": "False",
+						"bOrphanedPin": "False"
+					}
+				]
+			}
+		},
+		"FlowGraphNode_0":
+		{
+			"Class": "/Script/FlowEditor.FlowGraphNode",
+			"Name": "FlowGraphNode_0",
+			"InnerObj": [],
+			"Properties":
+			{
+				"BP_MissionNode_CheckMissionStartCondition_C_0":
+				{
+					"Class": "/Game/Blueprints/Mission/MissionNode/BP_MissionNode_CheckMissionStartCondition.BP_MissionNode_CheckMissionStartCondition_C",
+					"Name": "BP_MissionNode_CheckMissionStartCondition_C_0",
+					"InnerObj": [],
+					"Properties":
+					{
+						"SuccessPin": "",
+						"CompletePin": "",
+						"MissionEventID": "",
+						"bHasEnter": "",
+						"bResetOnReEnter": "",
+						"Events": "",
+						"Actions": "",
+						"bNodeStarted": "",
+						"GraphNode": "/Script/FlowEditor.FlowGraphNode'\"FlowGraphNode_0\"'",
+						"Category": "",
+						"NodeStyle": "",
+						"bNodeDeprecated": "",
+						"ReplacedBy": "",
+						"NodeGuid": "46F6710F4D46339F7CBA1B997F4E83DE",
+						"Connections": "((\"Complete\", (NodeGuid=0D19F7FE452083CD4D850D832286F68D,PinName=\"In\")))",
+						"ActivationState": "",
+						"SaveState": ""
+					}
+				},
+				"FlowNode": "/Game/Blueprints/Mission/MissionNode/BP_MissionNode_CheckMissionStartCondition.BP_MissionNode_CheckMissionStartCondition_C'\"BP_MissionNode_CheckMissionStartCondition_C_0\"'",
+				"NodeBreakpoint": "",
+				"PinBreakpoints": "",
+				"NodePosX": "112",
+				"NodePosY": "-32",
+				"NodeWidth": "",
+				"NodeHeight": "",
+				"AdvancedPinDisplay": "",
+				"EnabledState": "",
+				"bDisplayAsDisabled": "",
+				"bUserSetEnabledState": "",
+				"bCanResizeNode": "",
+				"bIsIntermediateNode": "",
+				"bHasCompilerMessage": "",
+				"bCommentBubblePinned": "",
+				"bCommentBubbleVisible": "",
+				"bCanRenameNode": "",
+				"NodeComment": "",
+				"ErrorType": "",
+				"ErrorMsg": "",
+				"NodeGuid": "46F6710F4D46339F7CBA1B997F4E83DE"
+			},
+			"CustomProperties":
+			{
+				"Pin": [
+					{
+						"PinId": "1CD7182542DABEDAB642639370501A46",
+						"PinName": "\"In\"",
+						"PinType.PinCategory": "\"exec\"",
+						"PinType.PinSubCategory": "\"\"",
+						"PinType.PinSubCategoryObject": "None",
+						"PinType.PinSubCategoryMemberReference": "()",
+						"PinType.PinValueType": "()",
+						"PinType.ContainerType": "None",
+						"PinType.bIsReference": "False",
+						"PinType.bIsConst": "False",
+						"PinType.bIsWeakPointer": "False",
+						"PinType.bIsUObjectWrapper": "False",
+						"PinType.bSerializeAsSinglePrecisionFloat": "False",
+						"LinkedTo": "(FlowGraphNode_Start_0 6A5766ED483234461CBF599F954740AF,)",
+						"PersistentGuid": "00000000000000000000000000000000",
+						"bHidden": "False",
+						"bNotConnectable": "False",
+						"bDefaultValueIsReadOnly": "False",
+						"bDefaultValueIsIgnored": "False",
+						"bAdvancedView": "False",
+						"bOrphanedPin": "False"
+					},
+					{
+						"PinId": "24DF3CAF4F394563E1E0CD876435B45A",
+						"PinName": "\"Success\"",
+						"Direction": "\"EGPD_Output\"",
+						"PinType.PinCategory": "\"exec\"",
+						"PinType.PinSubCategory": "\"\"",
+						"PinType.PinSubCategoryObject": "None",
+						"PinType.PinSubCategoryMemberReference": "()",
+						"PinType.PinValueType": "()",
+						"PinType.ContainerType": "None",
+						"PinType.bIsReference": "False",
+						"PinType.bIsConst": "False",
+						"PinType.bIsWeakPointer": "False",
+						"PinType.bIsUObjectWrapper": "False",
+						"PinType.bSerializeAsSinglePrecisionFloat": "False",
+						"PersistentGuid": "00000000000000000000000000000000",
+						"bHidden": "False",
+						"bNotConnectable": "False",
+						"bDefaultValueIsReadOnly": "False",
+						"bDefaultValueIsIgnored": "False",
+						"bAdvancedView": "False",
+						"bOrphanedPin": "False"
+					},
+					{
+						"PinId": "EA900D1F4EB933AB42C860848D61DEF7",
+						"PinName": "\"Complete\"",
+						"Direction": "\"EGPD_Output\"",
+						"PinType.PinCategory": "\"exec\"",
+						"PinType.PinSubCategory": "\"\"",
+						"PinType.PinSubCategoryObject": "None",
+						"PinType.PinSubCategoryMemberReference": "()",
+						"PinType.PinValueType": "()",
+						"PinType.ContainerType": "None",
+						"PinType.bIsReference": "False",
+						"PinType.bIsConst": "False",
+						"PinType.bIsWeakPointer": "False",
+						"PinType.bIsUObjectWrapper": "False",
+						"PinType.bSerializeAsSinglePrecisionFloat": "False",
+						"LinkedTo": "(FlowGraphNode_2 A1D36CA547F91093462F178977575103,)",
+						"PersistentGuid": "00000000000000000000000000000000",
+						"bHidden": "False",
+						"bNotConnectable": "False",
+						"bDefaultValueIsReadOnly": "False",
+						"bDefaultValueIsIgnored": "False",
+						"bAdvancedView": "False",
+						"bOrphanedPin": "False"
+					}
+				]
+			}
+		},
+		"EdGraphNode_Comment_2":
+		{
+			"Class": "/Script/UnrealEd.EdGraphNode_Comment",
+			"Name": "EdGraphNode_Comment_2",
+			"InnerObj": [],
+			"Properties":
+			{
+				"CommentColor": "",
+				"FontSize": "",
+				"bCommentBubbleVisible_InDetailsPanel": "False",
+				"bColorCommentBubble": "",
+				"MoveMode": "",
+				"CommentDepth": "",
+				"NodePosX": "",
+				"NodePosY": "80",
+				"NodeWidth": "868",
+				"NodeHeight": "207",
+				"AdvancedPinDisplay": "",
+				"EnabledState": "",
+				"bDisplayAsDisabled": "",
+				"bUserSetEnabledState": "",
+				"bCanResizeNode": "",
+				"bIsIntermediateNode": "",
+				"bHasCompilerMessage": "",
+				"bCommentBubblePinned": "False",
+				"bCommentBubbleVisible": "False",
+				"bCanRenameNode": "",
+				"NodeComment": "\"与NPC1对话\"",
+				"ErrorType": "",
+				"ErrorMsg": "",
+				"NodeGuid": "5C292D8149A124E108E2D6927AAB3CB2"
+			}
+		},
+		"FlowGraphNode_1":
+		{
+			"Class": "/Script/FlowEditor.FlowGraphNode",
+			"Name": "FlowGraphNode_1",
+			"InnerObj": [],
+			"Properties":
+			{
+				"BP_MissionNode_DialogNPC_C_0":
+				{
+					"Class": "/Game/Blueprints/Mission/MissionNode/BP_MissionNode_DialogNPC.BP_MissionNode_DialogNPC_C",
+					"Name": "BP_MissionNode_DialogNPC_C_0",
+					"InnerObj": [],
+					"Properties":
+					{
+						"DialogueID": "90010",
+						"TargetReference": "(Ref_17_6DF91DF3472FD2D133940B90AA3C2F41=\"/Game/Developers/seekerma/TestAnythingMap.TestAnythingMap:PersistentLevel.BPA_NPC_FarmerMan_2_C_0\",ID_10_7FDC42464EE72271E0142682B26C0325=\"300010003\")",
+						"DialogueFinishEventName": "",
+						"CancelPinName": "",
+						"ResultID": "",
+						"MissionEventID": "900009",
+						"bHasEnter": "",
+						"bResetOnReEnter": "",
+						"Events": "",
+						"Actions": "",
+						"bNodeStarted": "",
+						"GraphNode": "/Script/FlowEditor.FlowGraphNode'\"FlowGraphNode_1\"'",
+						"Category": "",
+						"NodeStyle": "",
+						"bNodeDeprecated": "",
+						"ReplacedBy": "",
+						"NodeGuid": "8829361E49A0DA6768541EA77859084C",
+						"OutputPins(1)": "(PinName=\"90010\")",
+						"Connections": "((\"90010\", (NodeGuid=8C84A5174B9A1229D999B5B03611233A,PinName=\"In\")))",
+						"ActivationState": "",
+						"SaveState": ""
+					}
+				},
+				"FlowNode": "/Game/Blueprints/Mission/MissionNode/BP_MissionNode_DialogNPC.BP_MissionNode_DialogNPC_C'\"BP_MissionNode_DialogNPC_C_0\"'",
+				"NodeBreakpoint": "",
+				"PinBreakpoints": "",
+				"NodePosX": "368",
+				"NodePosY": "144",
+				"NodeWidth": "",
+				"NodeHeight": "",
+				"AdvancedPinDisplay": "",
+				"EnabledState": "",
+				"bDisplayAsDisabled": "",
+				"bUserSetEnabledState": "",
+				"bCanResizeNode": "",
+				"bIsIntermediateNode": "",
+				"bHasCompilerMessage": "",
+				"bCommentBubblePinned": "",
+				"bCommentBubbleVisible": "",
+				"bCanRenameNode": "",
+				"NodeComment": "",
+				"ErrorType": "",
+				"ErrorMsg": "",
+				"NodeGuid": "8829361E49A0DA6768541EA77859084C"
+			},
+			"CustomProperties":
+			{
+				"Pin": [
+					{
+						"PinId": "A2E506504C35F976ACE61DBE9DEC8135",
+						"PinName": "\"In\"",
+						"PinType.PinCategory": "\"exec\"",
+						"PinType.PinSubCategory": "\"\"",
+						"PinType.PinSubCategoryObject": "None",
+						"PinType.PinSubCategoryMemberReference": "()",
+						"PinType.PinValueType": "()",
+						"PinType.ContainerType": "None",
+						"PinType.bIsReference": "False",
+						"PinType.bIsConst": "False",
+						"PinType.bIsWeakPointer": "False",
+						"PinType.bIsUObjectWrapper": "False",
+						"PinType.bSerializeAsSinglePrecisionFloat": "False",
+						"LinkedTo": "(FlowGraphNode_2 28E6BBB6461374D1035B23A6C72E5C63,)",
+						"PersistentGuid": "00000000000000000000000000000000",
+						"bHidden": "False",
+						"bNotConnectable": "False",
+						"bDefaultValueIsReadOnly": "False",
+						"bDefaultValueIsIgnored": "False",
+						"bAdvancedView": "False",
+						"bOrphanedPin": "False"
+					},
+					{
+						"PinId": "6C59A1AF4C78ABED57A130BF1B7CC7FE",
+						"PinName": "\"Canceled\"",
+						"Direction": "\"EGPD_Output\"",
+						"PinType.PinCategory": "\"exec\"",
+						"PinType.PinSubCategory": "\"\"",
+						"PinType.PinSubCategoryObject": "None",
+						"PinType.PinSubCategoryMemberReference": "()",
+						"PinType.PinValueType": "()",
+						"PinType.ContainerType": "None",
+						"PinType.bIsReference": "False",
+						"PinType.bIsConst": "False",
+						"PinType.bIsWeakPointer": "False",
+						"PinType.bIsUObjectWrapper": "False",
+						"PinType.bSerializeAsSinglePrecisionFloat": "False",
+						"PersistentGuid": "00000000000000000000000000000000",
+						"bHidden": "False",
+						"bNotConnectable": "False",
+						"bDefaultValueIsReadOnly": "False",
+						"bDefaultValueIsIgnored": "False",
+						"bAdvancedView": "False",
+						"bOrphanedPin": "False"
+					},
+					{
+						"PinId": "4F7970CF4177BB714DBD8692A9AF09FC",
+						"PinName": "\"90010\"",
+						"Direction": "\"EGPD_Output\"",
+						"PinType.PinCategory": "\"exec\"",
+						"PinType.PinSubCategory": "\"\"",
+						"PinType.PinSubCategoryObject": "None",
+						"PinType.PinSubCategoryMemberReference": "()",
+						"PinType.PinValueType": "()",
+						"PinType.ContainerType": "None",
+						"PinType.bIsReference": "False",
+						"PinType.bIsConst": "False",
+						"PinType.bIsWeakPointer": "False",
+						"PinType.bIsUObjectWrapper": "False",
+						"PinType.bSerializeAsSinglePrecisionFloat": "False",
+						"LinkedTo": "(FlowGraphNode_6 DEB84450414A6C9F2B2DDA93A1AA23D4,)",
+						"PersistentGuid": "00000000000000000000000000000000",
+						"bHidden": "False",
+						"bNotConnectable": "False",
+						"bDefaultValueIsReadOnly": "False",
+						"bDefaultValueIsIgnored": "False",
+						"bAdvancedView": "False",
+						"bOrphanedPin": "False"
+					}
+				]
+			}
+		}
+	}
+}

@@ -1,0 +1,69 @@
+{
+    "id": "123",
+    "transform": {
+        "translation": {
+            "x": 159402.8476,
+            "y": 131866.6349,
+            "z": 19035.8469
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.9915,
+            "w": 0.1303
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "空采集物",
+    "description": "null",
+    "kinds": "null",
+    "author": "jaeezhou",
+    "version": "null",
+    "source": "puzzle_initial_data@52008",
+    "LuaID": 52008,
+    "SuiteDir": "suite26",
+    "UE5": {
+        "ShowNiagaraEffect": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "sUIPick": {
+            "Type": "String",
+            "Value": "查看柴垛"
+        },
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": false
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "6E7CDE2C43B70C3982991B9700E77C26"
+        },
+        "UE5Comps": {
+            "BillboardComponent": {
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=0.000000,Yaw=14.976726,Roll=-0.000000)"
+                }
+            },
+            "RootSphere": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 159402.8476,
+                        "y": 131866.6349,
+                        "z": 19035.8469
+                    }
+                },
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=0.000000,Yaw=165.023274,Roll=0.000000)"
+                }
+            }
+        }
+    }
+}

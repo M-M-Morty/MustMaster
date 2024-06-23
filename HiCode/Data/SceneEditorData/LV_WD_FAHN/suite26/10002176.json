@@ -1,0 +1,61 @@
+{
+    "id": "176",
+    "transform": {
+        "translation": {
+            "x": 154377.0142,
+            "y": 141252.3568,
+            "z": 19354.6436
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "圆型触发器（无特效）",
+    "description": "null",
+    "kinds": "null",
+    "author": "jaeezhou",
+    "version": "null",
+    "source": "puzzle_initial_data@10002",
+    "LuaID": 10002,
+    "SuiteDir": "suite26",
+    "UE5": {
+        "Radius": {
+            "Type": "Float",
+            "Value": 200.0
+        },
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "09B52B0E4F308DB77AE087ABC3E84135"
+        },
+        "UE5Comps": {
+            "RootSphere": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 154377.0142,
+                        "y": 141252.3568,
+                        "z": 19354.6436
+                    }
+                }
+            },
+            "Sphere": {
+                "SphereRadius": {
+                    "Type": "Float",
+                    "Value": 200.0
+                }
+            }
+        }
+    }
+}

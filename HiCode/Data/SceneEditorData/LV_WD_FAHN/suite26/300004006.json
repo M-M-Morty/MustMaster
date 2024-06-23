@@ -1,0 +1,83 @@
+{
+    "id": "6",
+    "transform": {
+        "translation": {
+            "x": 153547.8705,
+            "y": 128947.7423,
+            "z": 18899.8736
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.9123,
+            "w": 0.4095
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "男守卫",
+    "description": "null",
+    "kinds": "null",
+    "author": "jaeezhou",
+    "version": "null",
+    "source": "npc_base_data@300004",
+    "LuaID": 300004,
+    "SuiteDir": "suite26",
+    "UE5": {
+        "DisplayName": {
+            "Type": "String",
+            "Value": "农夫"
+        },
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "EditorTags": {
+            "Type": "Array",
+            "Value": [
+                {
+                    "Type": "String",
+                    "Value": "40000"
+                }
+            ]
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "0DE1190B4A96ED6C7E2AC6809830DA67"
+        },
+        "UE5Comps": {
+            "CollisionCylinder": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 153547.8705,
+                        "y": 128947.7423,
+                        "z": 18899.8736
+                    }
+                },
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=0.000000,Yaw=131.652666,Roll=0.000000)"
+                }
+            },
+            "DialogueComponent": {
+                "DefaultInteractList": {
+                    "Type": "Array",
+                    "Value": [
+                        {
+                            "Type": "Int",
+                            "Value": 11005
+                        }
+                    ]
+                },
+                "DefaultDialogueId": {
+                    "Type": "Int",
+                    "Value": 4000140
+                }
+            }
+        }
+    }
+}

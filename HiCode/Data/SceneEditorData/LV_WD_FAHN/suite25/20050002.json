@@ -1,0 +1,51 @@
+{
+    "id": "2",
+    "transform": {
+        "translation": {
+            "x": 167465.3875,
+            "y": 103038.5875,
+            "z": 18481.4951
+        },
+        "rotation": {
+            "x": 0.0508,
+            "y": 0.0874,
+            "z": 0.8602,
+            "w": 0.4999
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "巨大光柱",
+    "description": "null",
+    "kinds": "null",
+    "author": "jaeezhou",
+    "version": "null",
+    "source": "puzzle_initial_data@20050",
+    "LuaID": 20050,
+    "UE5": {
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": false
+        },
+        "UE5Comps": {
+            "Niagara": {
+                "InstanceParameterOverrides": {
+                    "Type": "Map",
+                    "Value": {
+                        "(Name=\"User.GoldenLightBeam_Size_2D\",TypeDefHandle=(RegisteredTypeIndex=78))": {
+                            "KeyType": "StructBase@NiagaraVariableBase",
+                            "Value": {
+                                "Type": "StructBase@NiagaraVariant",
+                                "Value": "(Object=None,DataInterface=None,Bytes=(0,0,160,64,0,0,160,65),CurrentMode=Bytes)"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "SuiteDir": "suite25"
+}

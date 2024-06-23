@@ -1,0 +1,51 @@
+{
+    "id": "107",
+    "transform": {
+        "translation": {
+            "x": 159888.332,
+            "y": 98434.173,
+            "z": 18961.5212
+        },
+        "rotation": {
+            "x": 0.6422,
+            "y": 0.5296,
+            "z": 0.3526,
+            "w": 0.4276
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "空采集物",
+    "description": "null",
+    "kinds": "null",
+    "author": "wensleyyu",
+    "version": "null",
+    "source": "puzzle_initial_data@52008",
+    "LuaID": 52008,
+    "SuiteDir": "suite30",
+    "UE5": {
+        "ShowNiagaraEffect": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "sUIPick": {
+            "Type": "String",
+            "Value": "拍一拍"
+        },
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": false
+        },
+        "UE5Comps": {
+            "BillboardComponent": {
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=-64.922325,Yaw=-116.700741,Roll=-155.506282)"
+                }
+            }
+        }
+    }
+}

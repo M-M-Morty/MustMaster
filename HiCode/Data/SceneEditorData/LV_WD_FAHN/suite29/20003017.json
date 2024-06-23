@@ -1,0 +1,47 @@
+{
+    "id": "17",
+    "transform": {
+        "translation": {
+            "x": 114667.9094,
+            "y": 142006.2875,
+            "z": 19374.4637
+        },
+        "rotation": {
+            "x": 0.0482,
+            "y": 0.0013,
+            "z": 0.0264,
+            "w": 0.9985
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "真视柱",
+    "description": "null",
+    "kinds": "null",
+    "author": "wensleyyu",
+    "version": "null",
+    "source": "puzzle_initial_data@20003",
+    "LuaID": 20003,
+    "transform_sightpillar": {
+        "translation": {
+            "x": 114670.9629,
+            "y": 141948.6547,
+            "z": 19970.275
+        },
+        "rotation": {
+            "x": 0.0482,
+            "y": 0.0013,
+            "z": 0.0264,
+            "w": 0.9985
+        },
+        "scale3D": {
+            "x": 0.3,
+            "y": 0.3,
+            "z": 0.3
+        }
+    },
+    "UE5": {}
+}

@@ -1,0 +1,50 @@
+{
+    "id": 1,
+    "transform": {
+        "translation": {
+            "x": -498.1545,
+            "y": 7003.6474,
+            "z": 29.5
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "真视空间镜",
+    "description": "null",
+    "kinds": "null",
+    "author": "dougzhang",
+    "version": "null",
+    "source": "puzzle_initial_data@20001",
+    "UE5": {
+        "RelatedActors": {
+            "Type": "Array",
+            "Value": [
+                {
+                    "Type": "Actor",
+                    "Value": "suite5_50002004"
+                },
+                {
+                    "Type": "Actor",
+                    "Value": "suite5_50002005"
+                },
+                {
+                    "Type": "Actor",
+                    "Value": "suite5_50002006"
+                }
+            ]
+        },
+        "WayPoint": {
+            "Type": "Actor",
+            "Value": "suite5_10101034"
+        }
+    }
+}

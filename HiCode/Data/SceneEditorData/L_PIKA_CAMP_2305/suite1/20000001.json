@@ -1,0 +1,39 @@
+{
+    "id": "1",
+    "transform": {
+        "translation": {
+            "x": 165883.9281,
+            "y": 124744.4613,
+            "z": 20040.5651
+        },
+        "rotation": {
+            "x": 0.1762,
+            "y": -0.0277,
+            "z": -0.1526,
+            "w": 0.972
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "CP001幽灵",
+    "description": "null",
+    "kinds": "null",
+    "author": "tiezhengwu",
+    "version": "null",
+    "sourcepath": "L_PIKA_CAMP_2305/suite1",
+    "source": "puzzle_initial_data@20000",
+    "LuaID": 20000,
+    "UE5": {
+        "fMoveSpeed": {
+            "Type": "Float",
+            "Value": 600.0
+        },
+        "InteractDistance": {
+            "Type": "Int",
+            "Value": 2
+        }
+    }
+}

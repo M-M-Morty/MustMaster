@@ -1,0 +1,51 @@
+{
+    "id": "28",
+    "transform": {
+        "translation": {
+            "x": 159982.4802,
+            "y": 127305.0373,
+            "z": 20714.312
+        },
+        "rotation": {
+            "x": 0.0075,
+            "y": 0.0196,
+            "z": -0.6543,
+            "w": 0.7559
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "苹果树",
+    "description": "null",
+    "kinds": "null",
+    "author": "halfsumluo",
+    "version": "null",
+    "source": "puzzle_initial_data@52000",
+    "LuaID": 52000,
+    "SuiteDir": "suite58",
+    "UE5": {
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "6DFEC6034949284F6C2D7A9B27CD6995"
+        },
+        "UE5Comps": {
+            "RootSphere": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 159982.4802,
+                        "y": 127305.0373,
+                        "z": 20714.312
+                    }
+                }
+            }
+        }
+    }
+}

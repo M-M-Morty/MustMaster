@@ -1,0 +1,47 @@
+{
+    "id": "9",
+    "transform": {
+        "translation": {
+            "x": -45194.8116,
+            "y": -44760.3236,
+            "z": 0.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "【Demo】踩板",
+    "description": "null",
+    "kinds": "null",
+    "author": "vvtu",
+    "version": "null",
+    "source": "puzzle_initial_data@20063",
+    "LuaID": 20063,
+    "SuiteDir": "suite1",
+    "UE5": {
+        "ChargeTime": {
+            "Type": "Float",
+            "Value": 0.5
+        },
+        "AreaAbilityIndeed": {
+            "Type": "Enum@E_SteppedBoardAreaAbilityMode",
+            "Value": "NEW_ENUMERATOR0@0"
+        },
+        "UE5Comps": {
+            "Collision": {
+                "BodyInstance": {
+                    "Type": "StructBase@BodyInstance",
+                    "Value": "(ObjectType=ECC_WorldStatic,CollisionEnabled=QueryAndPhysics,SleepFamily=Normal,DOFMode=Default,bUseCCD=False,bIgnoreAnalyticCollisions=False,bNotifyRigidBodyCollision=False,bSmoothEdgeCollisions=False,bLockTranslation=True,bLockRotation=True,bLockXTranslation=False,bLockYTranslation=False,bLockZTranslation=False,bLockXRotation=False,bLockYRotation=False,bLockZRotation=False,bOverrideMaxAngularVelocity=False,bOverrideMaxDepenetrationVelocity=False,bOverrideWalkableSlopeOnInstance=False,bInterpolateWhenSubStepping=True,bInertiaConditioning=True,CollisionProfileName=\"Custom\",PositionSolverIterationCount=8,VelocitySolverIterationCount=1,CollisionResponses=(ResponseArray=((Channel=\"WorldStatic\",Response=ECR_Ignore),(Channel=\"WorldDynamic\",Response=ECR_Overlap),(Channel=\"Pawn\",Response=ECR_Overlap),(Channel=\"Visibility\",Response=ECR_Ignore),(Channel=\"Camera\",Response=ECR_Ignore),(Channel=\"PhysicsBody\",Response=ECR_Ignore),(Channel=\"Vehicle\",Response=ECR_Ignore),(Channel=\"Destructible\",Response=ECR_Ignore),(Channel=\"BossPawn\",Response=ECR_Ignore),(Channel=\"Weapon\",Response=ECR_Ignore),(Channel=\"Projectile\",Response=ECR_Ignore),(Channel=\"TrapActor\",Response=ECR_Ignore))),MaxDepenetrationVelocity=0.000000,MassInKgOverride=100.000000,LinearDamping=0.010000,AngularDamping=0.000000,CustomDOFPlaneNormal=(X=0.000000,Y=0.000000,Z=0.000000),COMNudge=(X=0.000000,Y=0.000000,Z=0.000000),MassScale=1.000000,InertiaTensorScale=(X=1.000000,Y=1.000000,Z=1.000000),WalkableSlopeOverride=(WalkableSlopeBehavior=WalkableSlope_Default,WalkableSlopeAngle=0.000000),PhysMaterialOverride=None,MaxAngularVelocity=3599.999756,CustomSleepThresholdMultiplier=1.000000,StabilizationThresholdMultiplier=1.000000,PhysicsBlendWeight=0.000000,bSimulatePhysics=False,bOverrideMass=False,bEnableGravity=True,bAutoWeld=True,bStartAwake=True,bGenerateWakeEvents=False,bUpdateMassWhenScaleChanges=True)"
+                }
+            }
+        }
+    }
+}

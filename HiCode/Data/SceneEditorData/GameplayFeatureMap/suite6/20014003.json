@@ -1,0 +1,28 @@
+{
+    "id": 3,
+    "transform": {
+        "translation": {
+            "x": 4940.6585,
+            "y": 4217.2051,
+            "z": -0.5
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "信仰沙钟",
+    "description": "null",
+    "kinds": "null",
+    "author": "dougzhang",
+    "version": "null",
+    "source": "puzzle_initial_data@20014",
+    "UE5": {}
+}

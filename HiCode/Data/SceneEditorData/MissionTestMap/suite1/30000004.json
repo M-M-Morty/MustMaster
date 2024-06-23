@@ -1,0 +1,70 @@
+{
+    "id": "4",
+    "transform": {
+        "translation": {
+            "x": -2473.7406,
+            "y": 11477.2262,
+            "z": 0.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "NPC1",
+    "description": "null",
+    "kinds": "null",
+    "author": "xaelpeng",
+    "version": "null",
+    "source": "npc_base_data@30000",
+    "LuaID": 30000,
+    "UE5": {
+        "InteractDistance": {
+            "Type": "Int",
+            "Value": 3
+        },
+        "DisplayName": {
+            "Type": "String",
+            "Value": "NPC_Pika1"
+        },
+        "IdleMontage": {
+            "Type": "Object",
+            "Value": "/Game/Character/Monster/Pika/Animation/Locomotion/pika_block_Montage.pika_block_Montage"
+        },
+        "bShowToplogo": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "UE5Comps": {
+            "CollisionCylinder": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -2473.7406,
+                        "y": 11477.2262,
+                        "z": 0.0
+                    }
+                }
+            },
+            "NpcBubbleComponent": {
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)"
+                }
+            },
+            "NpcToplogoComponent": {
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)"
+                }
+            }
+        }
+    }
+}

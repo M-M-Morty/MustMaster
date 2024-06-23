@@ -1,0 +1,29 @@
+{
+    "id": "7",
+    "transform": {
+        "translation": {
+            "x": 116281.9808,
+            "y": 144315.4286,
+            "z": 19782.9079
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "pika盒子01",
+    "description": "null",
+    "kinds": "null",
+    "author": "wensleyyu",
+    "version": "null",
+    "source": "puzzle_initial_data@20018",
+    "LuaID": 20018,
+    "UE5": {}
+}

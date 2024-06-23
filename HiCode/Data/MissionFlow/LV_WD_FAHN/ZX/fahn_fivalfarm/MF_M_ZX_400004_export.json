@@ -1,0 +1,114 @@
+{
+    "nodes": {
+        "FlowGraphNode_Start_0": {
+            "NodeGuid": "EBEF39F74B5FD37147C93EAAA51E1613",
+            "Class": "/Script/Flow.FlowNode_Start",
+            "NextGuids": [
+                "76B062D04AB9A2144EA12C9E45B34AE2"
+            ]
+        },
+        "FlowGraphNode_8": {
+            "NodeGuid": "76B062D04AB9A2144EA12C9E45B34AE2",
+            "Class": "/Game/Blueprints/Mission/MissionNode/BP_MissionNode_CheckMissionStartCondition.BP_MissionNode_CheckMissionStartCondition_C",
+            "NextGuids": [
+                "09A1765C4EE02A609B16A3A0F91088C1"
+            ]
+        },
+        "FlowGraphNode_0": {
+            "NodeGuid": "09A1765C4EE02A609B16A3A0F91088C1",
+            "Class": "/Game/Blueprints/Mission/MissionNode/BP_MissionNode_EventOnArriveCircleRegion.BP_MissionNode_EventOnArriveCircleRegion_C",
+            "NextGuids": [
+                "4066766A469BBA66681380AA3EFBCE3E"
+            ]
+        },
+        "FlowGraphNode_1": {
+            "NodeGuid": "4066766A469BBA66681380AA3EFBCE3E",
+            "Class": "/Game/Blueprints/Mission/MissionNode/BP_MissionNode_PlayDialogueFlow.BP_MissionNode_PlayDialogueFlow_C",
+            "NextGuids": [
+                "7F7789D745F4A6C798DC56B3BD6A1486"
+            ]
+        },
+        "FlowGraphNode_3": {
+            "NodeGuid": "7F7789D745F4A6C798DC56B3BD6A1486",
+            "Class": "/Game/Blueprints/Mission/MissionNode/BP_MissionNode_SetNpcsVisibility.BP_MissionNode_SetNpcsVisibility_C",
+            "NextGuids": [
+                "A0E1EB49450D4BCA2A0FEFADE60AA927"
+            ]
+        },
+        "FlowGraphNode_13": {
+            "NodeGuid": "A0E1EB49450D4BCA2A0FEFADE60AA927",
+            "Class": "/Game/Blueprints/Mission/MissionNode/BP_MissionNode_LoadMutableActor.BP_MissionNode_LoadMutableActor_C",
+            "NextGuids": [
+                "088655164841942410FF15AD5DF65A98"
+            ]
+        },
+        "FlowGraphNode_12": {
+            "NodeGuid": "088655164841942410FF15AD5DF65A98",
+            "Class": "/Game/CP0032305_GH/Blueprints/Mission/MissionNode/BP_MissionNode_MusicNode.BP_MissionNode_MusicNode_C",
+            "NextGuids": [
+                "1E0FEF9247E6AFC5A98865A705C97E88"
+            ]
+        },
+        "FlowGraphNode_15": {
+            "NodeGuid": "1E0FEF9247E6AFC5A98865A705C97E88",
+            "Class": "/Game/Blueprints/Mission/MissionNode/BP_MissionNode_UnloadMutableActor.BP_MissionNode_UnloadMutableActor_C",
+            "NextGuids": [
+                "0A0695FD4EA9F1A8F98D66A19F4A191F"
+            ]
+        },
+        "FlowGraphNode_14": {
+            "NodeGuid": "0A0695FD4EA9F1A8F98D66A19F4A191F",
+            "Class": "/Game/Blueprints/Mission/MissionNode/BP_MissionNode_SetNpcsVisibility.BP_MissionNode_SetNpcsVisibility_C",
+            "NextGuids": [
+                "89E432F248D8E30D178D98A8AEE97011"
+            ]
+        },
+        "FlowGraphNode_9": {
+            "NodeGuid": "89E432F248D8E30D178D98A8AEE97011",
+            "Class": "/Game/Blueprints/Mission/MissionNode/BP_MissionNode_PlayDialogueFlow.BP_MissionNode_PlayDialogueFlow_C",
+            "NextGuids": [
+                "439E274B4780B1A94931758BD5EE009B"
+            ]
+        },
+        "FlowGraphNode_11": {
+            "NodeGuid": "439E274B4780B1A94931758BD5EE009B",
+            "Class": "/Game/Blueprints/Mission/MissionNode/BP_MissionNode_SetNpcsVisibility.BP_MissionNode_SetNpcsVisibility_C",
+            "NextGuids": [
+                "14A008CF43C437AA21569BA50F836D30"
+            ]
+        },
+        "FlowGraphNode_2": {
+            "NodeGuid": "14A008CF43C437AA21569BA50F836D30",
+            "Class": "/Game/Blueprints/Mission/MissionNode/BP_MissionNode_PlaySequence.BP_MissionNode_PlaySequence_C",
+            "NextGuids": [
+                "4772BD274403D510F5D9D8A0FDBE7B21"
+            ]
+        },
+        "FlowGraphNode_54": {
+            "NodeGuid": "4772BD274403D510F5D9D8A0FDBE7B21",
+            "Class": "/Game/Blueprints/Mission/MissionNode/BP_MissionNode_ItemsAdd.BP_MissionNode_ItemsAdd_C",
+            "NextGuids": [
+                "0D5349BE46168B26B919BDA28A8ACC6B"
+            ]
+        },
+        "FlowGraphNode_10": {
+            "NodeGuid": "0D5349BE46168B26B919BDA28A8ACC6B",
+            "Class": "/Game/Blueprints/Mission/MissionNode/BP_MissionNode_SetNpcsVisibility.BP_MissionNode_SetNpcsVisibility_C",
+            "NextGuids": [
+                "8BB7AF5F4F8B7CF96C3DFF89D077EEF8"
+            ]
+        },
+        "FlowGraphNode_7": {
+            "NodeGuid": "8BB7AF5F4F8B7CF96C3DFF89D077EEF8",
+            "Class": "/Game/Blueprints/Mission/MissionNode/BP_MissionNode_PlayDialogueFlow.BP_MissionNode_PlayDialogueFlow_C",
+            "NextGuids": [
+                "BE2AD5E249AC6B7714A9C49FEF7BE634"
+            ]
+        },
+        "FlowGraphNode_6": {
+            "NodeGuid": "BE2AD5E249AC6B7714A9C49FEF7BE634",
+            "Class": "/Game/Blueprints/Mission/MissionNode/BP_Finish.BP_Finish_C",
+            "NextGuids": null
+        }
+    }
+}

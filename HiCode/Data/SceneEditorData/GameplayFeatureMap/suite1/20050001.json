@@ -1,0 +1,42 @@
+{
+    "id": "1",
+    "transform": {
+        "translation": {
+            "x": -6009.7763,
+            "y": 8357.1854,
+            "z": 14.5049
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "巨大光柱",
+    "description": "null",
+    "kinds": "null",
+    "author": "turboyuan",
+    "version": "null",
+    "source": "puzzle_initial_data@20050",
+    "LuaID": 20050,
+    "UE5": {
+        "UE5Comps": {
+            "RootSphere": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -6009.7763,
+                        "y": 8357.1854,
+                        "z": 14.5049
+                    }
+                }
+            }
+        }
+    }
+}

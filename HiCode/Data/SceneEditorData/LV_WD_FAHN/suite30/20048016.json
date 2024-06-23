@@ -1,0 +1,66 @@
+{
+    "id": "16",
+    "transform": {
+        "translation": {
+            "x": 164720.024,
+            "y": 103406.2311,
+            "z": 19852.9508
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "可隐藏物件",
+    "description": "null",
+    "kinds": "null",
+    "author": "wensleyyu",
+    "version": "null",
+    "source": "puzzle_initial_data@20048",
+    "LuaID": 20048,
+    "UE5": {
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": false
+        },
+        "UE5Comps": {
+            "RootSphere": {
+                "RelativeScale3D": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    }
+                }
+            },
+            "StaticMesh": {
+                "StaticMesh": {
+                    "Type": "Object",
+                    "Value": "/Game/Environment/Common/Scene/Prop/SM_SC_Prop_Lamp_01/SM_SC_Prop_Lamp_05.SM_SC_Prop_Lamp_05"
+                },
+                "OverrideMaterials": {
+                    "Type": "Array",
+                    "Value": [
+                        {
+                            "Type": "Object",
+                            "Value": "/Game/Environment/Common/Scene/Prop/SM_SC_Prop_Lamp_01/Inst/MI_SC_Prop_Lamp_05_Masked_WPO_01.MI_SC_Prop_Lamp_05_Masked_WPO_01"
+                        },
+                        {
+                            "Type": "Object",
+                            "Value": "/Game/Material/Character/M_CHA_Eye_Glass.M_CHA_Eye_Glass"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "SuiteDir": "suite30"
+}

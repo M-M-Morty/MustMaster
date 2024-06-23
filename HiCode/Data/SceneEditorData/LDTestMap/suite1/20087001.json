@@ -1,0 +1,47 @@
+{
+    "id": "1",
+    "transform": {
+        "translation": {
+            "x": -89.0206,
+            "y": -195.132,
+            "z": -58.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "钵钵鸡",
+    "description": "null",
+    "kinds": "null",
+    "author": "zheyuancao",
+    "version": "null",
+    "source": "puzzle_initial_data@20087",
+    "LuaID": 20087,
+    "SuiteDir": "suite1",
+    "UE5": {
+        "UE5Comps": {
+            "CollisionCylinder": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -89.0206,
+                        "y": -195.132,
+                        "z": -58.0
+                    }
+                },
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=0.000000,Yaw=-90.000000,Roll=-0.000000)"
+                }
+            }
+        }
+    }
+}

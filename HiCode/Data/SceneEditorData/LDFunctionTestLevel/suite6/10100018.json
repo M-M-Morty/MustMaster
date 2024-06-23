@@ -1,0 +1,28 @@
+{
+    "id": "18",
+    "transform": {
+        "translation": {
+            "x": 2258.8843,
+            "y": -941.1783,
+            "z": 85.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "路点",
+    "description": "null",
+    "kinds": "null",
+    "author": "JINXL",
+    "version": "null",
+    "source": "puzzle_initial_data@10100",
+    "UE5": {}
+}

@@ -1,0 +1,56 @@
+{
+    "id": "66",
+    "transform": {
+        "translation": {
+            "x": 169728.1342,
+            "y": 104315.2351,
+            "z": 18407.8268
+        },
+        "rotation": {
+            "x": -0.0013,
+            "y": -0.036,
+            "z": 0.9713,
+            "w": 0.235
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "宝箱 (中级)",
+    "description": "null",
+    "kinds": "null",
+    "author": "tiezhengwu",
+    "version": "null",
+    "source": "puzzle_initial_data@50001",
+    "LuaID": 50001,
+    "UE5": {
+        "bLock": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "SplineNodeLocation": {
+            "Type": "SplineNodeLocation",
+            "Value": [
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -94.0349,
+                        "y": -7.877,
+                        "z": 128.3092
+                    }
+                }
+            ]
+        }
+    },
+    "SuiteDir": "suite28"
+}

@@ -1,0 +1,52 @@
+{
+    "id": "2",
+    "transform": {
+        "translation": {
+            "x": 150963.9756,
+            "y": 119476.7798,
+            "z": 19504.4481
+        },
+        "rotation": {
+            "x": 0.0215,
+            "y": -0.0313,
+            "z": -0.8236,
+            "w": 0.566
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "鸟蛋",
+    "description": "null",
+    "kinds": "null",
+    "author": "xiaoxiaopi",
+    "version": "null",
+    "source": "puzzle_initial_data@52006",
+    "UE5": {
+        "Num": {
+            "Type": "Int",
+            "Value": 2
+        },
+        "UE5Comps": {
+            "BillboardComponent": {
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=4.062136,Yaw=-68.940335,Roll=1.563497)"
+                }
+            },
+            "RootSphere": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 150963.9756,
+                        "y": 119476.7798,
+                        "z": 19504.4481
+                    }
+                }
+            }
+        }
+    },
+    "SuiteDir": "suite1"
+}

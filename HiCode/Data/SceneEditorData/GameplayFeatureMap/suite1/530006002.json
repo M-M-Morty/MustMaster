@@ -1,0 +1,30 @@
+{
+    "id": "2",
+    "transform": {
+        "translation": {
+            "x": 851.8955,
+            "y": -6367.5292,
+            "z": 14.5049
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "电话机",
+    "description": "null",
+    "kinds": "null",
+    "author": "guettazhang",
+    "version": "null",
+    "source": "puzzle_initial_data@530006",
+    "LuaID": 530006,
+    "SuiteDir": "suite1",
+    "UE5": {}
+}

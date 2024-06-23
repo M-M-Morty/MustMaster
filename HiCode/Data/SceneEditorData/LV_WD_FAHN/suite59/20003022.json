@@ -1,0 +1,62 @@
+{
+    "id": "22",
+    "transform": {
+        "translation": {
+            "x": 162393.5383,
+            "y": 113487.4496,
+            "z": 21996.2356
+        },
+        "rotation": {
+            "x": 0.0241,
+            "y": -0.0581,
+            "z": -0.9221,
+            "w": 0.3819
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "真视柱",
+    "description": "null",
+    "kinds": "null",
+    "author": "halfsumluo",
+    "version": "null",
+    "source": "puzzle_initial_data@20003",
+    "LuaID": 20003,
+    "SuiteDir": "suite59",
+    "UE5": {
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "304F620944DE8FD361B687BFB0B9C98A"
+        },
+        "UE5Comps": {
+            "Billboard": {
+                "OverrideMaterials": {
+                    "Type": "Array",
+                    "Value": [
+                        {
+                            "Type": "Object",
+                            "Value": "/Game/Maps/LV_WD_FAHN/LV_WD_FAHN.LV_WD_FAHN:PersistentLevel.BP_SightPillar_C_1.Billboard.MaterialInstanceDynamic_0"
+                        }
+                    ]
+                }
+            },
+            "RootSphere": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 162393.5383,
+                        "y": 113487.4496,
+                        "z": 21996.2356
+                    }
+                }
+            }
+        }
+    }
+}

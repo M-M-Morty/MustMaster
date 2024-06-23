@@ -1,0 +1,55 @@
+{
+    "id": "13",
+    "transform": {
+        "translation": {
+            "x": 809.0878,
+            "y": 27631.4298,
+            "z": 3956.8744
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "蔷薇领-小气球",
+    "description": "null",
+    "kinds": "null",
+    "author": "johnyou",
+    "version": "null",
+    "source": "puzzle_initial_data@20091",
+    "LuaID": 20091,
+    "SuiteDir": "suite7",
+    "UE5": {
+        "SafeAreaClass": {
+            "Type": "Object",
+            "Value": "/Game/Blueprints/Trap/TrapSafeArea.TrapSafeArea_C"
+        },
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "86E62F46468332E4B0A97AB7C8F3A20B"
+        },
+        "UE5Comps": {
+            "RootSphere": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 809.0878,
+                        "y": 27631.4298,
+                        "z": 3956.8744
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "id": "76",
+    "transform": {
+        "translation": {
+            "x": 164679.9151,
+            "y": 129643.9802,
+            "z": 20206.7314
+        },
+        "rotation": {
+            "x": 0.1142,
+            "y": 0.0968,
+            "z": 0.6391,
+            "w": 0.7544
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "皇菇",
+    "description": "null",
+    "kinds": "null",
+    "author": "halfsumluo",
+    "version": "null",
+    "source": "puzzle_initial_data@52003",
+    "LuaID": 52003,
+    "SuiteDir": "suite58",
+    "UE5": {
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "D0C078784AA4C340FDAED4B093B1CB56"
+        },
+        "UE5Comps": {
+            "BillboardComponent": {
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=-16.979934,Yaw=99.897858,Roll=-2.917117)"
+                }
+            },
+            "RootSphere": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 164679.9151,
+                        "y": 129643.9802,
+                        "z": 20206.7314
+                    }
+                }
+            }
+        }
+    }
+}

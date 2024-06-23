@@ -1,0 +1,47 @@
+{
+    "id": "8",
+    "transform": {
+        "translation": {
+            "x": 177468.3178,
+            "y": 106124.3069,
+            "z": 24204.7278
+        },
+        "rotation": {
+            "x": 0.0177,
+            "y": 0.0365,
+            "z": 0.8995,
+            "w": 0.435
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "真视柱",
+    "description": "null",
+    "kinds": "null",
+    "author": "JINXL",
+    "version": "null",
+    "source": "puzzle_initial_data@20003",
+    "transform_sightpillar": {
+        "translation": {
+            "x": 177506.3883,
+            "y": 106154.3961,
+            "z": 24821.3577
+        },
+        "rotation": {
+            "x": 0.0177,
+            "y": 0.0365,
+            "z": 0.8995,
+            "w": 0.435
+        },
+        "scale3D": {
+            "x": 0.3,
+            "y": 0.3,
+            "z": 0.3
+        }
+    },
+    "UE5": {},
+    "SuiteDir": "suite13"
+}

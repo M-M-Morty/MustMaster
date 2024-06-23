@@ -1,0 +1,29 @@
+{
+    "id": "5",
+    "transform": {
+        "translation": {
+            "x": 93010.3213,
+            "y": 169917.3449,
+            "z": 20003.2617
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "pika盒子03",
+    "description": "null",
+    "kinds": "null",
+    "author": "tiezhengwu",
+    "version": "null",
+    "source": "puzzle_initial_data@20020",
+    "LuaID": 20020,
+    "UE5": {}
+}

@@ -1,0 +1,78 @@
+{
+    "id": "1",
+    "transform": {
+        "translation": {
+            "x": 151007.4078,
+            "y": 134993.1541,
+            "z": 18888.4779
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.9333,
+            "w": 0.359
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "巴比伦女居民npc",
+    "description": "null",
+    "kinds": "null",
+    "author": "jaeezhou",
+    "version": "null",
+    "source": "npc_base_data@300019",
+    "LuaID": 300019,
+    "SuiteDir": "suite26",
+    "UE5": {
+        "DisplayName": {
+            "Type": "String",
+            "Value": "瑟琳娜"
+        },
+        "bShowToplogo": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "EditorTags": {
+            "Type": "Array",
+            "Value": [
+                {
+                    "Type": "String",
+                    "Value": "40000"
+                }
+            ]
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "99C97EF14D465F81C99545A644A2CF7D"
+        },
+        "UE5Comps": {
+            "CharacterMesh0": {
+                "AnimationData": {
+                    "Type": "StructBase@SingleAnimationPlayData",
+                    "Value": "(AnimToPlay=\"/Script/Engine.AnimSequence'/Game/Character/NPC/Woman/Animation/Woman_P_Stand.Woman_P_Stand'\",bSavedLooping=True,bSavedPlaying=True,SavedPosition=0.000000,SavedPlayRate=1.000000)"
+                }
+            },
+            "CollisionCylinder": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 151007.4078,
+                        "y": 134993.1541,
+                        "z": 18888.4779
+                    }
+                },
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=0.000000,Yaw=137.920864,Roll=0.000000)"
+                }
+            }
+        }
+    }
+}

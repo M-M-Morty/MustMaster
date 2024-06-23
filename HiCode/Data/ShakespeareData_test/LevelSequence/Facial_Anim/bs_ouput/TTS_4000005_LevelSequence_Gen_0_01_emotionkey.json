@@ -1,0 +1,49 @@
+{
+    "exportFps": 30,
+    "trackPath": "H:\\ProjectHi_2nd\\HiGame\\Content\\Data\\ShakespeareData_test\\LevelSequence\\Audio\\TTS_4000005_LevelSequence_Gen_0_01.wav",
+    "CoreNodeName": "/World/audio2face/CoreFullface",
+    "numFrames": 44,
+    "numEmotions": 10,
+    "emotionNames": [
+        "amazement",
+        "anger",
+        "cheekiness",
+        "disgust",
+        "fear",
+        "grief",
+        "joy",
+        "outofbreath",
+        "pain",
+        "sadness"
+    ],
+    "emotionFrames": [
+        0.25,
+        30.25
+    ],
+    "emotionKeys": [
+        [
+            0.0,
+            0.586053729057312,
+            0.0,
+            0.004137351177632809,
+            0.015570071525871754,
+            0.0,
+            0.003862993326038122,
+            0.0,
+            0.0,
+            0.002425548853352666
+        ],
+        [
+            0.0,
+            0.590212345123291,
+            0.0,
+            0.005030221771448851,
+            0.006216404493898153,
+            0.0,
+            0.005601238925009966,
+            0.0,
+            0.0,
+            0.003041357733309269
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "id": "1",
+    "transform": {
+        "translation": {
+            "x": 166395.3468,
+            "y": 125591.2944,
+            "z": 20262.9388
+        },
+        "rotation": {
+            "x": 0.1891,
+            "y": -0.0334,
+            "z": -0.1705,
+            "w": 0.9665
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "时间胶囊（Run)",
+    "description": "null",
+    "kinds": "null",
+    "author": "tiezhengwu",
+    "version": "null",
+    "source": "puzzle_initial_data@20009",
+    "LuaID": 20009,
+    "UE5": {}
+}

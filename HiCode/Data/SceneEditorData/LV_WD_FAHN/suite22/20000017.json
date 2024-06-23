@@ -1,0 +1,39 @@
+{
+    "id": "17",
+    "transform": {
+        "translation": {
+            "x": 178724.2226,
+            "y": 120523.3861,
+            "z": 22899.8788
+        },
+        "rotation": {
+            "x": 0.0497,
+            "y": -0.0153,
+            "z": -0.2942,
+            "w": 0.9543
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "CP001幽灵",
+    "description": "null",
+    "kinds": "null",
+    "author": "ximeizhang",
+    "version": "null",
+    "sourcepath": "LV_WD_FAHN/suite22",
+    "source": "puzzle_initial_data@20000",
+    "LuaID": 20000,
+    "UE5": {
+        "fMoveSpeed": {
+            "Type": "Float",
+            "Value": 600.0
+        },
+        "InteractDistance": {
+            "Type": "Int",
+            "Value": 2
+        }
+    }
+}

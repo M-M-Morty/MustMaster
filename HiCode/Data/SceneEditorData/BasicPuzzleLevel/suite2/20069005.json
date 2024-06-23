@@ -1,0 +1,140 @@
+{
+    "id": "5",
+    "transform": {
+        "translation": {
+            "x": 6533.4658,
+            "y": 5519.4099,
+            "z": 1949.7812
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7062,
+            "w": 0.708
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "【Demo】滚木",
+    "description": "null",
+    "kinds": "null",
+    "author": "",
+    "version": "null",
+    "source": "puzzle_initial_data@20069",
+    "LuaID": 20069,
+    "SuiteDir": "suite2",
+    "UE5": {
+        "rollingSpeed": {
+            "Type": "Float",
+            "Value": 1000.0
+        },
+        "UE5Comps": {
+            "Spline": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 406.2605,
+                        "y": 36.4026,
+                        "z": 247.329
+                    }
+                },
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=-49.999799,Yaw=-9.922751,Roll=-0.165661)"
+                }
+            },
+            "StaticMesh": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -0.8779,
+                        "y": -434.894,
+                        "z": 225.917
+                    }
+                },
+                "RelativeScale3D": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 4.0,
+                        "y": 4.0,
+                        "z": 4.0
+                    }
+                }
+            },
+            "Trigger_Generate": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 2352.6034,
+                        "y": 498.9438,
+                        "z": -1554.7527
+                    }
+                },
+                "RelativeScale3D": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 20.5,
+                        "y": 20.5,
+                        "z": 20.5
+                    }
+                }
+            }
+        },
+        "SplineNodeLocation": {
+            "Type": "SplineNodeLocation",
+            "Value": [
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -11.5465,
+                        "y": -220.8482,
+                        "z": -391.4707
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 543.9071,
+                        "y": 240.7613,
+                        "z": -130.696
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 969.8462,
+                        "y": 1127.0675,
+                        "z": 110.135
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 1362.8586,
+                        "y": 1490.3407,
+                        "z": 240.0101
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 1925.3944,
+                        "y": 2013.7027,
+                        "z": 308.3792
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 2580.8022,
+                        "y": 2151.1643,
+                        "z": 298.4218
+                    }
+                }
+            ]
+        }
+    }
+}

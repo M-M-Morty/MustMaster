@@ -1,0 +1,68 @@
+{
+    "id": 1,
+    "transform": {
+        "translation": {
+            "x": 8940.7423,
+            "y": 5424.8898,
+            "z": -0.4999
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.9514,
+            "w": 0.3079
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "真视柱",
+    "sightpillar_icon": "/Game/Blueprints/Actor/sightpillar/SM_SC_Rock_Column_02_B.SM_SC_Rock_Column_02_B",
+    "description": "null",
+    "kinds": "null",
+    "author": "xiaoxiaopi",
+    "version": "null",
+    "source": "puzzle_initial_data@20003",
+    "transform_sightpillar": {
+        "translation": {
+            "x": 8940.7423,
+            "y": 5424.8898,
+            "z": 609.5001
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 0.4,
+            "y": 0.4,
+            "z": 0.4
+        }
+    },
+    "UE5": {
+        "BillboardScale": {
+            "Type": "Float",
+            "Value": 2.0
+        },
+        "eSightType": {
+            "Type": "Enum@E_SightType",
+            "Value": "EARTH@0"
+        },
+        "UE5Comps": {
+            "Billboard": {
+                "RelativeScale3D": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 4.0,
+                        "y": 4.0,
+                        "z": 4.0
+                    }
+                }
+            }
+        }
+    }
+}

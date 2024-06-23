@@ -1,0 +1,82 @@
+{
+    "id": "2",
+    "transform": {
+        "translation": {
+            "x": 151685.8974,
+            "y": 132165.3314,
+            "z": 18883.9922
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "克莱尔特临时npc",
+    "description": "null",
+    "kinds": "null",
+    "author": "jaeezhou",
+    "version": "null",
+    "source": "npc_base_data@300022",
+    "LuaID": 300022,
+    "SuiteDir": "suite26",
+    "UE5": {
+        "DisplayName": {
+            "Type": "String",
+            "Value": "克莱尔特"
+        },
+        "bShowToplogo": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "EditorTags": {
+            "Type": "Array",
+            "Value": [
+                {
+                    "Type": "String",
+                    "Value": "40000"
+                }
+            ]
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "415069F94AA7773033C88B87690AB1CF"
+        },
+        "UE5Comps": {
+            "CharacterMesh0": {
+                "AnimationData": {
+                    "Type": "StructBase@SingleAnimationPlayData",
+                    "Value": "(AnimToPlay=\"/Script/Engine.AnimSequence'/Game/Character/NPC/Girl/Animation/Girl_P_CrutchStand.Girl_P_CrutchStand'\",bSavedLooping=True,bSavedPlaying=True,SavedPosition=0.000000,SavedPlayRate=1.000000)"
+                },
+                "AnimationMode": {
+                    "Type": "Enum@AnimationMode",
+                    "Value": "ANIMATION_SINGLE_NODE@1"
+                }
+            },
+            "CollisionCylinder": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 151685.8974,
+                        "y": 132165.3314,
+                        "z": 18883.9922
+                    }
+                },
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=0.000000,Yaw=-269.999999,Roll=0.000000)"
+                }
+            }
+        }
+    }
+}

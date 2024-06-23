@@ -1,0 +1,28 @@
+{
+    "id": "92",
+    "transform": {
+        "translation": {
+            "x": 162870.5505,
+            "y": 104006.363,
+            "z": 18049.7548
+        },
+        "rotation": {
+            "x": 0.107,
+            "y": -0.076,
+            "z": -0.5739,
+            "w": 0.8083
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "晴葵",
+    "description": "null",
+    "kinds": "null",
+    "author": "wensleyyu",
+    "version": "null",
+    "source": "puzzle_initial_data@52005",
+    "LuaID": 52005
+}

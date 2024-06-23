@@ -1,0 +1,166 @@
+{
+    "id": "74",
+    "transform": {
+        "translation": {
+            "x": 165687.2235,
+            "y": 103420.486,
+            "z": 17093.5214
+        },
+        "rotation": {
+            "x": 0.0234,
+            "y": -0.1852,
+            "z": -0.9747,
+            "w": 0.1229
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "路点-Spline",
+    "description": "null",
+    "kinds": "null",
+    "author": "wensleyyu",
+    "version": "null",
+    "source": "puzzle_initial_data@10101",
+    "LuaID": 10101,
+    "UE5": {
+        "bSnapToFloor": {
+            "Type": "Boolean",
+            "Value": false
+        },
+        "eNPCMoveType": {
+            "Type": "Enum@E_NPCMoveType",
+            "Value": "TRIGGER_BY_MISSION@5"
+        },
+        "bMoveViaSpline": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "UE5Comps": {
+            "EndPoint": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -1202.7506,
+                        "y": 2226.0312,
+                        "z": -844.6065
+                    }
+                }
+            },
+            "StartPoint": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -530.6997,
+                        "y": -1311.517,
+                        "z": 368.0224
+                    }
+                }
+            }
+        },
+        "SplineNodeLocation": {
+            "Type": "SplineNodeLocation",
+            "Value": [
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -530.6997,
+                        "y": -1311.517,
+                        "z": 348.0224
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -388.1463,
+                        "y": -288.6198,
+                        "z": 39.9647
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -294.3848,
+                        "y": 298.0099,
+                        "z": 52.3294
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -200.5487,
+                        "y": 642.63,
+                        "z": 16.6785
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -73.2166,
+                        "y": 973.6709,
+                        "z": -93.9178
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -36.2912,
+                        "y": 1383.9603,
+                        "z": -378.6051
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -217.5677,
+                        "y": 1632.7663,
+                        "z": -538.5145
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 33.2796,
+                        "y": 1607.942,
+                        "z": -468.8997
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 148.9642,
+                        "y": 1622.7736,
+                        "z": -501.8333
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -101.7026,
+                        "y": 1594.5209,
+                        "z": -501.3952
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -902.5462,
+                        "y": 2298.416,
+                        "z": -851.0334
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -1202.7506,
+                        "y": 2226.0312,
+                        "z": -864.6065
+                    }
+                }
+            ]
+        }
+    },
+    "SuiteDir": "suite30"
+}

@@ -1,0 +1,44 @@
+{
+    "id": "2",
+    "transform": {
+        "translation": {
+            "x": 165876.2854,
+            "y": 124947.1723,
+            "z": 19841.7545
+        },
+        "rotation": {
+            "x": 0.1738,
+            "y": -0.0338,
+            "z": -0.1877,
+            "w": 0.9661
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "真视柱_逻辑",
+    "description": "null",
+    "kinds": "null",
+    "author": "tiezhengwu",
+    "version": "null",
+    "sourcepath": "L_PIKA_CAMP_2305/suite1",
+    "source": "puzzle_initial_data@20004",
+    "LuaID": 20004,
+    "UE5": {
+        "RefreshList": {
+            "Type": "Array",
+            "Value": [
+                {
+                    "Type": "Actor",
+                    "Value": "suite1_20003003"
+                },
+                {
+                    "Type": "Actor",
+                    "Value": "suite1_20003004"
+                }
+            ]
+        }
+    }
+}

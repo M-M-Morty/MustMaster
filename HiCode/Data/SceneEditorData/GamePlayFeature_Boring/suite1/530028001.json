@@ -1,0 +1,51 @@
+{
+    "id": "1",
+    "transform": {
+        "translation": {
+            "x": 66.2645,
+            "y": 26440.1116,
+            "z": 1200.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "食品加工厂-热气球-气球",
+    "description": "null",
+    "kinds": "null",
+    "author": "vvtu",
+    "version": "null",
+    "source": "puzzle_initial_data@530028",
+    "LuaID": 530028,
+    "SuiteDir": "suite1",
+    "UE5": {
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "6FDC1F774A5FC60C25A145BEE8FCA4DE"
+        },
+        "UE5Comps": {
+            "RootSphere": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 66.2645,
+                        "y": 26440.1116,
+                        "z": 1200.0
+                    }
+                }
+            }
+        }
+    }
+}

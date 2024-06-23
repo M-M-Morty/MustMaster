@@ -1,0 +1,57 @@
+{
+    "id": "88",
+    "transform": {
+        "translation": {
+            "x": 155346.8602,
+            "y": 123410.1162,
+            "z": 19589.7947
+        },
+        "rotation": {
+            "x": 0.0034,
+            "y": 0.0083,
+            "z": 0.9238,
+            "w": 0.3827
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "可破碎物-木箱",
+    "description": "null",
+    "kinds": "null",
+    "author": "halfsumluo",
+    "version": "null",
+    "source": "puzzle_initial_data@530001",
+    "LuaID": 530001,
+    "SuiteDir": "suite59",
+    "UE5": {
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "EBA5DAED486941743934BD81BF89F15C"
+        },
+        "UE5Comps": {
+            "RootComponent": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 155346.8602,
+                        "y": 123410.1162,
+                        "z": 19589.7947
+                    }
+                }
+            },
+            "StaticMesh": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 155346.8602,
+                        "y": 123410.1162,
+                        "z": 19589.7947
+                    }
+                }
+            }
+        }
+    }
+}

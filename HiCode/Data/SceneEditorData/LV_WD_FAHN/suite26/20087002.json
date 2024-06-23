@@ -1,0 +1,63 @@
+{
+    "id": "2",
+    "transform": {
+        "translation": {
+            "x": 157912.2259,
+            "y": 134354.5943,
+            "z": 18730.8865
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.9855,
+            "w": 0.1699
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "钵钵鸡",
+    "description": "null",
+    "kinds": "null",
+    "author": "jaeezhou",
+    "version": "null",
+    "source": "puzzle_initial_data@20087",
+    "LuaID": 20087,
+    "SuiteDir": "suite26",
+    "UE5": {
+        "CenterPoint": {
+            "Type": "Actor",
+            "Value": "suite26_20088001"
+        },
+        "Coop": {
+            "Type": "Actor",
+            "Value": "suite26_20089001"
+        },
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "8D638B9248CD0117F7E6C49FDEB330BB"
+        },
+        "UE5Comps": {
+            "CollisionCylinder": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 157912.2259,
+                        "y": 134354.5943,
+                        "z": 18730.8865
+                    }
+                },
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=0.003919,Yaw=-160.441202,Roll=0.000000)"
+                }
+            }
+        }
+    }
+}

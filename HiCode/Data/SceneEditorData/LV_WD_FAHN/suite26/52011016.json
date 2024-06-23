@@ -1,0 +1,97 @@
+{
+    "id": "16",
+    "transform": {
+        "translation": {
+            "x": 152748.7869,
+            "y": 132452.1134,
+            "z": 18837.9273
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.9981,
+            "w": 0.062
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "叙事交互物",
+    "description": "null",
+    "kinds": "null",
+    "author": "jaeezhou",
+    "version": "null",
+    "source": "puzzle_initial_data@52011",
+    "LuaID": 52011,
+    "SuiteDir": "suite26",
+    "UE5": {
+        "MonologueID": {
+            "Type": "Int",
+            "Value": 40000117
+        },
+        "Cooldown": {
+            "Type": "Float",
+            "Value": 2.0
+        },
+        "sUIPick": {
+            "Type": "String",
+            "Value": "查看"
+        },
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "9392166D46FFD4F5563382A4A7D8FC1B"
+        },
+        "UE5Comps": {
+            "BillboardComponent": {
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=0.000000,Yaw=7.109067,Roll=-0.000000)"
+                }
+            },
+            "NS_pick_Common_StaticMesh": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 18.3589,
+                        "y": 6.3207,
+                        "z": 51.0
+                    }
+                }
+            },
+            "Niagara": {
+                "Asset": {
+                    "Type": "None",
+                    "Value": null
+                },
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 17.9854,
+                        "y": 1.2353,
+                        "z": 54.0
+                    }
+                }
+            },
+            "RootSphere": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 152748.7869,
+                        "y": 132452.1134,
+                        "z": 18837.9273
+                    }
+                },
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=0.000000,Yaw=172.890933,Roll=0.000000)"
+                }
+            }
+        }
+    }
+}

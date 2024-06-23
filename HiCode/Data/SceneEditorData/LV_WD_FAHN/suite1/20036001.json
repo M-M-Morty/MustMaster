@@ -1,0 +1,29 @@
+{
+    "id": "1",
+    "transform": {
+        "translation": {
+            "x": 92886.8278,
+            "y": 174824.1808,
+            "z": 20003.2616
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "奥兹谷电视柱-幽灵",
+    "description": "null",
+    "kinds": "null",
+    "author": "tiezhengwu",
+    "version": "null",
+    "source": "puzzle_initial_data@20036",
+    "LuaID": 20036,
+    "UE5": {}
+}

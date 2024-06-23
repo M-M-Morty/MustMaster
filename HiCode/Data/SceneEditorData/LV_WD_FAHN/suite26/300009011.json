@@ -1,0 +1,68 @@
+{
+    "id": "11",
+    "transform": {
+        "translation": {
+            "x": 151797.017,
+            "y": 132178.4962,
+            "z": 18887.9923
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.9063,
+            "w": 0.4226
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "卡尔",
+    "description": "null",
+    "kinds": "null",
+    "author": "jaeezhou",
+    "version": "null",
+    "source": "npc_base_data@300009",
+    "LuaID": 300009,
+    "SuiteDir": "suite26",
+    "UE5": {
+        "DisplayName": {
+            "Type": "String",
+            "Value": "卡尔"
+        },
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "EditorTags": {
+            "Type": "Array",
+            "Value": [
+                {
+                    "Type": "String",
+                    "Value": "40000"
+                }
+            ]
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "3291DBF34D4B812F3DB9AF938E9CAA14"
+        },
+        "UE5Comps": {
+            "CollisionCylinder": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 151797.017,
+                        "y": 132178.4962,
+                        "z": 18887.9923
+                    }
+                },
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=0.000000,Yaw=130.001519,Roll=0.000000)"
+                }
+            }
+        }
+    }
+}

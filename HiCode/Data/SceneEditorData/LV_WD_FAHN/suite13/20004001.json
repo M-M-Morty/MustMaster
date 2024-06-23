@@ -1,0 +1,51 @@
+{
+    "id": "1",
+    "transform": {
+        "translation": {
+            "x": 178158.2409,
+            "y": 105111.1612,
+            "z": 23487.4348
+        },
+        "rotation": {
+            "x": 0.043,
+            "y": 0.0384,
+            "z": 0.6643,
+            "w": 0.7452
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "真视柱_逻辑",
+    "description": "null",
+    "kinds": "null",
+    "author": "JINXL",
+    "version": "null",
+    "sourcepath": "LV_WD_FAHN/suite13",
+    "source": "puzzle_initial_data@20004",
+    "UE5": {
+        "RefreshList": {
+            "Type": "Array",
+            "Value": [
+                {
+                    "Type": "Actor",
+                    "Value": "suite13_20003008"
+                },
+                {
+                    "Type": "Actor",
+                    "Value": "suite13_20003010"
+                },
+                {
+                    "Type": "Actor",
+                    "Value": "suite13_20003008"
+                },
+                {
+                    "Type": "Actor",
+                    "Value": "suite13_20003009"
+                }
+            ]
+        }
+    }
+}

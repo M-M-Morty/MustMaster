@@ -1,0 +1,73 @@
+{
+    "id": "13",
+    "transform": {
+        "translation": {
+            "x": 152390.8856,
+            "y": 131461.6673,
+            "z": 19511.7814
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "空NPC",
+    "description": "null",
+    "kinds": "null",
+    "author": "jaeezhou",
+    "version": "null",
+    "source": "npc_base_data@300027",
+    "LuaID": 300027,
+    "SuiteDir": "suite26",
+    "UE5": {
+        "DisplayName": {
+            "Type": "String",
+            "Value": "克莱尔特"
+        },
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "1C6EF2FC4A0412734EAC26ADD812E309"
+        },
+        "UE5Comps": {
+            "CharMoveComp": {
+                "GravityScale": {
+                    "Type": "Float",
+                    "Value": 0.0
+                },
+                "NavAgentProps": {
+                    "Type": "StructBase@NavAgentProperties",
+                    "Value": "(AgentRadius=50.000000,AgentHeight=100.000000,AgentStepHeight=-1.000000,NavWalkingSearchHeightScale=0.500000,PreferredNavData=None,bCanCrouch=False,bCanJump=True,bCanWalk=True,bCanSwim=True,bCanFly=False)"
+                }
+            },
+            "CollisionCylinder": {
+                "BodyInstance": {
+                    "Type": "StructBase@BodyInstance",
+                    "Value": "(ObjectType=ECC_WorldStatic,CollisionEnabled=NoCollision,SleepFamily=Normal,DOFMode=Default,bUseCCD=False,bIgnoreAnalyticCollisions=False,bNotifyRigidBodyCollision=False,bSmoothEdgeCollisions=False,bLockTranslation=True,bLockRotation=True,bLockXTranslation=False,bLockYTranslation=False,bLockZTranslation=False,bLockXRotation=False,bLockYRotation=False,bLockZRotation=False,bOverrideMaxAngularVelocity=False,bOverrideMaxDepenetrationVelocity=False,bOverrideWalkableSlopeOnInstance=True,bInterpolateWhenSubStepping=False,bInertiaConditioning=True,CollisionProfileName=\"NoCollision\",PositionSolverIterationCount=8,VelocitySolverIterationCount=1,CollisionResponses=(ResponseArray=((Channel=\"Visibility\",Response=ECR_Ignore),(Channel=\"Camera\",Response=ECR_Ignore))),MaxDepenetrationVelocity=0.000000,MassInKgOverride=100.000000,LinearDamping=0.010000,AngularDamping=0.000000,CustomDOFPlaneNormal=(X=0.000000,Y=0.000000,Z=0.000000),COMNudge=(X=0.000000,Y=0.000000,Z=0.000000),MassScale=1.000000,InertiaTensorScale=(X=1.000000,Y=1.000000,Z=1.000000),WalkableSlopeOverride=(WalkableSlopeBehavior=WalkableSlope_Unwalkable,WalkableSlopeAngle=0.000000),PhysMaterialOverride=None,MaxAngularVelocity=3599.999756,CustomSleepThresholdMultiplier=1.000000,StabilizationThresholdMultiplier=1.000000,PhysicsBlendWeight=0.000000,bSimulatePhysics=False,bOverrideMass=False,bEnableGravity=True,bUpdateKinematicFromSimulation=False,bAutoWeld=True,bStartAwake=True,bGenerateWakeEvents=False,bUpdateMassWhenScaleChanges=True)"
+                },
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 152390.8856,
+                        "y": 131461.6673,
+                        "z": 19511.7814
+                    }
+                },
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=0.000000,Yaw=-90.000000,Roll=-0.000000)"
+                }
+            }
+        }
+    }
+}

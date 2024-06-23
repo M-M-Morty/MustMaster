@@ -1,0 +1,84 @@
+{
+    "id": "1",
+    "transform": {
+        "translation": {
+            "x": 2977.6355,
+            "y": 2541.6434,
+            "z": 10.5001
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "鸽子NPC",
+    "description": "null",
+    "kinds": "null",
+    "author": "jaeezhou",
+    "version": "null",
+    "source": "npc_base_data@300026",
+    "LuaID": 300026,
+    "SuiteDir": "suite1",
+    "UE5": {
+        "AudioLoop": {
+            "Type": "String",
+            "Value": "Play_Scn_Itm_Dove_Hurt"
+        },
+        "AudioDuration": {
+            "Type": "Float",
+            "Value": 10.0
+        },
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "BF9C5DC44BC83E9C548826B7699FAF58"
+        },
+        "UE5Comps": {
+            "CollisionCylinder": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 2977.6355,
+                        "y": 2541.6434,
+                        "z": 10.5001
+                    }
+                },
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=0.000000,Yaw=-90.000000,Roll=-0.000000)"
+                }
+            }
+        },
+        "SplineNodeLocation": {
+            "Type": "SplineNodeLocation",
+            "Value": [
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 100.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        }
+    }
+}

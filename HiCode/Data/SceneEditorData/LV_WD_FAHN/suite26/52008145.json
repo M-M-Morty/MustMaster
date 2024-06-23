@@ -1,0 +1,75 @@
+{
+    "id": "145",
+    "transform": {
+        "translation": {
+            "x": 149434.8635,
+            "y": 142412.179,
+            "z": 19251.2994
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.3,
+            "y": 1.3,
+            "z": 1.3
+        }
+    },
+    "name": "空采集物",
+    "description": "null",
+    "kinds": "null",
+    "author": "jaeezhou",
+    "version": "null",
+    "source": "puzzle_initial_data@52008",
+    "LuaID": 52008,
+    "SuiteDir": "suite26",
+    "UE5": {
+        "ShowNiagaraEffect": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "sUIPick": {
+            "Type": "String",
+            "Value": "发现大包裹"
+        },
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": false
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "956F7D004AEEF3FBC899BDB617A7AFE4"
+        },
+        "UE5Comps": {
+            "BillboardComponent": {
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)"
+                }
+            },
+            "Niagara": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 0.0,
+                        "y": 6.7986,
+                        "z": 65.4099
+                    }
+                }
+            },
+            "RootSphere": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 149425.59,
+                        "y": 142425.8748,
+                        "z": 19237.9783
+                    }
+                }
+            }
+        }
+    }
+}

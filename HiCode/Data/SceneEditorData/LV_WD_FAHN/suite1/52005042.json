@@ -1,0 +1,28 @@
+{
+    "id": "42",
+    "transform": {
+        "translation": {
+            "x": 164742.5672,
+            "y": 95992.2622,
+            "z": 18401.6089
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.4134,
+            "w": 0.9106
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "晴葵",
+    "description": "null",
+    "kinds": "null",
+    "author": "xiaoxiaopi",
+    "version": "null",
+    "source": "puzzle_initial_data@52005",
+    "UE5": {}
+}

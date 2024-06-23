@@ -1,0 +1,75 @@
+{
+    "id": "4",
+    "transform": {
+        "translation": {
+            "x": 165754.7145,
+            "y": 102296.762,
+            "z": 20403.5512
+        },
+        "rotation": {
+            "x": 0.0065,
+            "y": -0.0035,
+            "z": -0.4675,
+            "w": 0.884
+        },
+        "scale3D": {
+            "x": 0.2,
+            "y": 0.2,
+            "z": 0.2
+        }
+    },
+    "name": "受伤的NPC",
+    "description": "null",
+    "kinds": "null",
+    "author": "jaeezhou",
+    "version": "null",
+    "source": "npc_base_data@300016",
+    "LuaID": 300016,
+    "SuiteDir": "suite25",
+    "UE5": {
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": false
+        },
+        "DisplayName": {
+            "Type": "String",
+            "Value": "朱茜"
+        },
+        "UE5Comps": {
+            "BillboardComponent": {
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=0.701412,Yaw=-124.258079,Roll=-0.477696)"
+                }
+            },
+            "CharMoveComp": {
+                "NavAgentProps": {
+                    "Type": "StructBase@NavAgentProperties",
+                    "Value": "(AgentRadius=6.800000,AgentHeight=17.853909,AgentStepHeight=-1.000000,NavWalkingSearchHeightScale=0.500000,PreferredNavData=None,bCanCrouch=False,bCanJump=True,bCanWalk=True,bCanSwim=True,bCanFly=False)"
+                }
+            },
+            "CollisionCylinder": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 165754.7145,
+                        "y": 102296.762,
+                        "z": 20403.5512
+                    }
+                },
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=0.000000,Yaw=304.255155,Roll=-0.848623)"
+                },
+                "RelativeScale3D": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 0.2,
+                        "y": 0.2,
+                        "z": 0.2
+                    }
+                }
+            }
+        }
+    }
+}

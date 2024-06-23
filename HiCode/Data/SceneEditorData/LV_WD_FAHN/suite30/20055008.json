@@ -1,0 +1,63 @@
+{
+    "id": "8",
+    "transform": {
+        "translation": {
+            "x": 159654.3287,
+            "y": 100694.6054,
+            "z": 19054.2837
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.3007,
+            "w": 0.9537
+        },
+        "scale3D": {
+            "x": 1.7,
+            "y": 1.7,
+            "z": 1.7
+        }
+    },
+    "name": "奥兹古主线幽灵",
+    "description": "null",
+    "kinds": "null",
+    "author": "wensleyyu",
+    "version": "null",
+    "source": "puzzle_initial_data@20055",
+    "LuaID": 20055,
+    "SuiteDir": "suite30",
+    "UE5": {
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": false
+        },
+        "UE5Comps": {
+            "BillboardComponent": {
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=0.000000,Yaw=-145.000000,Roll=0.000000)"
+                }
+            },
+            "CharMoveComp": {
+                "NavAgentProps": {
+                    "Type": "StructBase@NavAgentProperties",
+                    "Value": "(AgentRadius=57.800003,AgentHeight=299.200012,AgentStepHeight=-1.000000,NavWalkingSearchHeightScale=0.500000,PreferredNavData=None,bCanCrouch=False,bCanJump=True,bCanWalk=True,bCanSwim=True,bCanFly=False)"
+                }
+            },
+            "CollisionCylinder": {
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=0.000000,Yaw=-35.000000,Roll=0.000000)"
+                },
+                "RelativeScale3D": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 1.7,
+                        "y": 1.7,
+                        "z": 1.7
+                    }
+                }
+            }
+        }
+    }
+}

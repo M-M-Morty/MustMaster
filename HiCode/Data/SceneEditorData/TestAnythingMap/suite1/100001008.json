@@ -1,0 +1,63 @@
+{
+    "id": "8",
+    "transform": {
+        "translation": {
+            "x": -58.3404,
+            "y": 1718.1034,
+            "z": 90.5001
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "任务测试NPC-男",
+    "description": "null",
+    "kinds": "null",
+    "author": "leolhyou",
+    "version": "null",
+    "source": "npc_base_data@100001",
+    "LuaID": 100001,
+    "SuiteDir": "suite1",
+    "UE5": {
+        "DisplayName": {
+            "Type": "String",
+            "Value": "大商人"
+        },
+        "Name_Desc": {
+            "Type": "String",
+            "Value": "回收资源的商人"
+        },
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "585BC4E0487FE7EA2D5081AD0756DF88"
+        },
+        "UE5Comps": {
+            "CollisionCylinder": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -58.3404,
+                        "y": 1718.1034,
+                        "z": 90.5001
+                    }
+                },
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=0.000000,Yaw=-90.000000,Roll=-0.000000)"
+                }
+            }
+        }
+    }
+}

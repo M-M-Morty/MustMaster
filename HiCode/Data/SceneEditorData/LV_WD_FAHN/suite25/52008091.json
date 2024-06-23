@@ -1,0 +1,57 @@
+{
+    "id": "91",
+    "transform": {
+        "translation": {
+            "x": 165366.7573,
+            "y": 101969.488,
+            "z": 20663.6344
+        },
+        "rotation": {
+            "x": 0.0033,
+            "y": 0.0038,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "空采集物",
+    "description": "null",
+    "kinds": "null",
+    "author": "jaeezhou",
+    "version": "null",
+    "source": "puzzle_initial_data@52008",
+    "LuaID": 52008,
+    "UE5": {
+        "sUIPick": {
+            "Type": "String",
+            "Value": "朱茜"
+        },
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": false
+        },
+        "UE5Comps": {
+            "BillboardComponent": {
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=-0.040514,Yaw=-89.999797,Roll=-0.575303)"
+                }
+            },
+            "TrackTargetAnchor": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 162.0
+                    }
+                }
+            }
+        }
+    },
+    "SuiteDir": "suite25"
+}

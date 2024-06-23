@@ -1,0 +1,58 @@
+{
+    "id": "122",
+    "transform": {
+        "translation": {
+            "x": 162138.8,
+            "y": 103075.6024,
+            "z": 18033.0719
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.7864,
+            "w": 0.6177
+        },
+        "scale3D": {
+            "x": 1.7,
+            "y": 1.7,
+            "z": 1.7
+        }
+    },
+    "name": "CP001幽灵",
+    "description": "null",
+    "kinds": "null",
+    "author": "wensleyyu",
+    "version": "null",
+    "sourcepath": "LV_WD_FAHN/suite30",
+    "source": "puzzle_initial_data@20000",
+    "LuaID": 20000,
+    "UE5": {
+        "fMoveSpeed": {
+            "Type": "Float",
+            "Value": 600.0
+        },
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": false
+        },
+        "WayPoint": {
+            "Type": "Actor",
+            "Value": "suite30_10101077"
+        },
+        "UE5Comps": {
+            "BillboardComponent": {
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=0.000000,Yaw=76.297719,Roll=-0.000000)"
+                }
+            },
+            "CollisionCylinder": {
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=0.000000,Yaw=103.702281,Roll=0.000000)"
+                }
+            }
+        }
+    },
+    "SuiteDir": "suite30"
+}

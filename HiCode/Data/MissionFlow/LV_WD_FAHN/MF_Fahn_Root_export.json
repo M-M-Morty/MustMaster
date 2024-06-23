@@ -1,0 +1,38 @@
+{
+    "nodes": {
+        "FlowGraphNode_0": {
+            "NodeGuid": "29DFE0344A6FDF536D4F3AB79B58FD21",
+            "Class": "/Script/Flow.FlowNode_Start",
+            "NextGuids": [
+                "DF39E91F42F35049DBFE9C9AF0AABD23"
+            ]
+        },
+        "FlowGraphNode_3": {
+            "NodeGuid": "DF39E91F42F35049DBFE9C9AF0AABD23",
+            "Class": "/Game/Blueprints/Mission/MissionNode/BP_MissionNode_Delay.BP_MissionNode_Delay_C",
+            "NextGuids": [
+                "8D1EA87D488B648C6D1DBCBE00CF7A6A"
+            ]
+        },
+        "FlowGraphNode_1": {
+            "NodeGuid": "8D1EA87D488B648C6D1DBCBE00CF7A6A",
+            "Class": "/Game/Blueprints/Mission/MissionNode/BP_ExecuteSequence.BP_ExecuteSequence_C",
+            "NextGuids": [
+                "23B682884024C8536E38AF9EDE8B682F",
+                "ABC4601449790D5F8A8529B98EB30BFC"
+            ]
+        },
+        "FlowGraphNode_4": {
+            "NodeGuid": "23B682884024C8536E38AF9EDE8B682F",
+            "Class": "/Game/Blueprints/Mission/MissionNode/BP_MissionAct.BP_MissionAct_C",
+            "NextGuids": null,
+            "MissionActID": "4000",
+            "Asset": "\"/Game/Data/MissionFlow/LV_WD_FAHN/ZX/fahn_fivalfarm/MF_MA_ZX_4000.MF_MA_ZX_4000\""
+        },
+        "FlowGraphNode_2": {
+            "NodeGuid": "ABC4601449790D5F8A8529B98EB30BFC",
+            "Class": "/Game/Blueprints/Mission/MissionNode/BP_MissionSubGraphBase.BP_MissionSubGraphBase_C",
+            "NextGuids": null
+        }
+    }
+}

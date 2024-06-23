@@ -1,0 +1,82 @@
+{
+    "id": "6",
+    "transform": {
+        "translation": {
+            "x": -17699.4604,
+            "y": 6791.3465,
+            "z": 108.3883
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "没电的货车",
+    "description": "null",
+    "kinds": "null",
+    "author": "kyainzhang",
+    "version": "null",
+    "source": "puzzle_initial_data@20071",
+    "LuaID": 20071,
+    "SuiteDir": "suite1",
+    "UE5": {
+        "Velocity": {
+            "Type": "Float",
+            "Value": 20.0
+        },
+        "UE5Comps": {
+            "BillboardComponent": {
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)"
+                }
+            },
+            "eventPoint": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 968.0023,
+                        "y": 196.3914,
+                        "z": 0.0
+                    }
+                }
+            }
+        },
+        "SplineNodeLocation": {
+            "Type": "SplineNodeLocation",
+            "Value": [
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 389.3596,
+                        "y": 155.3456,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 425.8462,
+                        "y": -354.116,
+                        "z": 0.0
+                    }
+                }
+            ]
+        }
+    }
+}

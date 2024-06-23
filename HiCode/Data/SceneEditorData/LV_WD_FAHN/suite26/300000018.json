@@ -1,0 +1,88 @@
+{
+    "id": "18",
+    "transform": {
+        "translation": {
+            "x": 150195.5677,
+            "y": 141597.4813,
+            "z": 19336.0055
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.5282,
+            "w": 0.8491
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "男农民",
+    "description": "null",
+    "kinds": "null",
+    "author": "jaeezhou",
+    "version": "null",
+    "source": "npc_base_data@300000",
+    "LuaID": 300000,
+    "SuiteDir": "suite26",
+    "UE5": {
+        "InteractDistance": {
+            "Type": "Int",
+            "Value": 2
+        },
+        "DisplayName": {
+            "Type": "String",
+            "Value": "伊姆斯"
+        },
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "962D43EE440551D3E6364FA8E508885F"
+        },
+        "UE5Comps": {
+            "CharacterMesh0": {
+                "AnimationData": {
+                    "Type": "StructBase@SingleAnimationPlayData",
+                    "Value": "(AnimToPlay=\"/Script/Engine.AnimSequence'/Game/Character/NPC/Man/Animation/Man_P_Hopscotch01.Man_P_Hopscotch01'\",bSavedLooping=True,bSavedPlaying=True,SavedPosition=0.000000,SavedPlayRate=1.000000)"
+                },
+                "AnimationMode": {
+                    "Type": "Enum@AnimationMode",
+                    "Value": "ANIMATION_SINGLE_NODE@1"
+                }
+            },
+            "CollisionCylinder": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 150195.5677,
+                        "y": 141597.4813,
+                        "z": 19336.0055
+                    }
+                },
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=0.000000,Yaw=63.769043,Roll=0.000000)"
+                }
+            },
+            "DialogueComponent": {
+                "DefaultInteractList": {
+                    "Type": "Array",
+                    "Value": [
+                        {
+                            "Type": "Int",
+                            "Value": 11005
+                        }
+                    ]
+                },
+                "DefaultDialogueId": {
+                    "Type": "Int",
+                    "Value": 4000113
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "id": "14",
+    "transform": {
+        "translation": {
+            "x": 4050.5434,
+            "y": -8197.929,
+            "z": 14.5049
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "圆型触发器（带特效）",
+    "description": "null",
+    "kinds": "null",
+    "author": "seekerma",
+    "version": "null",
+    "source": "puzzle_initial_data@10000",
+    "LuaID": 10000,
+    "SuiteDir": "suite1",
+    "UE5": {
+        "UE5Comps": {
+            "RootSphere": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 4050.5434,
+                        "y": -8197.929,
+                        "z": 14.5049
+                    }
+                }
+            }
+        }
+    }
+}

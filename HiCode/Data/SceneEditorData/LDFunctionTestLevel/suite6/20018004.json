@@ -1,0 +1,42 @@
+{
+    "id": "4",
+    "transform": {
+        "translation": {
+            "x": 3209.4788,
+            "y": 4230.0063,
+            "z": -0.4999
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "pika盒子01",
+    "monsterid": [],
+    "description": "null",
+    "kinds": "null",
+    "diaoluo": "null",
+    "dropid": "null",
+    "guaiwu": "null",
+    "birthaction": [],
+    "hatred": "null",
+    "patrolpath": [],
+    "hatredrange": "null",
+    "triggerrange": "null",
+    "author": "liiilyjin",
+    "version": "null",
+    "source": "puzzle_initial_data@20018",
+    "UE5": {
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": false
+        }
+    }
+}

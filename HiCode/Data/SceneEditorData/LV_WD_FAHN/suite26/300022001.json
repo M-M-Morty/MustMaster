@@ -1,0 +1,79 @@
+{
+    "id": "1",
+    "transform": {
+        "translation": {
+            "x": 152149.2404,
+            "y": 130719.9563,
+            "z": 19455.4248
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7857,
+            "w": 0.6187
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "克莱尔特临时npc",
+    "description": "null",
+    "kinds": "null",
+    "author": "jaeezhou",
+    "version": "null",
+    "source": "npc_base_data@300022",
+    "LuaID": 300022,
+    "SuiteDir": "suite26",
+    "UE5": {
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": false
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "E8F378A143F27C02A67EFEA2E55C192A"
+        },
+        "UE5Comps": {
+            "CharMoveComp": {
+                "GravityScale": {
+                    "Type": "Float",
+                    "Value": 0.0
+                },
+                "NavAgentProps": {
+                    "Type": "StructBase@NavAgentProperties",
+                    "Value": "(AgentRadius=56.679066,AgentHeight=150.364136,AgentStepHeight=-1.000000,NavWalkingSearchHeightScale=0.500000,PreferredNavData=None,bCanCrouch=False,bCanJump=True,bCanWalk=True,bCanSwim=True,bCanFly=False)"
+                }
+            },
+            "CharacterMesh0": {
+                "AnimationData": {
+                    "Type": "StructBase@SingleAnimationPlayData",
+                    "Value": "(AnimToPlay=\"/Script/Engine.AnimSequence'/Game/Character/NPC/Girl/Animation/Girl_P_CrutchStand.Girl_P_CrutchStand'\",bSavedLooping=True,bSavedPlaying=True,SavedPosition=0.000000,SavedPlayRate=1.000000)"
+                },
+                "AnimationMode": {
+                    "Type": "Enum@AnimationMode",
+                    "Value": "ANIMATION_SINGLE_NODE@1"
+                }
+            },
+            "CollisionCylinder": {
+                "BodyInstance": {
+                    "Type": "StructBase@BodyInstance",
+                    "Value": "(ObjectType=ECC_WorldStatic,CollisionEnabled=NoCollision,SleepFamily=Normal,DOFMode=Default,bUseCCD=False,bIgnoreAnalyticCollisions=False,bNotifyRigidBodyCollision=False,bSmoothEdgeCollisions=False,bLockTranslation=True,bLockRotation=True,bLockXTranslation=False,bLockYTranslation=False,bLockZTranslation=False,bLockXRotation=False,bLockYRotation=False,bLockZRotation=False,bOverrideMaxAngularVelocity=False,bOverrideMaxDepenetrationVelocity=False,bOverrideWalkableSlopeOnInstance=True,bInterpolateWhenSubStepping=False,bInertiaConditioning=True,CollisionProfileName=\"NoCollision\",PositionSolverIterationCount=8,VelocitySolverIterationCount=1,CollisionResponses=(ResponseArray=((Channel=\"Visibility\",Response=ECR_Ignore),(Channel=\"Camera\",Response=ECR_Ignore))),MaxDepenetrationVelocity=0.000000,MassInKgOverride=100.000000,LinearDamping=0.010000,AngularDamping=0.000000,CustomDOFPlaneNormal=(X=0.000000,Y=0.000000,Z=0.000000),COMNudge=(X=0.000000,Y=0.000000,Z=0.000000),MassScale=1.000000,InertiaTensorScale=(X=1.000000,Y=1.000000,Z=1.000000),WalkableSlopeOverride=(WalkableSlopeBehavior=WalkableSlope_Unwalkable,WalkableSlopeAngle=0.000000),PhysMaterialOverride=None,MaxAngularVelocity=3599.999756,CustomSleepThresholdMultiplier=1.000000,StabilizationThresholdMultiplier=1.000000,PhysicsBlendWeight=0.000000,bSimulatePhysics=False,bOverrideMass=False,bEnableGravity=True,bUpdateKinematicFromSimulation=False,bAutoWeld=True,bStartAwake=True,bGenerateWakeEvents=False,bUpdateMassWhenScaleChanges=True)"
+                },
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 152149.2404,
+                        "y": 130719.9563,
+                        "z": 19455.4248
+                    }
+                },
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=0.000000,Yaw=-103.562624,Roll=-0.000000)"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "id": "1",
+    "transform": {
+        "translation": {
+            "x": 165414.3752,
+            "y": 122271.9521,
+            "z": 18826.7167
+        },
+        "rotation": {
+            "x": 0.0975,
+            "y": -0.1499,
+            "z": -0.8248,
+            "w": 0.5364
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "红汁树",
+    "description": "null",
+    "kinds": "null",
+    "author": "tiezhengwu",
+    "version": "null",
+    "source": "puzzle_initial_data@52007",
+    "LuaID": 52007,
+    "UE5": {}
+}

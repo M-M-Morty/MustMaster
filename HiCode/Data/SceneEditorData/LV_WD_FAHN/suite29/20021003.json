@@ -1,0 +1,29 @@
+{
+    "id": "3",
+    "transform": {
+        "translation": {
+            "x": 115770.9448,
+            "y": 145584.0865,
+            "z": 19782.9078
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "生命之语法阵",
+    "description": "null",
+    "kinds": "null",
+    "author": "wensleyyu",
+    "version": "null",
+    "source": "puzzle_initial_data@20021",
+    "LuaID": 20021,
+    "UE5": {}
+}

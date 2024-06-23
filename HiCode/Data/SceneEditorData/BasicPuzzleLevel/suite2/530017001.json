@@ -1,0 +1,30 @@
+{
+    "id": "1",
+    "transform": {
+        "translation": {
+            "x": 248.9517,
+            "y": 217.2615,
+            "z": 200.3635
+        },
+        "rotation": {
+            "x": 0.5,
+            "y": 0.5,
+            "z": 0.5,
+            "w": 0.5
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "【Demo】区域能力-免疫电",
+    "description": "null",
+    "kinds": "null",
+    "author": "",
+    "version": "null",
+    "source": "puzzle_initial_data@530017",
+    "LuaID": 530017,
+    "SuiteDir": "suite2",
+    "UE5": {}
+}

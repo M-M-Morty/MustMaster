@@ -1,0 +1,86 @@
+{
+    "id": "4",
+    "transform": {
+        "translation": {
+            "x": 152727.7868,
+            "y": 139561.3569,
+            "z": 19243.7035
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.8856,
+            "w": 0.4644
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "小男孩npc",
+    "description": "null",
+    "kinds": "null",
+    "author": "jaeezhou",
+    "version": "null",
+    "source": "npc_base_data@300021",
+    "LuaID": 300021,
+    "SuiteDir": "suite26",
+    "UE5": {
+        "InteractDistance": {
+            "Type": "Int",
+            "Value": 2
+        },
+        "DisplayName": {
+            "Type": "String",
+            "Value": "伊凡"
+        },
+        "bShowToplogo": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "EditorTags": {
+            "Type": "Array",
+            "Value": [
+                {
+                    "Type": "String",
+                    "Value": "40000"
+                }
+            ]
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "697E35DD4A62AEB197CBD6934AFC5EF1"
+        },
+        "UE5Comps": {
+            "CharacterMesh0": {
+                "AnimationData": {
+                    "Type": "StructBase@SingleAnimationPlayData",
+                    "Value": "(AnimToPlay=\"/Script/Engine.AnimSequence'/Game/Character/NPC/LittleBoy/Animation/LittleBoy_P_Stand.LittleBoy_P_Stand'\",bSavedLooping=True,bSavedPlaying=True,SavedPosition=0.000000,SavedPlayRate=1.000000)"
+                },
+                "AnimationMode": {
+                    "Type": "Enum@AnimationMode",
+                    "Value": "ANIMATION_SINGLE_NODE@1"
+                }
+            },
+            "CollisionCylinder": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 152727.7868,
+                        "y": 139561.3569,
+                        "z": 19243.7035
+                    }
+                },
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=0.000000,Yaw=-124.655844,Roll=-0.000000)"
+                }
+            }
+        }
+    }
+}

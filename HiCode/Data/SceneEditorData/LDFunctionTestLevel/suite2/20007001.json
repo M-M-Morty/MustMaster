@@ -1,0 +1,42 @@
+{
+    "id": 1,
+    "transform": {
+        "translation": {
+            "x": -6144.1499,
+            "y": -8996.9087,
+            "z": -0.5
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "农田洒水",
+    "monsterid": [],
+    "description": "null",
+    "kinds": "null",
+    "diaoluo": "null",
+    "dropid": "null",
+    "guaiwu": "null",
+    "birthaction": [],
+    "hatred": "null",
+    "patrolpath": [],
+    "hatredrange": "null",
+    "triggerrange": "null",
+    "author": "xiaoxiaopi",
+    "version": "null",
+    "source": "puzzle_initial_data@20007",
+    "UE5": {
+        "PlayTime": {
+            "Type": "Float",
+            "Value": 1.5
+        }
+    }
+}

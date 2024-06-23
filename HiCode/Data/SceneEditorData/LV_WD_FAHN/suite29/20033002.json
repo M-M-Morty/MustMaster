@@ -1,0 +1,29 @@
+{
+    "id": "2",
+    "transform": {
+        "translation": {
+            "x": 115212.2957,
+            "y": 144939.6756,
+            "z": 19782.9079
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "时间胶囊-杀-紫",
+    "description": "null",
+    "kinds": "null",
+    "author": "wensleyyu",
+    "version": "null",
+    "source": "puzzle_initial_data@20033",
+    "LuaID": 20033,
+    "UE5": {}
+}

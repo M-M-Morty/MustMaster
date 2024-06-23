@@ -1,0 +1,28 @@
+{
+    "id": "3",
+    "transform": {
+        "translation": {
+            "x": 154256.2156,
+            "y": 108437.3898,
+            "z": 22547.7092
+        },
+        "rotation": {
+            "x": 0.3969,
+            "y": 0.9067,
+            "z": 0.1419,
+            "w": -0.0177
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "常春花",
+    "description": "null",
+    "kinds": "null",
+    "author": "JINXL",
+    "version": "null",
+    "source": "puzzle_initial_data@52004",
+    "UE5": {}
+}

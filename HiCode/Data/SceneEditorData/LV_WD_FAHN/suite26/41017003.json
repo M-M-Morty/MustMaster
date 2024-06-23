@@ -1,0 +1,51 @@
+{
+    "id": "3",
+    "transform": {
+        "translation": {
+            "x": 153395.6395,
+            "y": 145193.3964,
+            "z": 19772.9364
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "低血量特殊",
+    "description": "null",
+    "kinds": "null",
+    "author": "jaeezhou",
+    "version": "null",
+    "source": "puzzle_initial_data@41017",
+    "LuaID": 41017,
+    "SuiteDir": "suite26",
+    "UE5": {
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": false
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "66548E0245D078A44D2ADD8216FD6930"
+        },
+        "UE5Comps": {
+            "CollisionCylinder": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 153395.6395,
+                        "y": 145193.3964,
+                        "z": 19772.9364
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "id": "2",
+    "transform": {
+        "translation": {
+            "x": 152534.5976,
+            "y": 139463.0058,
+            "z": 19198.1043
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.0736,
+            "w": 0.9973
+        },
+        "scale3D": {
+            "x": 2.0,
+            "y": 2.0,
+            "z": 2.0
+        }
+    },
+    "name": "仓鼠NPC",
+    "description": "null",
+    "kinds": "null",
+    "author": "jaeezhou",
+    "version": "null",
+    "source": "npc_base_data@300024",
+    "LuaID": 300024,
+    "SuiteDir": "suite26",
+    "UE5": {
+        "DisplayName": {
+            "Type": "String",
+            "Value": "小仓鼠"
+        },
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "EditorTags": {
+            "Type": "Array",
+            "Value": [
+                {
+                    "Type": "String",
+                    "Value": "40000"
+                }
+            ]
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "66EF92954F8A83EAF4B09BA1D36948CA"
+        },
+        "UE5Comps": {
+            "CollisionCylinder": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 152534.5976,
+                        "y": 139463.0058,
+                        "z": 19198.1043
+                    }
+                },
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=0.000000,Yaw=-8.441469,Roll=-0.000000)"
+                }
+            }
+        }
+    }
+}

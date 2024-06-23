@@ -1,0 +1,28 @@
+{
+    "id": "54",
+    "transform": {
+        "translation": {
+            "x": 181035.4666,
+            "y": 141242.0577,
+            "z": 26367.3175
+        },
+        "rotation": {
+            "x": -0.0142,
+            "y": -0.0808,
+            "z": 0.1731,
+            "w": 0.9815
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "刷怪器",
+    "description": "null",
+    "kinds": "null",
+    "author": "xiaoxiaopi",
+    "version": "null",
+    "source": "puzzle_initial_data@40000",
+    "UE5": {}
+}

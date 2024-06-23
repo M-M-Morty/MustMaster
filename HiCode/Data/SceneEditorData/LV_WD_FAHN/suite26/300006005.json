@@ -1,0 +1,65 @@
+{
+    "id": "5",
+    "transform": {
+        "translation": {
+            "x": 153187.8543,
+            "y": 145367.7543,
+            "z": 19889.6531
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.8241,
+            "w": 0.5664
+        },
+        "scale3D": {
+            "x": 2.0,
+            "y": 2.0,
+            "z": 2.0
+        }
+    },
+    "name": "稻草人",
+    "description": "null",
+    "kinds": "null",
+    "author": "jaeezhou",
+    "version": "null",
+    "source": "npc_base_data@300006",
+    "LuaID": 300006,
+    "SuiteDir": "suite26",
+    "UE5": {
+        "DisplayName": {
+            "Type": "String",
+            "Value": "稻草人"
+        },
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": false
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "80E8518C47ACE114E35E0EBCD04FFD25"
+        },
+        "UE5Comps": {
+            "CharacterMesh0": {
+                "AnimationData": {
+                    "Type": "StructBase@SingleAnimationPlayData",
+                    "Value": "(AnimToPlay=\"/Script/Engine.AnimSequence'/Game/Character/NPC/Special/SK_Monster_MangQi_Body/Animation/SK_Monster_MangQi_P_Crazy_Idle.SK_Monster_MangQi_P_Crazy_Idle'\",bSavedLooping=True,bSavedPlaying=True,SavedPosition=0.000000,SavedPlayRate=1.000000)"
+                },
+                "AnimationMode": {
+                    "Type": "Enum@AnimationMode",
+                    "Value": "ANIMATION_SINGLE_NODE@1"
+                }
+            },
+            "CollisionCylinder": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 153187.8543,
+                        "y": 145367.7543,
+                        "z": 19889.6531
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "id": "1",
+    "transform": {
+        "translation": {
+            "x": 618.9354,
+            "y": -140.2403,
+            "z": 19.5001
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "钵钵鸡",
+    "description": "null",
+    "kinds": "null",
+    "author": "dizzyyding",
+    "version": "null",
+    "source": "puzzle_initial_data@20087",
+    "LuaID": 20087,
+    "SuiteDir": "suite1",
+    "UE5": {
+        "CenterPoint": {
+            "Type": "Actor",
+            "Value": "suite1_20088002"
+        },
+        "Coop": {
+            "Type": "Actor",
+            "Value": "suite1_20089002"
+        },
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "626C2B6548F1FBB88B3C7BA1B1DF3F32"
+        },
+        "UE5Comps": {
+            "CollisionCylinder": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 618.9354,
+                        "y": -140.2403,
+                        "z": 19.5001
+                    }
+                }
+            }
+        }
+    }
+}

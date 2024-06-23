@@ -1,0 +1,47 @@
+{
+    "id": "125",
+    "transform": {
+        "translation": {
+            "x": 160602.2029,
+            "y": 98822.8931,
+            "z": 18739.6095
+        },
+        "rotation": {
+            "x": 0.123,
+            "y": 0.1528,
+            "z": 0.7637,
+            "w": 0.615
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "圆型触发器（无特效）",
+    "description": "null",
+    "kinds": "null",
+    "author": "wensleyyu",
+    "version": "null",
+    "source": "puzzle_initial_data@10002",
+    "LuaID": 10002,
+    "SuiteDir": "suite30",
+    "UE5": {
+        "Radius": {
+            "Type": "Float",
+            "Value": 300.0
+        },
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": false
+        },
+        "UE5Comps": {
+            "Sphere": {
+                "SphereRadius": {
+                    "Type": "Float",
+                    "Value": 300.0
+                }
+            }
+        }
+    }
+}

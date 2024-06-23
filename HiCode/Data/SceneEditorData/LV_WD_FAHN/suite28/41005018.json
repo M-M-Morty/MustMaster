@@ -1,0 +1,45 @@
+{
+    "id": "18",
+    "transform": {
+        "translation": {
+            "x": 167184.1154,
+            "y": 98862.6798,
+            "z": 18783.7561
+        },
+        "rotation": {
+            "x": 0.049,
+            "y": -0.0354,
+            "z": -0.5851,
+            "w": 0.8087
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "矿工pika",
+    "description": "null",
+    "kinds": "null",
+    "author": "tiezhengwu",
+    "version": "null",
+    "source": "puzzle_initial_data@41005",
+    "LuaID": 41005,
+    "UE5": {
+        "UE5Comps": {
+            "BP_MonsterHPWidget": {
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=6.580363,Yaw=-108.353476,Roll=-2.182276)"
+                }
+            },
+            "EQSComponent_Stone": {
+                "InitGridSize": {
+                    "Type": "Float",
+                    "Value": 150.0
+                }
+            }
+        }
+    },
+    "SuiteDir": "suite28"
+}

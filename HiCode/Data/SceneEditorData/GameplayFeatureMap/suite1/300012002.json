@@ -1,0 +1,74 @@
+{
+    "id": "2",
+    "transform": {
+        "translation": {
+            "x": -9553.2167,
+            "y": -1054.9042,
+            "z": 106.505
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "强盗",
+    "description": "null",
+    "kinds": "null",
+    "author": "seekerma",
+    "version": "null",
+    "source": "npc_base_data@300012",
+    "LuaID": 300012,
+    "UE5": {
+        "DisplayName": {
+            "Type": "String",
+            "Value": "测试名字1"
+        },
+        "DisplayIdentity": {
+            "Type": "String",
+            "Value": "测试NPC职位1"
+        },
+        "SelfTalkingID": {
+            "Type": "Int",
+            "Value": 10001
+        },
+        "bShowToplogo": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "SpawnCollisionHandlingMethod": {
+            "Type": "Enum@SpawnActorCollisionHandlingMethod",
+            "Value": "ALWAYS_SPAWN@1"
+        },
+        "UE5Comps": {
+            "NpcBubbleComponent": {
+                "bSelfTalkingEnabled": {
+                    "Type": "Boolean",
+                    "Value": false
+                },
+                "WidgetClass": {
+                    "Type": "Unknown",
+                    "Value": ""
+                },
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 60.0
+                    }
+                },
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)"
+                }
+            }
+        }
+    }
+}

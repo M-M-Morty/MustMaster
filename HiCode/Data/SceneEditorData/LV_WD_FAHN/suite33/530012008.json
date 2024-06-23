@@ -1,0 +1,47 @@
+{
+    "id": "8",
+    "transform": {
+        "translation": {
+            "x": 164857.8857,
+            "y": 100098.4013,
+            "z": 17673.8527
+        },
+        "rotation": {
+            "x": 0.6357,
+            "y": -0.1024,
+            "z": -0.3608,
+            "w": 0.6747
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "区域能力-梦幻蔷薇",
+    "description": "null",
+    "kinds": "null",
+    "author": "mattyfzhang",
+    "version": "null",
+    "source": "puzzle_initial_data@530012",
+    "LuaID": 530012,
+    "SuiteDir": "suite33",
+    "UE5": {
+        "bCloseDelay": {
+            "Type": "Int",
+            "Value": 30
+        },
+        "UE5Comps": {
+            "RootSphere": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 164857.8857,
+                        "y": 100098.4013,
+                        "z": 17673.8527
+                    }
+                }
+            }
+        }
+    }
+}

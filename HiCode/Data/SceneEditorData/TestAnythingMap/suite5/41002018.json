@@ -1,0 +1,60 @@
+{
+    "id": "18",
+    "transform": {
+        "translation": {
+            "x": -966.1301,
+            "y": 2476.8364,
+            "z": 54.5001
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "基础pika",
+    "description": "null",
+    "kinds": "null",
+    "author": "icywu",
+    "version": "null",
+    "source": "puzzle_initial_data@41002",
+    "LuaID": 41002,
+    "SuiteDir": "suite5",
+    "UE5": {
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": false
+        },
+        "EditorTags": {
+            "Type": "Array",
+            "Value": [
+                {
+                    "Type": "String",
+                    "Value": "pika"
+                }
+            ]
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "1ED6336142E76AD549DA459038A8369E"
+        },
+        "UE5Comps": {
+            "CollisionCylinder": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -966.1301,
+                        "y": 2476.8364,
+                        "z": 54.5001
+                    }
+                }
+            }
+        }
+    }
+}

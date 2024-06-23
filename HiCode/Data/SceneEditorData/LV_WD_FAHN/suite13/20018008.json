@@ -1,0 +1,43 @@
+{
+    "id": "8",
+    "transform": {
+        "translation": {
+            "x": 167872.5005,
+            "y": 101937.2221,
+            "z": 18294.634
+        },
+        "rotation": {
+            "x": -0.0839,
+            "y": 0.0336,
+            "z": 0.0028,
+            "w": 0.9959
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": -1.0,
+            "z": 1.0
+        }
+    },
+    "name": "pika盒子01",
+    "description": "null",
+    "kinds": "null",
+    "author": "JINXL",
+    "version": "null",
+    "source": "puzzle_initial_data@20018",
+    "LuaID": 20018,
+    "UE5": {
+        "TriggerRadius": {
+            "Type": "Float",
+            "Value": 200.0
+        },
+        "UE5Comps": {
+            "Sphere_Trigger": {
+                "SphereRadius": {
+                    "Type": "Float",
+                    "Value": 200.0
+                }
+            }
+        }
+    },
+    "SuiteDir": "suite13"
+}

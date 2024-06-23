@@ -1,0 +1,35 @@
+{
+    "id": "5",
+    "transform": {
+        "translation": {
+            "x": 164924.8977,
+            "y": 101213.0164,
+            "z": 17410.6792
+        },
+        "rotation": {
+            "x": 0.4045,
+            "y": -0.6716,
+            "z": -0.5317,
+            "w": 0.3203
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "区域能力-感光植物",
+    "description": "null",
+    "kinds": "null",
+    "author": "mattyfzhang",
+    "version": "null",
+    "source": "puzzle_initial_data@530011",
+    "LuaID": 530011,
+    "SuiteDir": "suite33",
+    "UE5": {
+        "bAlwaysOpen": {
+            "Type": "Boolean",
+            "Value": false
+        }
+    }
+}

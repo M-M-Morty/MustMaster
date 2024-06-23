@@ -1,0 +1,39 @@
+{
+    "id": "3",
+    "transform": {
+        "translation": {
+            "x": -3742.6058,
+            "y": -8868.1761,
+            "z": 71.3008
+        },
+        "rotation": {
+            "x": 0.0118,
+            "y": -0.6807,
+            "z": -0.7324,
+            "w": 0.0127
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "闪烁灯",
+    "description": "null",
+    "kinds": "null",
+    "author": "vvtu",
+    "version": "null",
+    "source": "puzzle_initial_data@20061",
+    "LuaID": 20061,
+    "SuiteDir": "suite1",
+    "UE5": {
+        "UE5Comps": {
+            "PointLight": {
+                "LightColor": {
+                    "Type": "StructBase@Color",
+                    "Value": "(B=91,G=86,R=255,A=255)"
+                }
+            }
+        }
+    }
+}

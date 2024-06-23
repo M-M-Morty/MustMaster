@@ -1,0 +1,46 @@
+{
+    "id": "4",
+    "transform": {
+        "translation": {
+            "x": 166048.5999,
+            "y": 125275.8848,
+            "z": 20077.5341
+        },
+        "rotation": {
+            "x": 0.1424,
+            "y": -0.025,
+            "z": -0.1711,
+            "w": 0.9746
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "真视柱",
+    "description": "null",
+    "kinds": "null",
+    "author": "tiezhengwu",
+    "version": "null",
+    "source": "puzzle_initial_data@20003",
+    "LuaID": 20003,
+    "UE5": {
+        "BillboardScale": {
+            "Type": "Float",
+            "Value": 0.5
+        },
+        "UE5Comps": {
+            "Billboard": {
+                "RelativeScale3D": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    }
+                }
+            }
+        }
+    }
+}

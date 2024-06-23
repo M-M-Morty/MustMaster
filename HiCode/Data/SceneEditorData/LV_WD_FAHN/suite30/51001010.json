@@ -1,0 +1,61 @@
+{
+    "id": "10",
+    "transform": {
+        "translation": {
+            "x": 164689.5029,
+            "y": 100731.2689,
+            "z": 17450.8156
+        },
+        "rotation": {
+            "x": 0.0303,
+            "y": -0.0276,
+            "z": -0.7053,
+            "w": 0.7078
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "电梯-开关",
+    "description": "null",
+    "kinds": "null",
+    "author": "tiezhengwu",
+    "version": "null",
+    "source": "puzzle_initial_data@51001",
+    "LuaID": 51001,
+    "SuiteDir": "suite30",
+    "UE5": {
+        "eInteractedItemStatus": {
+            "Type": "Enum@E_InteractedItemStatus",
+            "Value": "UN_INTERACTABLE@0"
+        },
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": false
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "81E3A3CF45B1B25D0B6DAB82773D901D"
+        },
+        "UE5Comps": {
+            "BillboardComponent": {
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=4.692201,Yaw=-90.212057,Roll=-0.227637)"
+                }
+            },
+            "RootSphere": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 164689.5029,
+                        "y": 100731.2689,
+                        "z": 17450.8156
+                    }
+                }
+            }
+        }
+    }
+}

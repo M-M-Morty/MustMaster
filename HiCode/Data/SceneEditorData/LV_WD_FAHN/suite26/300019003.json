@@ -1,0 +1,64 @@
+{
+    "id": "3",
+    "transform": {
+        "translation": {
+            "x": 151614.9603,
+            "y": 133815.6556,
+            "z": 18884.4068
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.5957,
+            "w": 0.8032
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "巴比伦女居民npc",
+    "description": "null",
+    "kinds": "null",
+    "author": "jaeezhou",
+    "version": "null",
+    "source": "npc_base_data@300019",
+    "LuaID": 300019,
+    "SuiteDir": "suite26",
+    "UE5": {
+        "DisplayName": {
+            "Type": "String",
+            "Value": "瑟琳娜"
+        },
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "EditorTags": {
+            "Type": "Array",
+            "Value": [
+                {
+                    "Type": "String",
+                    "Value": "40000"
+                }
+            ]
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "2D88DFA749CD522D86D31AB9926F87B9"
+        },
+        "UE5Comps": {
+            "CollisionCylinder": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 151614.9603,
+                        "y": 133815.6556,
+                        "z": 18884.4068
+                    }
+                }
+            }
+        }
+    }
+}

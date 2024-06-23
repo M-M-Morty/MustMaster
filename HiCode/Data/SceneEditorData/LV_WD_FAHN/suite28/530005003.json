@@ -1,0 +1,58 @@
+{
+    "id": "3",
+    "transform": {
+        "translation": {
+            "x": 166534.5437,
+            "y": 101628.2431,
+            "z": 17029.1987
+        },
+        "rotation": {
+            "x": 0.127,
+            "y": 0.0075,
+            "z": 0.9491,
+            "w": 0.2883
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "可破碎物-木板（mdk）",
+    "description": "null",
+    "kinds": "null",
+    "author": "tiezhengwu",
+    "version": "null",
+    "source": "puzzle_initial_data@530005",
+    "LuaID": 530005,
+    "SuiteDir": "suite28",
+    "UE5": {
+        "UE5Comps": {
+            "GeometryCollectionComponent": {
+                "ComponentTags": {
+                    "Type": "Array",
+                    "Value": [
+                        {
+                            "Type": "NAME",
+                            "Value": "1001"
+                        }
+                    ]
+                }
+            },
+            "RootComponent": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 166534.5437,
+                        "y": 101628.2431,
+                        "z": 17029.1987
+                    }
+                },
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=13.693356,Yaw=145.587176,Roll=-5.161405)"
+                }
+            }
+        }
+    }
+}

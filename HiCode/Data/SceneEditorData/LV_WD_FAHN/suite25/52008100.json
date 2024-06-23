@@ -1,0 +1,61 @@
+{
+    "id": "100",
+    "transform": {
+        "translation": {
+            "x": 166060.6573,
+            "y": 106173.795,
+            "z": 18655.811
+        },
+        "rotation": {
+            "x": 0.0176,
+            "y": -0.0366,
+            "z": -0.9001,
+            "w": 0.4337
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "空采集物",
+    "description": "null",
+    "kinds": "null",
+    "author": "jaeezhou",
+    "version": "null",
+    "source": "puzzle_initial_data@52008",
+    "LuaID": 52008,
+    "SuiteDir": "suite25",
+    "UE5": {
+        "sUIPick": {
+            "Type": "String",
+            "Value": "调查"
+        },
+        "eInteractType": {
+            "Type": "Enum@Enum_InteractType",
+            "Value": "NORMAL@1"
+        },
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": false
+        },
+        "UE5Comps": {
+            "BillboardComponent": {
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=3.637006,Yaw=-51.360484,Roll=2.907693)"
+                }
+            },
+            "RootSphere": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 166060.6573,
+                        "y": 106173.795,
+                        "z": 18655.811
+                    }
+                }
+            }
+        }
+    }
+}

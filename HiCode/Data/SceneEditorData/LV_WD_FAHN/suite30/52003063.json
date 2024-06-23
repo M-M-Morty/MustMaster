@@ -1,0 +1,30 @@
+{
+    "id": "63",
+    "transform": {
+        "translation": {
+            "x": 167530.7934,
+            "y": 102212.8179,
+            "z": 18416.1458
+        },
+        "rotation": {
+            "x": 0.203,
+            "y": 0.1453,
+            "z": 0.5635,
+            "w": 0.7875
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "皇菇",
+    "description": "null",
+    "kinds": "null",
+    "author": "tiezhengwu",
+    "version": "null",
+    "source": "puzzle_initial_data@52003",
+    "LuaID": 52003,
+    "SuiteDir": "suite30",
+    "UE5": {}
+}

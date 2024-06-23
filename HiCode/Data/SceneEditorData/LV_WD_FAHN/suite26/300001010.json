@@ -1,0 +1,74 @@
+{
+    "id": "10",
+    "transform": {
+        "translation": {
+            "x": 158225.1291,
+            "y": 137717.9948,
+            "z": 19067.3834
+        },
+        "rotation": {
+            "x": 0.0235,
+            "y": -0.0099,
+            "z": -0.3876,
+            "w": 0.9215
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "女农民",
+    "description": "null",
+    "kinds": "null",
+    "author": "jaeezhou",
+    "version": "null",
+    "source": "npc_base_data@300001",
+    "LuaID": 300001,
+    "SuiteDir": "suite26",
+    "UE5": {
+        "InteractDistance": {
+            "Type": "Int",
+            "Value": 2
+        },
+        "DisplayName": {
+            "Type": "String",
+            "Value": "艾薇莉亚"
+        },
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": false
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "C235A8B54679B063B6094ABF57694984"
+        },
+        "UE5Comps": {
+            "CollisionCylinder": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 158225.1291,
+                        "y": 137717.9948,
+                        "z": 19067.3834
+                    }
+                }
+            },
+            "DialogueComponent": {
+                "DefaultInteractList": {
+                    "Type": "Array",
+                    "Value": [
+                        {
+                            "Type": "Int",
+                            "Value": 11005
+                        }
+                    ]
+                },
+                "DefaultDialogueId": {
+                    "Type": "Int",
+                    "Value": 4000148
+                }
+            }
+        }
+    }
+}

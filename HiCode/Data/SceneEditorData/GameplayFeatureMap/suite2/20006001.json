@@ -1,0 +1,59 @@
+{
+    "id": 1,
+    "transform": {
+        "translation": {
+            "x": 5861.9051,
+            "y": 6742.4001,
+            "z": -0.5
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "马杜克老式灯_逻辑",
+    "monsterid": [],
+    "description": "null",
+    "kinds": "null",
+    "diaoluo": "null",
+    "dropid": "null",
+    "guaiwu": "null",
+    "birthaction": [],
+    "hatred": "null",
+    "patrolpath": [],
+    "hatredrange": "null",
+    "triggerrange": "null",
+    "author": "dougzhang",
+    "version": "null",
+    "source": "puzzle_initial_data@20006",
+    "UE5": {
+        "LinkActors": {
+            "Type": "Array",
+            "Value": [
+                {
+                    "Type": "Actor",
+                    "Value": "suite2_20005001"
+                },
+                {
+                    "Type": "Actor",
+                    "Value": "suite2_20005002"
+                },
+                {
+                    "Type": "Actor",
+                    "Value": "suite2_20005003"
+                },
+                {
+                    "Type": "Actor",
+                    "Value": "suite2_20005004"
+                }
+            ]
+        }
+    }
+}

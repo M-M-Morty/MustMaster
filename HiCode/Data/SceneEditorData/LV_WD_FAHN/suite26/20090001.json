@@ -1,0 +1,78 @@
+{
+    "id": "1",
+    "transform": {
+        "translation": {
+            "x": 152526.2873,
+            "y": 139465.3674,
+            "z": 19169.7921
+        },
+        "rotation": {
+            "x": 0.0094,
+            "y": -0.0108,
+            "z": -0.7571,
+            "w": 0.6531
+        },
+        "scale3D": {
+            "x": 2.0,
+            "y": 2.0,
+            "z": 2.0
+        }
+    },
+    "name": "可互动仓鼠",
+    "description": "null",
+    "kinds": "null",
+    "author": "jaeezhou",
+    "version": "null",
+    "source": "puzzle_initial_data@20090",
+    "LuaID": 20090,
+    "SuiteDir": "suite26",
+    "UE5": {
+        "CameraDistentce": {
+            "Type": "Float",
+            "Value": 180.0
+        },
+        "HitTargetConfigList": {
+            "Type": "Array",
+            "Value": [
+                {
+                    "Type": "StructBase@BPS_Pet_HitTarget",
+                    "Value": "(Name_14_E69BBEA74585AD8C5ABD0D88362C7B1C=\"Bip001-Head\",Point_13_539A496B44F3560DC448B4AE8DE0EE2F=20,CD_12_3EAD97574790E83158BB21B7A37AFD1F=1000,Mono_15_5695B9A148493F6F08C22CB88BC04FFA=40000104,Sound_11_7F78A3CE410CFAD7E71F8A8877857D94=\"/Script/Engine.SoundWave'/Game/Character/Player/MahoninRefs/Audio/RealisticFootsteps/AudioFiles/RealisticFootstepsCloth/RealisticFootStepsCloth_01_S/RealisticFootStepsCloth_01_S.RealisticFootStepsCloth_01_S'\")"
+                },
+                {
+                    "Type": "StructBase@BPS_Pet_HitTarget",
+                    "Value": "(Name_14_E69BBEA74585AD8C5ABD0D88362C7B1C=\"Bip001-Spine\",Point_13_539A496B44F3560DC448B4AE8DE0EE2F=10,CD_12_3EAD97574790E83158BB21B7A37AFD1F=2000,Mono_15_5695B9A148493F6F08C22CB88BC04FFA=40000105,Sound_11_7F78A3CE410CFAD7E71F8A8877857D94=\"/Script/Engine.SoundWave'/Game/Character/Player/MahoninRefs/Audio/RealisticFootsteps/AudioFiles/RealisticFootstepsCloth/RealisticFootStepsCloth_01_S/RealisticFootStepsCloth_01_S.RealisticFootStepsCloth_01_S'\")"
+                },
+                {
+                    "Type": "StructBase@BPS_Pet_HitTarget",
+                    "Value": "(Name_14_E69BBEA74585AD8C5ABD0D88362C7B1C=\"Bip001-Pelvis\",Point_13_539A496B44F3560DC448B4AE8DE0EE2F=-10,CD_12_3EAD97574790E83158BB21B7A37AFD1F=3000,Mono_15_5695B9A148493F6F08C22CB88BC04FFA=40000106,Sound_11_7F78A3CE410CFAD7E71F8A8877857D94=\"/Script/Engine.SoundWave'/Game/Character/Player/MahoninRefs/Audio/RealisticFootsteps/AudioFiles/RealisticFootstepsCloth/RealisticFootStepsCloth_01_S/RealisticFootStepsCloth_01_S.RealisticFootStepsCloth_01_S'\")"
+                }
+            ]
+        },
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": false
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "BEE247D9401543C0D34542B0ABC8C0C9"
+        },
+        "UE5Comps": {
+            "BillboardComponent": {
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=1.624094,Yaw=-81.561016,Roll=0.233592)"
+                }
+            },
+            "RootSphere": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 152526.2873,
+                        "y": 139465.3674,
+                        "z": 19169.7921
+                    }
+                }
+            }
+        }
+    }
+}

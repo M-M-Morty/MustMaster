@@ -1,0 +1,29 @@
+{
+    "id": 1,
+    "transform": {
+        "translation": {
+            "x": 5800.7084,
+            "y": 4413.5142,
+            "z": -0.5
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "信仰沙漏",
+    "description": "null",
+    "kinds": "null",
+    "author": "dougzhang",
+    "version": "null",
+    "sourcepath": "GameplayFeatureMap/suite6",
+    "source": "puzzle_initial_data@20015",
+    "UE5": {}
+}

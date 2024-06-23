@@ -1,0 +1,64 @@
+{
+    "id": "1",
+    "transform": {
+        "translation": {
+            "x": -107.208,
+            "y": 132.7034,
+            "z": 28.1518
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 2.75
+        }
+    },
+    "name": "【Demo】漂浮的面包屑",
+    "description": "null",
+    "kinds": "null",
+    "author": "zheyuancao",
+    "version": "null",
+    "source": "puzzle_initial_data@20070",
+    "LuaID": 20070,
+    "SuiteDir": "suite2",
+    "UE5": {
+        "UE5Comps": {
+            "RootSphere": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -107.208,
+                        "y": 132.7034,
+                        "z": 28.1518
+                    }
+                }
+            }
+        },
+        "SplineNodeLocation": {
+            "Type": "SplineNodeLocation",
+            "Value": [
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 200.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        }
+    }
+}

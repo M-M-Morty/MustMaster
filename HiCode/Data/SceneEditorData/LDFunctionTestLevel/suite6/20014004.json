@@ -1,0 +1,28 @@
+{
+    "id": "4",
+    "transform": {
+        "translation": {
+            "x": 2960.9785,
+            "y": -9792.2673,
+            "z": -0.5
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "信仰沙钟",
+    "description": "null",
+    "kinds": "null",
+    "author": "JINXL",
+    "version": "null",
+    "source": "puzzle_initial_data@20014",
+    "UE5": {}
+}

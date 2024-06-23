@@ -1,0 +1,29 @@
+{
+    "id": "1",
+    "transform": {
+        "translation": {
+            "x": 165102.2278,
+            "y": 123272.6158,
+            "z": 19332.0094
+        },
+        "rotation": {
+            "x": 0.1383,
+            "y": -0.0456,
+            "z": -0.3098,
+            "w": 0.9396
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "鸟蛋",
+    "description": "null",
+    "kinds": "null",
+    "author": "tiezhengwu",
+    "version": "null",
+    "source": "puzzle_initial_data@52006",
+    "LuaID": 52006,
+    "UE5": {}
+}

@@ -1,0 +1,61 @@
+{
+    "id": "1",
+    "transform": {
+        "translation": {
+            "x": 165438.0,
+            "y": 103435.5391,
+            "z": 19943.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.9494,
+            "w": 0.314
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "朱茜",
+    "description": "null",
+    "kinds": "null",
+    "author": "jaeezhou",
+    "version": "null",
+    "source": "npc_base_data@300005",
+    "LuaID": 300005,
+    "UE5": {
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": false
+        },
+        "DisplayName": {
+            "Type": "String",
+            "Value": "朱茜"
+        },
+        "DefaultDialogueID": {
+            "Type": "Int",
+            "Value": 10117
+        },
+        "InitialDefaultDialogueID": {
+            "Type": "Int",
+            "Value": 10116
+        },
+        "UE5Comps": {
+            "BillboardComponent": {
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=0.000000,Yaw=36.601738,Roll=-0.000000)"
+                }
+            },
+            "CollisionCylinder": {
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=0.000000,Yaw=143.398262,Roll=0.000000)"
+                }
+            }
+        }
+    },
+    "SuiteDir": "suite25"
+}

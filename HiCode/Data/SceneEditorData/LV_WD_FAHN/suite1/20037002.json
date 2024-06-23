@@ -1,0 +1,29 @@
+{
+    "id": "2",
+    "transform": {
+        "translation": {
+            "x": 91400.4596,
+            "y": 171264.3615,
+            "z": 20003.2615
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "水车【水中】",
+    "description": "null",
+    "kinds": "null",
+    "author": "tiezhengwu",
+    "version": "null",
+    "source": "puzzle_initial_data@20037",
+    "LuaID": 20037,
+    "UE5": {}
+}

@@ -1,0 +1,30 @@
+{
+    "id": "25",
+    "transform": {
+        "translation": {
+            "x": 164787.8339,
+            "y": 101497.9406,
+            "z": 16139.582
+        },
+        "rotation": {
+            "x": 0.0286,
+            "y": -0.0001,
+            "z": -0.0037,
+            "w": 0.9996
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "可破碎物-木桶",
+    "description": "null",
+    "kinds": "null",
+    "author": "tiezhengwu",
+    "version": "null",
+    "source": "puzzle_initial_data@530003",
+    "LuaID": 530003,
+    "SuiteDir": "suite13",
+    "UE5": {}
+}

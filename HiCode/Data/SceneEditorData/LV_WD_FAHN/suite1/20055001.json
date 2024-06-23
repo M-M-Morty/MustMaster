@@ -1,0 +1,59 @@
+{
+    "id": "1",
+    "transform": {
+        "translation": {
+            "x": 172501.5573,
+            "y": 102406.1172,
+            "z": 18315.8288
+        },
+        "rotation": {
+            "x": 0.1074,
+            "y": -0.0076,
+            "z": 0.9939,
+            "w": 0.025
+        },
+        "scale3D": {
+            "x": 1.7,
+            "y": 1.7,
+            "z": 1.7
+        }
+    },
+    "name": "奥兹古主线幽灵",
+    "description": "null",
+    "kinds": "null",
+    "author": "tiezhengwu",
+    "version": "null",
+    "source": "puzzle_initial_data@20055",
+    "LuaID": 20055,
+    "SuiteDir": "suite1",
+    "UE5": {
+        "fMoveSpeed": {
+            "Type": "Float",
+            "Value": 700.0
+        },
+        "WayPoint": {
+            "Type": "Actor",
+            "Value": "suite22_10101069"
+        },
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": false
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "72B891E448006CA50B6E8FA6A083A8F9"
+        },
+        "UE5Comps": {
+            "CollisionCylinder": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 172501.5573,
+                        "y": 102406.1172,
+                        "z": 18315.8288
+                    }
+                }
+            }
+        }
+    }
+}

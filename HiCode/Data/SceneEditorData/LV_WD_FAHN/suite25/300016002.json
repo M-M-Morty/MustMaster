@@ -1,0 +1,55 @@
+{
+    "id": "2",
+    "transform": {
+        "translation": {
+            "x": 165562.7656,
+            "y": 103522.4375,
+            "z": 19899.5684
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.766,
+            "w": 0.6428
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "受伤的NPC",
+    "description": "null",
+    "kinds": "null",
+    "author": "jaeezhou",
+    "version": "null",
+    "source": "npc_base_data@300016",
+    "LuaID": 300016,
+    "SuiteDir": "suite25",
+    "UE5": {
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": false
+        },
+        "DisplayName": {
+            "Type": "String",
+            "Value": "伍迪"
+        },
+        "DefaultDialogueID": {
+            "Type": "Int",
+            "Value": 10119
+        },
+        "InitialDefaultDialogueID": {
+            "Type": "Int",
+            "Value": 10118
+        },
+        "UE5Comps": {
+            "BillboardComponent": {
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=0.000000,Yaw=-80.004361,Roll=0.000000)"
+                }
+            }
+        }
+    }
+}

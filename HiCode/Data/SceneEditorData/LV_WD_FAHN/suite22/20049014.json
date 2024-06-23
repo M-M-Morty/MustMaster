@@ -1,0 +1,30 @@
+{
+    "id": "14",
+    "transform": {
+        "translation": {
+            "x": 173051.9586,
+            "y": 102340.5183,
+            "z": 18242.4696
+        },
+        "rotation": {
+            "x": -0.0005,
+            "y": -0.0003,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "被电视吸的提灯",
+    "description": "null",
+    "kinds": "null",
+    "author": "tiezhengwu",
+    "version": "null",
+    "source": "puzzle_initial_data@20049",
+    "LuaID": 20049,
+    "SuiteDir": "suite22",
+    "UE5": {}
+}

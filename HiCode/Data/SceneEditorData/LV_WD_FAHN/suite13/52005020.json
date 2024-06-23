@@ -1,0 +1,28 @@
+{
+    "id": "20",
+    "transform": {
+        "translation": {
+            "x": 150555.3059,
+            "y": 111645.2608,
+            "z": 22655.6997
+        },
+        "rotation": {
+            "x": 0.0128,
+            "y": 0.0613,
+            "z": 0.9769,
+            "w": 0.2043
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "晴葵",
+    "description": "null",
+    "kinds": "null",
+    "author": "JINXL",
+    "version": "null",
+    "source": "puzzle_initial_data@52005",
+    "UE5": {}
+}

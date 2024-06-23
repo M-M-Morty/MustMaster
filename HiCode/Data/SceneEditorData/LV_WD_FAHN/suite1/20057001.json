@@ -1,0 +1,43 @@
+{
+    "id": "1",
+    "transform": {
+        "translation": {
+            "x": 157840.7417,
+            "y": 25199.3512,
+            "z": 92772.0311
+        },
+        "rotation": {
+            "x": -0.194,
+            "y": 0.1515,
+            "z": -0.3633,
+            "w": 0.8986
+        },
+        "scale3D": {
+            "x": 120.0,
+            "y": 120.0,
+            "z": 120.0
+        }
+    },
+    "name": "奥兹古大电视",
+    "description": "null",
+    "kinds": "null",
+    "author": "tiezhengwu",
+    "version": "null",
+    "source": "puzzle_initial_data@20057",
+    "LuaID": 20057,
+    "SuiteDir": "suite1",
+    "UE5": {
+        "UE5Comps": {
+            "RootSphere": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 157840.7417,
+                        "y": 25199.3512,
+                        "z": 92772.0311
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "20003001": {
+        "uuid": "20003001",
+        "Legend_ID": 1004,
+        "Legend_Name": "PLAYPOINT_NAME",
+        "Legend_Positon": {
+            "x": -427.7405,
+            "y": 2574.6055,
+            "z": -0.4999
+        }
+    },
+    "20058003": {
+        "uuid": "20058003",
+        "Legend_ID": 1001,
+        "Legend_Name": "BIGAREA_TRANSPORT_NAME",
+        "Legend_Positon": {
+            "x": -513.9102,
+            "y": 2574.0397,
+            "z": -0.5
+        }
+    },
+    "20059001": {
+        "uuid": "20059001",
+        "Legend_ID": 1002,
+        "Legend_Name": "SMALLAREA_TRANSPORT_NAME",
+        "Legend_Positon": {
+            "x": -321.2849,
+            "y": 943.2544,
+            "z": -0.5
+        }
+    }
+}

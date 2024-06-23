@@ -1,0 +1,51 @@
+{
+    "id": "8",
+    "transform": {
+        "translation": {
+            "x": -3370.3255,
+            "y": 2843.1202,
+            "z": 790.8553
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.7071,
+            "z": 0.7071,
+            "w": 0.0
+        },
+        "scale3D": {
+            "x": 4.0,
+            "y": 4.0,
+            "z": 4.0
+        }
+    },
+    "name": "【Demo】区域能力-电",
+    "description": "null",
+    "kinds": "null",
+    "author": "",
+    "version": "null",
+    "source": "puzzle_initial_data@530016",
+    "LuaID": 530016,
+    "SuiteDir": "suite2",
+    "UE5": {
+        "UE5Comps": {
+            "RootSphere": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -3370.3255,
+                        "y": 2843.1202,
+                        "z": 790.8553
+                    }
+                },
+                "RelativeScale3D": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 4.0,
+                        "y": 4.0,
+                        "z": 4.0
+                    }
+                }
+            }
+        }
+    }
+}

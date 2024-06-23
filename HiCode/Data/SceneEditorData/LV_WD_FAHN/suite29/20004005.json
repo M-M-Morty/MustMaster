@@ -1,0 +1,44 @@
+{
+    "id": "5",
+    "transform": {
+        "translation": {
+            "x": 114433.2233,
+            "y": 142145.4169,
+            "z": 19396.2753
+        },
+        "rotation": {
+            "x": 0.0458,
+            "y": 0.0064,
+            "z": 0.1393,
+            "w": 0.9892
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "真视柱_逻辑",
+    "description": "null",
+    "kinds": "null",
+    "author": "wensleyyu",
+    "version": "null",
+    "sourcepath": "LV_WD_FAHN/suite29",
+    "source": "puzzle_initial_data@20004",
+    "LuaID": 20004,
+    "UE5": {
+        "RefreshList": {
+            "Type": "Array",
+            "Value": [
+                {
+                    "Type": "Actor",
+                    "Value": "suite29_20003017"
+                },
+                {
+                    "Type": "Actor",
+                    "Value": "suite29_20003018"
+                }
+            ]
+        }
+    }
+}

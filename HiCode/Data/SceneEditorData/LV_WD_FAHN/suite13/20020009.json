@@ -1,0 +1,47 @@
+{
+    "id": "9",
+    "transform": {
+        "translation": {
+            "x": 165175.8439,
+            "y": 101554.3513,
+            "z": 16135.889
+        },
+        "rotation": {
+            "x": 0.001,
+            "y": 0.0017,
+            "z": 0.4616,
+            "w": 0.8871
+        },
+        "scale3D": {
+            "x": -1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "pika盒子03",
+    "description": "null",
+    "kinds": "null",
+    "author": "tiezhengwu",
+    "version": "null",
+    "source": "puzzle_initial_data@20020",
+    "LuaID": 20020,
+    "SuiteDir": "suite13",
+    "UE5": {
+        "UE5Comps": {
+            "RootSphere": {
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=-0.115849,Yaw=54.985526,Roll=-0.188748)"
+                },
+                "RelativeScale3D": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    }
+                }
+            }
+        }
+    }
+}

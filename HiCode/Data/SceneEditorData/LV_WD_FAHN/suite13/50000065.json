@@ -1,0 +1,72 @@
+{
+    "id": "65",
+    "transform": {
+        "translation": {
+            "x": 162935.7858,
+            "y": 106775.0745,
+            "z": 18302.6804
+        },
+        "rotation": {
+            "x": 0.0562,
+            "y": -0.0071,
+            "z": -0.6255,
+            "w": 0.7782
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "宝箱 (初级)",
+    "description": "null",
+    "kinds": "null",
+    "author": "tiezhengwu",
+    "version": "null",
+    "source": "puzzle_initial_data@50000",
+    "LuaID": 50000,
+    "UE5": {
+        "bLock": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "UE5Comps": {
+            "RootSphere": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 162935.7858,
+                        "y": 106775.0745,
+                        "z": 18302.6804
+                    }
+                },
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=-3.397742,Yaw=-77.416077,Roll=-5.539369)"
+                }
+            }
+        },
+        "SplineNodeLocation": {
+            "Type": "SplineNodeLocation",
+            "Value": [
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -88.6362,
+                        "y": 0.1811,
+                        "z": 39.0579
+                    }
+                }
+            ]
+        }
+    },
+    "SuiteDir": "suite13"
+}

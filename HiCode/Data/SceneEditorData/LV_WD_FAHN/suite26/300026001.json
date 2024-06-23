@@ -1,0 +1,96 @@
+{
+    "id": "1",
+    "transform": {
+        "translation": {
+            "x": 150920.0305,
+            "y": 131940.391,
+            "z": 19055.8357
+        },
+        "rotation": {
+            "x": 0.0357,
+            "y": 0.025,
+            "z": -0.8184,
+            "w": 0.573
+        },
+        "scale3D": {
+            "x": 1.2,
+            "y": 1.2,
+            "z": 1.2
+        }
+    },
+    "name": "鸽子NPC",
+    "description": "null",
+    "kinds": "null",
+    "author": "jaeezhou",
+    "version": "null",
+    "source": "npc_base_data@300026",
+    "LuaID": 300026,
+    "SuiteDir": "suite26",
+    "UE5": {
+        "AudioLoop": {
+            "Type": "String",
+            "Value": "Play_Scn_Itm_Dove_Hurt"
+        },
+        "AudioDuration": {
+            "Type": "Float",
+            "Value": 8.0
+        },
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": false
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "30A417284EA8B0E1E6CE82A8E2CEC7BB"
+        },
+        "UE5Comps": {
+            "CharMoveComp": {
+                "DefaultLandMovementMode": {
+                    "Type": "Enum@MovementMode",
+                    "Value": "MOVE_NONE@0"
+                },
+                "DefaultWaterMovementMode": {
+                    "Type": "Enum@MovementMode",
+                    "Value": "MOVE_NONE@0"
+                }
+            },
+            "CharacterMesh0": {
+                "AnimationData": {
+                    "Type": "StructBase@SingleAnimationPlayData",
+                    "Value": "(AnimToPlay=\"/Script/Engine.AnimSequence'/Game/Character/NPC/Animal/SK_Animal_Dove/Animation/SK_Animal_Dove_P_Stand.SK_Animal_Dove_P_Stand'\",bSavedLooping=True,bSavedPlaying=True,SavedPosition=0.000000,SavedPlayRate=1.000000)"
+                }
+            },
+            "CollisionCylinder": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 150920.0305,
+                        "y": 131940.391,
+                        "z": 19055.8357
+                    }
+                }
+            }
+        },
+        "SplineNodeLocation": {
+            "Type": "SplineNodeLocation",
+            "Value": [
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 3.877,
+                        "y": -1.2105,
+                        "z": -0.2899
+                    }
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "id": "6",
+    "transform": {
+        "translation": {
+            "x": 124890.7148,
+            "y": 104110.6859,
+            "z": 20812.0004
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.9823,
+            "w": 0.1875
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "法恩农民青年男03",
+    "description": "null",
+    "kinds": "null",
+    "author": "aiaswu",
+    "version": "null",
+    "source": "npc_base_data@300029",
+    "LuaID": 300029,
+    "SuiteDir": "suite57",
+    "UE5": {
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "B9391A6A421DF86D70C48F978B97AF30"
+        },
+        "UE5Comps": {
+            "CollisionCylinder": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 124890.7148,
+                        "y": 104110.6859,
+                        "z": 20812.0004
+                    }
+                },
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=0.000000,Yaw=158.385856,Roll=0.000000)"
+                }
+            }
+        }
+    }
+}

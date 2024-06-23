@@ -1,0 +1,50 @@
+{
+    "id": "1",
+    "transform": {
+        "translation": {
+            "x": -1895.8273,
+            "y": 11492.232,
+            "z": 0.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "新手指引Trap",
+    "description": "null",
+    "kinds": "null",
+    "author": "xaelpeng",
+    "version": "null",
+    "source": "puzzle_initial_data@530004",
+    "LuaID": 530004,
+    "UE5": {
+        "ControlKey": {
+            "Type": "Object",
+            "Value": "/Game/Blueprints/Input/Default/InteractAction.InteractAction"
+        },
+        "ControllDescriptionID": {
+            "Type": "Int",
+            "Value": 1
+        },
+        "DisplayRange": {
+            "Type": "Int",
+            "Value": 200
+        },
+        "UE5Comps": {
+            "RootSphere": {
+                "SphereRadius": {
+                    "Type": "Float",
+                    "Value": 200.0
+                }
+            }
+        }
+    }
+}

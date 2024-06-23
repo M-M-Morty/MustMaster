@@ -1,0 +1,57 @@
+{
+    "id": "160",
+    "transform": {
+        "translation": {
+            "x": 157481.6406,
+            "y": 126823.7208,
+            "z": 20613.0595
+        },
+        "rotation": {
+            "x": -0.02,
+            "y": -0.1386,
+            "z": -0.6902,
+            "w": 0.71
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "晴葵",
+    "description": "null",
+    "kinds": "null",
+    "author": "halfsumluo",
+    "version": "null",
+    "source": "puzzle_initial_data@52005",
+    "LuaID": 52005,
+    "SuiteDir": "suite58",
+    "UE5": {
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "7CCA2F4441CE3CFC35C7939BDC47BAC0"
+        },
+        "UE5Comps": {
+            "BillboardComponent": {
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=9.740695,Yaw=-90.518168,Roll=12.880493)"
+                }
+            },
+            "RootSphere": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 157481.6406,
+                        "y": 126823.7208,
+                        "z": 20613.0595
+                    }
+                }
+            }
+        }
+    }
+}

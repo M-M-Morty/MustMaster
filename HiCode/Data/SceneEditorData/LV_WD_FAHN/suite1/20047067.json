@@ -1,0 +1,47 @@
+{
+    "id": "67",
+    "transform": {
+        "translation": {
+            "x": 164489.9499,
+            "y": 101229.4274,
+            "z": 17429.1102
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "多功能电视",
+    "description": "null",
+    "kinds": "null",
+    "author": "kyainzhang",
+    "version": "null",
+    "source": "puzzle_initial_data@20047",
+    "LuaID": 20047,
+    "SuiteDir": "suite1",
+    "UE5": {
+        "UnderGround": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "UE5Comps": {
+            "RootSphere": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 164489.9499,
+                        "y": 101229.4274,
+                        "z": 17429.1102
+                    }
+                }
+            }
+        }
+    }
+}

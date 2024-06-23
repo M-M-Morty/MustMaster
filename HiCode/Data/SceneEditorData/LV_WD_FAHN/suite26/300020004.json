@@ -1,0 +1,78 @@
+{
+    "id": "4",
+    "transform": {
+        "translation": {
+            "x": 150455.3967,
+            "y": 132563.5041,
+            "z": 18925.5056
+        },
+        "rotation": {
+            "x": 0.0039,
+            "y": 0.0065,
+            "z": 0.8572,
+            "w": 0.5149
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "巴比伦男居民npc",
+    "description": "null",
+    "kinds": "null",
+    "author": "jaeezhou",
+    "version": "null",
+    "source": "npc_base_data@300020",
+    "LuaID": 300020,
+    "SuiteDir": "suite26",
+    "UE5": {
+        "InteractDistance": {
+            "Type": "Int",
+            "Value": 2
+        },
+        "DisplayName": {
+            "Type": "String",
+            "Value": "音乐家"
+        },
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": false
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "7CF83D214CEA4D2DF7E9C2815845F9C8"
+        },
+        "UE5Comps": {
+            "CollisionCylinder": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 150455.3967,
+                        "y": 132563.5041,
+                        "z": 18925.5056
+                    }
+                }
+            },
+            "DialogueComponent": {
+                "DefaultInteractList": {
+                    "Type": "Array",
+                    "Value": [
+                        {
+                            "Type": "Int",
+                            "Value": 400030
+                        },
+                        {
+                            "Type": "Int",
+                            "Value": 11005
+                        }
+                    ]
+                },
+                "DefaultDialogueId": {
+                    "Type": "Int",
+                    "Value": 4000129
+                }
+            }
+        }
+    }
+}

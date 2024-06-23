@@ -1,0 +1,42 @@
+{
+    "id": "11",
+    "transform": {
+        "translation": {
+            "x": -7350.6511,
+            "y": -1051.2421,
+            "z": 99.505
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "女农民",
+    "description": "null",
+    "kinds": "null",
+    "author": "seekerma",
+    "version": "null",
+    "source": "npc_base_data@300001",
+    "LuaID": 300001,
+    "UE5": {
+        "UE5Comps": {
+            "CollisionCylinder": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -7350.6511,
+                        "y": -1051.2421,
+                        "z": 99.505
+                    }
+                }
+            }
+        }
+    }
+}

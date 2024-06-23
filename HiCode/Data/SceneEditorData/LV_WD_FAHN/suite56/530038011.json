@@ -1,0 +1,51 @@
+{
+    "id": "3",
+    "transform": {
+        "translation": {
+            "x": 121040.5453,
+            "y": 104860.186,
+            "z": 21323.3089
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.6902,
+            "w": 0.7237
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "食品加工厂-电梯-指示灯B",
+    "description": "null",
+    "kinds": "null",
+    "author": "cp_chenyijin",
+    "version": "null",
+    "source": "puzzle_initial_data@530038",
+    "LuaID": 530038,
+    "SuiteDir": "suite1",
+    "UE5": {
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "2B4E474D4968096957988FB78F6A89DE"
+        },
+        "UE5Comps": {
+            "RootSphere": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 121040.5453,
+                        "y": 104860.186,
+                        "z": 21323.3089
+                    }
+                }
+            }
+        }
+    }
+}

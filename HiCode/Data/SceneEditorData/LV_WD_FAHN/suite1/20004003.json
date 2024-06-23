@@ -1,0 +1,29 @@
+{
+    "id": "3",
+    "transform": {
+        "translation": {
+            "x": 159723.3576,
+            "y": 100665.1758,
+            "z": 19024.4009
+        },
+        "rotation": {
+            "x": 0.0047,
+            "y": 0.0047,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "真视柱_逻辑",
+    "description": "null",
+    "kinds": "null",
+    "author": "xiaoxiaopi",
+    "version": "null",
+    "sourcepath": "LV_WD_FAHN/suite1",
+    "source": "puzzle_initial_data@20004",
+    "UE5": {}
+}

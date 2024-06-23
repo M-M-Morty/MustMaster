@@ -1,0 +1,72 @@
+{
+    "id": "4",
+    "transform": {
+        "translation": {
+            "x": 159175.2675,
+            "y": 131758.151,
+            "z": 19102.1906
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.2795,
+            "w": 0.9601
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "女农民",
+    "description": "null",
+    "kinds": "null",
+    "author": "jaeezhou",
+    "version": "null",
+    "source": "npc_base_data@300015",
+    "LuaID": 300015,
+    "SuiteDir": "suite26",
+    "UE5": {
+        "InteractDistance": {
+            "Type": "Int",
+            "Value": 2
+        },
+        "DisplayName": {
+            "Type": "String",
+            "Value": "洛纳"
+        },
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "EditorTags": {
+            "Type": "Array",
+            "Value": [
+                {
+                    "Type": "String",
+                    "Value": "40000"
+                }
+            ]
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "552C0C104A3AEA2D2B1622A804AD9D59"
+        },
+        "UE5Comps": {
+            "CollisionCylinder": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 159175.2675,
+                        "y": 131758.151,
+                        "z": 19102.1906
+                    }
+                },
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=0.000000,Yaw=32.462194,Roll=0.000000)"
+                }
+            }
+        }
+    }
+}

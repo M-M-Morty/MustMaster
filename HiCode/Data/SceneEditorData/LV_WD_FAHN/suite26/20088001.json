@@ -1,0 +1,55 @@
+{
+    "id": "1",
+    "transform": {
+        "translation": {
+            "x": 157347.1439,
+            "y": 133915.9219,
+            "z": 18706.3198
+        },
+        "rotation": {
+            "x": 0.1157,
+            "y": -0.0432,
+            "z": -0.3468,
+            "w": 0.9298
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "钵钵鸡活动中心",
+    "description": "null",
+    "kinds": "null",
+    "author": "jaeezhou",
+    "version": "null",
+    "source": "puzzle_initial_data@20088",
+    "LuaID": 20088,
+    "SuiteDir": "suite26",
+    "UE5": {
+        "BoBoJiOverRangeMonoIndex": {
+            "Type": "Int",
+            "Value": 40000102
+        },
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "19C08801489DB75939A4C6AC12CFD614"
+        },
+        "UE5Comps": {
+            "RootSphere": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 157347.1439,
+                        "y": 133915.9219,
+                        "z": 18706.3198
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "id": "33",
+    "transform": {
+        "translation": {
+            "x": 160941.4456,
+            "y": 120290.9165,
+            "z": 20572.6998
+        },
+        "rotation": {
+            "x": 0.0491,
+            "y": -0.1548,
+            "z": -0.9405,
+            "w": 0.2984
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "基础pika",
+    "description": "null",
+    "kinds": "null",
+    "author": "halfsumluo",
+    "version": "null",
+    "source": "puzzle_initial_data@41002",
+    "LuaID": 41002,
+    "SuiteDir": "suite60",
+    "UE5": {
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": false
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "C279A6A041C0AFE982520DAADA3391CF"
+        },
+        "UE5Comps": {
+            "CollisionCylinder": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 160941.4456,
+                        "y": 120290.9165,
+                        "z": 20572.6998
+                    }
+                }
+            }
+        }
+    }
+}

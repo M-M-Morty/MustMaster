@@ -1,0 +1,57 @@
+{
+    "id": "127",
+    "transform": {
+        "translation": {
+            "x": 149002.696,
+            "y": 144250.4295,
+            "z": 19152.4027
+        },
+        "rotation": {
+            "x": 0.0065,
+            "y": 0.0458,
+            "z": 0.9891,
+            "w": 0.1401
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "晴葵",
+    "description": "null",
+    "kinds": "null",
+    "author": "junwenyuan",
+    "version": "null",
+    "source": "puzzle_initial_data@52005",
+    "LuaID": 52005,
+    "SuiteDir": "suite53",
+    "UE5": {
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "A2989B274587A565F412B29F1B1B69C5"
+        },
+        "UE5Comps": {
+            "BillboardComponent": {
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=-1.472047,Yaw=16.058444,Roll=5.094683)"
+                }
+            },
+            "RootSphere": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 149002.696,
+                        "y": 144250.4295,
+                        "z": 19152.4027
+                    }
+                }
+            }
+        }
+    }
+}

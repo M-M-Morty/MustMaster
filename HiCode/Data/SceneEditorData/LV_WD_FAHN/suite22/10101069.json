@@ -1,0 +1,142 @@
+{
+    "id": "69",
+    "transform": {
+        "translation": {
+            "x": 173383.6978,
+            "y": 101446.1042,
+            "z": 19822.3212
+        },
+        "rotation": {
+            "x": 0.0738,
+            "y": -0.0237,
+            "z": -0.3044,
+            "w": 0.9494
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "路点-Spline",
+    "description": "null",
+    "kinds": "null",
+    "author": "JINXL",
+    "version": "null",
+    "source": "puzzle_initial_data@10101",
+    "LuaID": 10101,
+    "UE5": {
+        "bSnapToFloor": {
+            "Type": "Boolean",
+            "Value": false
+        },
+        "eNPCMoveType": {
+            "Type": "Enum@E_NPCMoveType",
+            "Value": "TRIGGER_BY_MISSION@5"
+        },
+        "bMoveViaSpline": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "UE5Comps": {
+            "EndPoint": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -2637.6624,
+                        "y": -45.3259,
+                        "z": -617.5246
+                    }
+                }
+            },
+            "StartPoint": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -1226.358,
+                        "y": 7.4222,
+                        "z": -1507.6943
+                    }
+                }
+            }
+        },
+        "SplineNodeLocation": {
+            "Type": "SplineNodeLocation",
+            "Value": [
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -1226.358,
+                        "y": 7.4222,
+                        "z": -1527.6943
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -1014.4249,
+                        "y": 4.8584,
+                        "z": -1576.106
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -737.8884,
+                        "y": 60.1669,
+                        "z": -1624.1512
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -1272.7471,
+                        "y": -192.7642,
+                        "z": -829.852
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -1365.2847,
+                        "y": -165.9758,
+                        "z": -586.8891
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -2362.7409,
+                        "y": 62.6532,
+                        "z": -618.1204
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -3116.5419,
+                        "y": -281.5898,
+                        "z": -600.5296
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -2855.2252,
+                        "y": -184.7113,
+                        "z": -615.7039
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -2637.6624,
+                        "y": -45.3259,
+                        "z": -637.5246
+                    }
+                }
+            ]
+        }
+    },
+    "SuiteDir": "suite22"
+}

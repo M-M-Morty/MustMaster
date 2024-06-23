@@ -1,0 +1,37 @@
+{
+    "nodes": {
+        "FlowGraphNode_Start_0": {
+            "NodeGuid": "5E6A815B4A184219FD5706B221FC97D3",
+            "Class": "/Script/Flow.FlowNode_Start",
+            "NextGuids": [
+                "DD3FE9C44875BBB095A013B58D6B6B16"
+            ]
+        },
+        "FlowGraphNode_0": {
+            "NodeGuid": "DD3FE9C44875BBB095A013B58D6B6B16",
+            "Class": "/Game/Blueprints/Mission/MissionNode/BP_MissionNode_CheckMissionStartCondition.BP_MissionNode_CheckMissionStartCondition_C",
+            "NextGuids": [
+                "2B0A72974DED8717CA38F5A9F57DA6FF"
+            ]
+        },
+        "FlowGraphNode_2": {
+            "NodeGuid": "2B0A72974DED8717CA38F5A9F57DA6FF",
+            "Class": "/Game/Blueprints/Mission/MissionNode/BP_MissionNode_LoadMutableActor.BP_MissionNode_LoadMutableActor_C",
+            "NextGuids": [
+                "5C5E96A04BCDD14373D031B195F1B288"
+            ]
+        },
+        "FlowGraphNode_4": {
+            "NodeGuid": "5C5E96A04BCDD14373D031B195F1B288",
+            "Class": "/Game/Blueprints/Mission/MissionNode/BP_MissionNode_Collectible.BP_MissionNode_Collectible_C",
+            "NextGuids": [
+                "D8B0F133477A82C93FB7508604E62BB1"
+            ]
+        },
+        "FlowGraphNode_6": {
+            "NodeGuid": "D8B0F133477A82C93FB7508604E62BB1",
+            "Class": "/Game/Blueprints/Mission/MissionNode/BP_Finish.BP_Finish_C",
+            "NextGuids": null
+        }
+    }
+}

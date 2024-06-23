@@ -1,0 +1,29 @@
+{
+    "id": "1",
+    "transform": {
+        "translation": {
+            "x": 165966.184,
+            "y": 125588.1888,
+            "z": 20222.4311
+        },
+        "rotation": {
+            "x": 0.2108,
+            "y": 0.0102,
+            "z": 0.047,
+            "w": 0.9763
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "信仰沙钟",
+    "description": "null",
+    "kinds": "null",
+    "author": "tiezhengwu",
+    "version": "null",
+    "source": "puzzle_initial_data@20014",
+    "LuaID": 20014,
+    "UE5": {}
+}

@@ -1,0 +1,78 @@
+{
+    "id": "8",
+    "transform": {
+        "translation": {
+            "x": -2531.5821,
+            "y": 24598.0809,
+            "z": 3889.2605
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "蔷薇领-小气球",
+    "description": "null",
+    "kinds": "null",
+    "author": "johnyou",
+    "version": "null",
+    "source": "puzzle_initial_data@20091",
+    "LuaID": 20091,
+    "SuiteDir": "suite7",
+    "UE5": {
+        "bActive": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "PlayAnimSeqInfo": {
+            "Type": "Map",
+            "Value": {
+                "Main_SkeletalMesh": {
+                    "KeyType": "String",
+                    "Value": {
+                        "Type": "Int",
+                        "Value": 1
+                    }
+                },
+                "Dog": {
+                    "KeyType": "String",
+                    "Value": {
+                        "Type": "Int",
+                        "Value": 1
+                    }
+                }
+            }
+        },
+        "ShowActorClass": {
+            "Type": "Object",
+            "Value": "/Game/Blueprints/Utils/ShowActor/BP_ShowActor_Girl_Dog.BP_ShowActor_Girl_Dog_C"
+        },
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "1AE7D7AA478A2BD978BBB282C79E6170"
+        },
+        "UE5Comps": {
+            "RootSphere": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -2531.5821,
+                        "y": 24598.0809,
+                        "z": 3889.2605
+                    }
+                }
+            }
+        }
+    }
+}

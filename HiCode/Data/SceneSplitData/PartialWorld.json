@@ -1,0 +1,25 @@
+{
+    "RegionList": [
+        {
+            "RegionID": 1,
+            "MinX": -25600,
+            "MaxX": 0,
+            "MinY": -25600,
+            "MaxY": 25600
+        },
+        {
+            "RegionID": 2,
+            "MinX": 0,
+            "MaxX": 25600,
+            "MinY": 0,
+            "MaxY": 25600
+        },
+        {
+            "RegionID": 3,
+            "MinX": 0,
+            "MaxX": 25600,
+            "MinY": -25600,
+            "MaxY": 0
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "id": "3",
+    "transform": {
+        "translation": {
+            "x": 152181.589,
+            "y": 132182.9921,
+            "z": 18815.9926
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.8463,
+            "w": 0.5327
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "植物_葡萄1",
+    "description": "null",
+    "kinds": "null",
+    "author": "jaeezhou",
+    "version": "null",
+    "source": "puzzle_initial_data@530023",
+    "LuaID": 530023,
+    "SuiteDir": "suite26",
+    "UE5": {
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "13DC1F6C4DCC9E9C6B610B9938A958DB"
+        },
+        "UE5Comps": {
+            "RootSphere": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 152181.589,
+                        "y": 132182.9921,
+                        "z": 18815.9926
+                    }
+                },
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=0.000000,Yaw=115.629531,Roll=0.000000)"
+                }
+            }
+        }
+    }
+}

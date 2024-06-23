@@ -1,0 +1,59 @@
+{
+    "id": "4",
+    "transform": {
+        "translation": {
+            "x": 420.277,
+            "y": 3506.3544,
+            "z": 84.5001
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "空NPC",
+    "description": "null",
+    "kinds": "null",
+    "author": "jaeezhou",
+    "version": "null",
+    "source": "npc_base_data@300027",
+    "LuaID": 300027,
+    "SuiteDir": "suite1",
+    "UE5": {
+        "AudioLoop": {
+            "Type": "String",
+            "Value": "Play_Scn_Itm_PipeOrgan_8am"
+        },
+        "AudioDuration": {
+            "Type": "Float",
+            "Value": 50.0
+        },
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "7A3BD19D44FCE30C5EF655AFACFD081C"
+        },
+        "UE5Comps": {
+            "CollisionCylinder": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 420.277,
+                        "y": 3506.3544,
+                        "z": 84.5001
+                    }
+                }
+            }
+        }
+    }
+}

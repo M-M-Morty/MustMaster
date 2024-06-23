@@ -1,0 +1,63 @@
+{
+    "id": "7",
+    "transform": {
+        "translation": {
+            "x": 166037.9095,
+            "y": 101752.032,
+            "z": 17120.1754
+        },
+        "rotation": {
+            "x": -0.0085,
+            "y": 0.0054,
+            "z": -0.7387,
+            "w": 0.674
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "马杜克激光炮",
+    "description": "null",
+    "kinds": "null",
+    "author": "tiezhengwu",
+    "version": "null",
+    "source": "puzzle_initial_data@20052",
+    "LuaID": 20052,
+    "SuiteDir": "suite30",
+    "UE5": {
+        "sUIPick": {
+            "Type": "String",
+            "Value": "启动"
+        },
+        "UE5Comps": {
+            "BillboardComponent": {
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=-1.136594,Yaw=-84.757484,Roll=0.199420)"
+                }
+            },
+            "RootSphere": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 166037.9095,
+                        "y": 101752.032,
+                        "z": 17120.1754
+                    }
+                }
+            },
+            "Sphere": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 11.4185,
+                        "y": -35.1208,
+                        "z": -0.743
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "id": "1",
+    "transform": {
+        "translation": {
+            "x": 150938.2516,
+            "y": 131872.0949,
+            "z": 19033.7796
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.9566,
+            "w": 0.2915
+        },
+        "scale3D": {
+            "x": 1.2,
+            "y": 1.2,
+            "z": 1.2
+        }
+    },
+    "name": "魔女提灯",
+    "description": "null",
+    "kinds": "null",
+    "author": "jaeezhou",
+    "version": "null",
+    "source": "puzzle_initial_data@20079",
+    "LuaID": 20079,
+    "SuiteDir": "suite26",
+    "UE5": {
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": false
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "8E68CE5744AE1FEB755CD3982AB7EAF1"
+        },
+        "UE5Comps": {
+            "RootSphere": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 150938.2516,
+                        "y": 131872.0949,
+                        "z": 19033.7796
+                    }
+                },
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=0.000000,Yaw=146.105414,Roll=0.000000)"
+                }
+            }
+        }
+    }
+}

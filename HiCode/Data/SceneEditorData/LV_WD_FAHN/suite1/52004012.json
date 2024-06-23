@@ -1,0 +1,29 @@
+{
+    "id": "12",
+    "transform": {
+        "translation": {
+            "x": 93652.2869,
+            "y": 173521.0622,
+            "z": 20003.2616
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "常春花",
+    "description": "null",
+    "kinds": "null",
+    "author": "tiezhengwu",
+    "version": "null",
+    "source": "puzzle_initial_data@52004",
+    "LuaID": 52004,
+    "UE5": {}
+}

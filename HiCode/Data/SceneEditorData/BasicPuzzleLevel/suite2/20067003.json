@@ -1,0 +1,43 @@
+{
+    "id": "3",
+    "transform": {
+        "translation": {
+            "x": -531.0288,
+            "y": 4448.9556,
+            "z": 938.8997
+        },
+        "rotation": {
+            "x": 0.5,
+            "y": 0.5,
+            "z": 0.5,
+            "w": 0.5
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "【Demo】面包炸弹",
+    "description": "null",
+    "kinds": "null",
+    "author": "",
+    "version": "null",
+    "source": "puzzle_initial_data@20067",
+    "LuaID": 20067,
+    "SuiteDir": "suite2",
+    "UE5": {
+        "UE5Comps": {
+            "RootSphere": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -531.0288,
+                        "y": 4448.9556,
+                        "z": 938.8997
+                    }
+                }
+            }
+        }
+    }
+}

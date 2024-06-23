@@ -1,0 +1,104 @@
+{
+    "id": "4",
+    "transform": {
+        "translation": {
+            "x": 92298.2089,
+            "y": 175669.8172,
+            "z": 20003.2617
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071,
+            "w": 0.7071
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "奥兹谷电视柱-电视",
+    "description": "null",
+    "kinds": "null",
+    "author": "tiezhengwu",
+    "version": "null",
+    "source": "puzzle_initial_data@20035",
+    "LuaID": 20035,
+    "UE5": {
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "19F8F8224E2F6C96D3453BB73CD1AD9E"
+        },
+        "UE5Comps": {
+            "RootSphere": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 92298.2089,
+                        "y": 175669.8172,
+                        "z": 20003.2617
+                    }
+                }
+            }
+        },
+        "SplineNodeLocation": {
+            "Type": "SplineNodeLocation",
+            "Value": [
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -35.9956,
+                        "y": 10.441,
+                        "z": 9.1569
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -32.5309,
+                        "y": 10.441,
+                        "z": 14.0435
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -34.0774,
+                        "y": 10.441,
+                        "z": 31.7343
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -55.9492,
+                        "y": 10.441,
+                        "z": 36.1518
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -61.1331,
+                        "y": 10.441,
+                        "z": 13.4843
+                    }
+                },
+                {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": -35.9096,
+                        "y": 10.441,
+                        "z": 9.1126
+                    }
+                }
+            ]
+        }
+    },
+    "SuiteDir": "suite1"
+}

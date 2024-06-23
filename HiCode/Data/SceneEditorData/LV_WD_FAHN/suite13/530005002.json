@@ -1,0 +1,30 @@
+{
+    "id": "2",
+    "transform": {
+        "translation": {
+            "x": 166879.8536,
+            "y": 109798.6384,
+            "z": 20123.6802
+        },
+        "rotation": {
+            "x": 0.028,
+            "y": 0.0398,
+            "z": -0.521,
+            "w": 0.8522
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "可破碎物-木板（mdk）",
+    "description": "null",
+    "kinds": "null",
+    "author": "tiezhengwu",
+    "version": "null",
+    "source": "puzzle_initial_data@530005",
+    "LuaID": 530005,
+    "SuiteDir": "suite13",
+    "UE5": {}
+}

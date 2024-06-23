@@ -1,0 +1,55 @@
+{
+    "id": "1",
+    "transform": {
+        "translation": {
+            "x": 169740.0,
+            "y": 104570.0,
+            "z": 18450.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0,
+            "w": 0.0
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "受伤的NPC",
+    "description": "null",
+    "kinds": "null",
+    "author": "jaeezhou",
+    "version": "null",
+    "source": "npc_base_data@300016",
+    "LuaID": 300016,
+    "SuiteDir": "suite25",
+    "UE5": {
+        "InteractDistance": {
+            "Type": "Int",
+            "Value": 2
+        },
+        "DisplayName": {
+            "Type": "String",
+            "Value": "被围困的人"
+        },
+        "UE5Comps": {
+            "CollisionCylinder": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 169740.0,
+                        "y": 104570.0,
+                        "z": 18450.0
+                    }
+                },
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=0.000000,Yaw=179.999999,Roll=0.000000)"
+                }
+            }
+        }
+    }
+}

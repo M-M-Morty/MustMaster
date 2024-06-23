@@ -1,0 +1,93 @@
+{
+    "id": "1",
+    "transform": {
+        "translation": {
+            "x": 151885.4658,
+            "y": 143517.655,
+            "z": 19216.516
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.8632,
+            "w": 0.5048
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "半边身子的稻草人",
+    "description": "null",
+    "kinds": "null",
+    "author": "jaeezhou",
+    "version": "null",
+    "source": "npc_base_data@300025",
+    "LuaID": 300025,
+    "SuiteDir": "suite1",
+    "UE5": {
+        "DisplayName": {
+            "Type": "String",
+            "Value": "稻草人？"
+        },
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "EditorTags": {
+            "Type": "Array",
+            "Value": [
+                {
+                    "Type": "String",
+                    "Value": "40000"
+                }
+            ]
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "F9035D094A651354D9179AAA875A8CEF"
+        },
+        "UE5Comps": {
+            "CharacterMesh0": {
+                "AnimationData": {
+                    "Type": "StructBase@SingleAnimationPlayData",
+                    "Value": "(AnimToPlay=\"/Script/Engine.AnimSequence'/Game/Character/NPC/Special/SK_Monster_MangQi_Body/Animation/SK_Monster_MangQi_P_Idle.SK_Monster_MangQi_P_Idle'\",bSavedLooping=True,bSavedPlaying=True,SavedPosition=0.000000,SavedPlayRate=1.000000)"
+                },
+                "AnimationMode": {
+                    "Type": "Enum@AnimationMode",
+                    "Value": "ANIMATION_SINGLE_NODE@1"
+                }
+            },
+            "CollisionCylinder": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 151885.4658,
+                        "y": 143517.655,
+                        "z": 19216.516
+                    }
+                },
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=0.000000,Yaw=-119.361745,Roll=-0.000000)"
+                }
+            },
+            "DialogueComponent": {
+                "DefaultInteractList": {
+                    "Type": "Array",
+                    "Value": [
+                        {
+                            "Type": "Int",
+                            "Value": 11005
+                        }
+                    ]
+                },
+                "DefaultDialogueId": {
+                    "Type": "Int",
+                    "Value": 4000078
+                }
+            }
+        }
+    }
+}

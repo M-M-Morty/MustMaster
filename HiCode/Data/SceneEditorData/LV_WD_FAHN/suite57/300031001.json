@@ -1,0 +1,55 @@
+{
+    "id": "1",
+    "transform": {
+        "translation": {
+            "x": 124470.7868,
+            "y": 104127.923,
+            "z": 20859.984
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.2025,
+            "w": 0.9793
+        },
+        "scale3D": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "name": "法恩山顶小镇女青年03",
+    "description": "null",
+    "kinds": "null",
+    "author": "aiaswu",
+    "version": "null",
+    "source": "npc_base_data@300031",
+    "LuaID": 300031,
+    "SuiteDir": "suite57",
+    "UE5": {
+        "AutoSpawn": {
+            "Type": "Boolean",
+            "Value": true
+        },
+        "ActorGuid": {
+            "Type": "String",
+            "Value": "353262984638C82B7E1336B3488F681E"
+        },
+        "UE5Comps": {
+            "CollisionCylinder": {
+                "RelativeLocation": {
+                    "Type": "Vector",
+                    "Value": {
+                        "x": 124470.7868,
+                        "y": 104127.923,
+                        "z": 20859.984
+                    }
+                },
+                "RelativeRotation": {
+                    "Type": "StructBase@Rotator",
+                    "Value": "(Pitch=0.000000,Yaw=23.362073,Roll=0.000000)"
+                }
+            }
+        }
+    }
+}
